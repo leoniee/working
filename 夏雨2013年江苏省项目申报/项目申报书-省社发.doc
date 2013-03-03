@@ -1,0 +1,1830 @@
+
+
+
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=gbk">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 11">
+<meta name=Originator content="Microsoft Word 11">
+<title>项目申报书</title>
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>JonMMx 2000</o:Author>
+  <o:LastAuthor>CYP</o:LastAuthor>
+  <o:Revision>3</o:Revision>
+  <o:TotalTime>11</o:TotalTime>
+  <o:LastPrinted>2003-01-28T01:52:00Z</o:LastPrinted>
+  <o:Created>2007-12-06T08:13:00Z</o:Created>
+  <o:LastSaved>2007-12-06T08:13:00Z</o:LastSaved>
+  <o:Pages>10</o:Pages>
+  <o:Words>381</o:Words>
+  <o:Characters>2173</o:Characters>
+  <o:Company>jsstc</o:Company>
+  <o:Lines>18</o:Lines>
+  <o:Paragraphs>5</o:Paragraphs>
+  <o:CharactersWithSpaces>2549</o:CharactersWithSpaces>
+  <o:Version>11.5606</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+
+  <w:View>Print</w:View>
+  <w:SpellingState>Clean</w:SpellingState>
+  <w:GrammarState>Clean</w:GrammarState>  
+  
+
+  <w:PunctuationKerning/>
+  <w:DrawingGridHorizontalSpacing>5.25 磅</w:DrawingGridHorizontalSpacing>
+  <w:DrawingGridVerticalSpacing>7.25 磅</w:DrawingGridVerticalSpacing>
+  <w:DisplayHorizontalDrawingGridEvery>0</w:DisplayHorizontalDrawingGridEvery>
+  <w:DisplayVerticalDrawingGridEvery>2</w:DisplayVerticalDrawingGridEvery>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:Compatibility>
+   <w:SpaceForUL/>
+   <w:BalanceSingleByteDoubleByteWidth/>
+   <w:DoNotLeaveBackslashAlone/>
+   <w:ULTrailSpace/>
+   <w:DoNotExpandShiftReturn/>
+   <w:FootnoteLayoutLikeWW8/>
+   <w:ShapeLayoutLikeWW8/>
+   <w:AlignTablesRowByRow/>
+   <w:ForgetLastTabAlignment/>
+   <w:LayoutRawTableWidth/>
+   <w:LayoutTableRowsApart/>
+   <w:UseWord97LineBreakingRules/>
+   <w:SelectEntireFieldWithStartOrEnd/>
+   <w:UseWord2002TableStyleRules/>
+   <w:UseFELayout/>
+  </w:Compatibility>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+ </w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" LatentStyleCount="156">
+ </w:LatentStyles>
+</xml><![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:宋体;
+	panose-1:2 1 6 0 3 1 1 1 1 1;
+	mso-font-alt:SimSun;
+	mso-font-charset:134;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:3 135135232 16 0 262145 0;}
+@font-face
+	{font-family:黑体;
+	panose-1:2 1 6 0 3 1 1 1 1 1;
+	mso-font-alt:SimHei;
+	mso-font-charset:134;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:1 135135232 16 0 262144 0;}
+@font-face
+	{font-family:仿宋_GB2312;
+	panose-1:2 1 6 9 3 1 1 1 1 1;
+	mso-font-charset:134;
+	mso-generic-font-family:modern;
+	mso-font-pitch:fixed;
+	mso-font-signature:1 135135232 16 0 262144 0;}
+@font-face
+	{font-family:楷体_GB2312;
+	panose-1:2 1 6 9 3 1 1 1 1 1;
+	mso-font-charset:134;
+	mso-generic-font-family:modern;
+	mso-font-pitch:fixed;
+	mso-font-signature:1 135135232 16 0 262144 0;}
+@font-face
+	{font-family:"Monotype Sorts";
+	mso-font-alt:Symbol;
+	mso-font-charset:2;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:0 268435456 0 0 -2147483648 0;}
+@font-face
+	{font-family:"\@宋体";
+	panose-1:2 1 6 0 3 1 1 1 1 1;
+	mso-font-charset:134;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:3 135135232 16 0 262145 0;}
+@font-face
+	{font-family:"\@黑体";
+	panose-1:2 1 6 0 3 1 1 1 1 1;
+	mso-font-charset:134;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:1 135135232 16 0 262144 0;}
+@font-face
+	{font-family:"\@楷体_GB2312";
+	panose-1:2 1 6 9 3 1 1 1 1 1;
+	mso-font-charset:134;
+	mso-generic-font-family:modern;
+	mso-font-pitch:fixed;
+	mso-font-signature:1 135135232 16 0 262144 0;}
+@font-face
+	{font-family:"\@仿宋_GB2312";
+	panose-1:2 1 6 9 3 1 1 1 1 1;
+	mso-font-charset:134;
+	mso-generic-font-family:modern;
+	mso-font-pitch:fixed;
+	mso-font-signature:1 135135232 16 0 262144 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	mso-pagination:none;
+	font-size:10.5pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:宋体;
+	mso-font-kerning:1.0pt;}
+p.MsoHeader, li.MsoHeader, div.MsoHeader
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:center;
+	mso-pagination:none;
+	tab-stops:center 207.65pt right 415.3pt;
+	layout-grid-mode:char;
+	border:none;
+	mso-border-bottom-alt:solid windowtext .75pt;
+	padding:0cm;
+	mso-padding-alt:0cm 0cm 1.0pt 0cm;
+	font-size:9.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:宋体;
+	mso-font-kerning:1.0pt;}
+p.MsoFooter, li.MsoFooter, div.MsoFooter
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	mso-pagination:none;
+	tab-stops:center 207.65pt right 415.3pt;
+	layout-grid-mode:char;
+	font-size:9.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:宋体;
+	mso-font-kerning:1.0pt;}
+p.MsoBodyText, li.MsoBodyText, div.MsoBodyText
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	mso-pagination:none;
+	font-size:14.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:仿宋_GB2312;
+	mso-hansi-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";
+	mso-font-kerning:1.0pt;
+	font-weight:bold;
+	mso-bidi-font-weight:normal;}
+ /* Page Definitions */
+ @page
+	{mso-page-border-surround-header:no;
+	mso-page-border-surround-footer:no;}
+@page Section1
+	{size:21.0cm 842.0pt;
+	margin:72.0pt 89.85pt 72.0pt 89.85pt;
+	mso-header-margin:42.55pt;
+	mso-footer-margin:49.6pt;
+	
+
+	
+	
+mso-header:url("http://210.73.128.94/XMSB/SysPrint/PrintTitle.htm") h1;
+
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+@page Section2
+	{size:842.0pt 21.0cm;
+	mso-page-orientation:landscape;
+	margin:89.85pt 72.0pt 89.85pt 72.0pt;
+	mso-header-margin:42.55pt;
+	mso-footer-margin:49.6pt;
+	
+mso-header:url("http://210.73.128.94/XMSB/SysPrint/PrintTitle.htm") h1;
+
+	mso-paper-source:0;}
+div.Section2
+	{page:Section2;}
+@page Section3
+	{size:21.0cm 842.0pt;
+	margin:72.0pt 89.85pt 72.0pt 89.85pt;
+	mso-header-margin:42.55pt;
+	mso-footer-margin:49.6pt;
+	
+mso-header:url("http://210.73.128.94/XMSB/SysPrint/PrintTitle.htm") h1;
+
+	mso-paper-source:0;}
+div.Section3
+	{page:Section3;}
+ /* List Definitions */
+ @list l0
+	{mso-list-id:204740;
+	mso-list-type:simple;
+	mso-list-template-ids:-1481365112;}
+@list l0:level1
+	{mso-level-text:%1、;
+	mso-level-tab-stop:24.0pt;
+	mso-level-number-position:left;
+	margin-left:24.0pt;
+	text-indent:-24.0pt;}
+@list l1
+	{mso-list-id:88241662;
+	mso-list-type:simple;
+	mso-list-template-ids:-926643370;}
+@list l1:level1
+	{mso-level-number-format:japanese-counting;
+	mso-level-text:第%1条;
+	mso-level-tab-stop:86.25pt;
+	mso-level-number-position:left;
+	margin-left:86.25pt;
+	text-indent:-54.0pt;}
+@list l2
+	{mso-list-id:93210360;
+	mso-list-type:simple;
+	mso-list-template-ids:-671557242;}
+@list l2:level1
+	{mso-level-start-at:10;
+	mso-level-number-format:japanese-counting;
+	mso-level-text:%1、;
+	mso-level-tab-stop:36.0pt;
+	mso-level-number-position:left;
+	text-indent:-36.0pt;}
+@list l3
+	{mso-list-id:162018693;
+	mso-list-type:simple;
+	mso-list-template-ids:-1134012298;}
+@list l3:level1
+	{mso-level-text:%1、;
+	mso-level-tab-stop:68.25pt;
+	mso-level-number-position:left;
+	margin-left:68.25pt;
+	text-indent:-36.0pt;}
+@list l4
+	{mso-list-id:170880209;
+	mso-list-type:simple;
+	mso-list-template-ids:-1499551460;}
+@list l4:level1
+	{mso-level-number-format:japanese-counting;
+	mso-level-text:%1、;
+	mso-level-tab-stop:32.25pt;
+	mso-level-number-position:left;
+	margin-left:32.25pt;
+	text-indent:-32.25pt;}
+@list l5
+	{mso-list-id:221333872;
+	mso-list-type:simple;
+	mso-list-template-ids:17607314;}
+@list l5:level1
+	{mso-level-text:%1、;
+	mso-level-tab-stop:18.0pt;
+	mso-level-number-position:left;
+	margin-left:18.0pt;
+	text-indent:-18.0pt;}
+@list l6
+	{mso-list-id:302274800;
+	mso-list-type:simple;
+	mso-list-template-ids:-1891325540;}
+@list l6:level1
+	{mso-level-start-at:2;
+	mso-level-text:%1、;
+	mso-level-tab-stop:36.0pt;
+	mso-level-number-position:left;
+	text-indent:-36.0pt;}
+@list l7
+	{mso-list-id:362898502;
+	mso-list-type:simple;
+	mso-list-template-ids:920545212;}
+@list l7:level1
+	{mso-level-start-at:6;
+	mso-level-number-format:japanese-counting;
+	mso-level-text:%1、;
+	mso-level-tab-stop:36.0pt;
+	mso-level-number-position:left;
+	text-indent:-36.0pt;}
+@list l8
+	{mso-list-id:370107206;
+	mso-list-type:simple;
+	mso-list-template-ids:-1684646148;}
+@list l8:level1
+	{mso-level-text:%1、;
+	mso-level-tab-stop:68.25pt;
+	mso-level-number-position:left;
+	margin-left:68.25pt;
+	text-indent:-36.0pt;}
+@list l9
+	{mso-list-id:452090853;
+	mso-list-type:simple;
+	mso-list-template-ids:1914355420;}
+@list l9:level1
+	{mso-level-text:%1、;
+	mso-level-tab-stop:36.0pt;
+	mso-level-number-position:left;
+	text-indent:-36.0pt;}
+@list l10
+	{mso-list-id:492570912;
+	mso-list-type:simple;
+	mso-list-template-ids:985295542;}
+@list l10:level1
+	{mso-level-text:%1、;
+	mso-level-tab-stop:68.25pt;
+	mso-level-number-position:left;
+	margin-left:68.25pt;
+	text-indent:-36.0pt;}
+@list l11
+	{mso-list-id:546528166;
+	mso-list-type:simple;
+	mso-list-template-ids:-1963849714;}
+@list l11:level1
+	{mso-level-text:%1、;
+	mso-level-tab-stop:68.25pt;
+	mso-level-number-position:left;
+	margin-left:68.25pt;
+	text-indent:-36.0pt;}
+@list l12
+	{mso-list-id:570966614;
+	mso-list-type:simple;
+	mso-list-template-ids:664988006;}
+@list l12:level1
+	{mso-level-text:%1、;
+	mso-level-tab-stop:24.0pt;
+	mso-level-number-position:left;
+	margin-left:24.0pt;
+	text-indent:-24.0pt;}
+@list l13
+	{mso-list-id:579173750;
+	mso-list-type:simple;
+	mso-list-template-ids:-906057658;}
+@list l13:level1
+	{mso-level-start-at:3;
+	mso-level-text:%1、;
+	mso-level-tab-stop:36.0pt;
+	mso-level-number-position:left;
+	text-indent:-36.0pt;}
+@list l14
+	{mso-list-id:591472689;
+	mso-list-type:simple;
+	mso-list-template-ids:1131216068;}
+@list l14:level1
+	{mso-level-start-at:10;
+	mso-level-number-format:japanese-counting;
+	mso-level-text:%1、;
+	mso-level-tab-stop:36.0pt;
+	mso-level-number-position:left;
+	text-indent:-36.0pt;}
+@list l15
+	{mso-list-id:604112910;
+	mso-list-type:simple;
+	mso-list-template-ids:1287172022;}
+@list l15:level1
+	{mso-level-text:%1、;
+	mso-level-tab-stop:36.0pt;
+	mso-level-number-position:left;
+	text-indent:-36.0pt;}
+@list l16
+	{mso-list-id:611058031;
+	mso-list-type:simple;
+	mso-list-template-ids:1644329458;}
+@list l16:level1
+	{mso-level-text:%1、;
+	mso-level-tab-stop:68.25pt;
+	mso-level-number-position:left;
+	margin-left:68.25pt;
+	text-indent:-36.0pt;}
+@list l17
+	{mso-list-id:781724144;
+	mso-list-type:simple;
+	mso-list-template-ids:985295542;}
+@list l17:level1
+	{mso-level-text:%1、;
+	mso-level-tab-stop:68.25pt;
+	mso-level-number-position:left;
+	margin-left:68.25pt;
+	text-indent:-36.0pt;}
+@list l18
+	{mso-list-id:836843116;
+	mso-list-type:simple;
+	mso-list-template-ids:682402314;}
+@list l18:level1
+	{mso-level-text:%1、;
+	mso-level-tab-stop:24.75pt;
+	mso-level-number-position:left;
+	margin-left:24.75pt;
+	text-indent:-24.75pt;}
+@list l19
+	{mso-list-id:964581930;
+	mso-list-type:simple;
+	mso-list-template-ids:-1541797724;}
+@list l19:level1
+	{mso-level-text:%1、;
+	mso-level-tab-stop:24.0pt;
+	mso-level-number-position:left;
+	margin-left:24.0pt;
+	text-indent:-24.0pt;}
+@list l20
+	{mso-list-id:1058045325;
+	mso-list-type:simple;
+	mso-list-template-ids:985295542;}
+@list l20:level1
+	{mso-level-text:%1、;
+	mso-level-tab-stop:68.25pt;
+	mso-level-number-position:left;
+	margin-left:68.25pt;
+	text-indent:-36.0pt;}
+@list l21
+	{mso-list-id:1064764933;
+	mso-list-type:simple;
+	mso-list-template-ids:1256638742;}
+@list l21:level1
+	{mso-level-start-at:2;
+	mso-level-number-format:japanese-counting;
+	mso-level-text:第%1条;
+	mso-level-tab-stop:54.0pt;
+	mso-level-number-position:left;
+	margin-left:54.0pt;
+	text-indent:-54.0pt;}
+@list l22
+	{mso-list-id:1084107392;
+	mso-list-type:simple;
+	mso-list-template-ids:1799803702;}
+@list l22:level1
+	{mso-level-start-at:5;
+	mso-level-number-format:japanese-counting;
+	mso-level-text:%1、;
+	mso-level-tab-stop:36.0pt;
+	mso-level-number-position:left;
+	text-indent:-36.0pt;}
+@list l23
+	{mso-list-id:1084447896;
+	mso-list-type:simple;
+	mso-list-template-ids:985295542;}
+@list l23:level1
+	{mso-level-text:%1、;
+	mso-level-tab-stop:68.25pt;
+	mso-level-number-position:left;
+	margin-left:68.25pt;
+	text-indent:-36.0pt;}
+@list l24
+	{mso-list-id:1113672882;
+	mso-list-type:simple;
+	mso-list-template-ids:508735346;}
+@list l24:level1
+	{mso-level-start-at:6;
+	mso-level-number-format:japanese-counting;
+	mso-level-text:第%1条;
+	mso-level-tab-stop:102.0pt;
+	mso-level-number-position:left;
+	margin-left:102.0pt;
+	text-indent:-70.5pt;}
+@list l25
+	{mso-list-id:1159425512;
+	mso-list-type:simple;
+	mso-list-template-ids:1674322214;}
+@list l25:level1
+	{mso-level-text:%1、;
+	mso-level-tab-stop:24.0pt;
+	mso-level-number-position:left;
+	margin-left:24.0pt;
+	text-indent:-24.0pt;}
+@list l26
+	{mso-list-id:1316060155;
+	mso-list-type:simple;
+	mso-list-template-ids:985295542;}
+@list l26:level1
+	{mso-level-text:%1、;
+	mso-level-tab-stop:68.25pt;
+	mso-level-number-position:left;
+	margin-left:68.25pt;
+	text-indent:-36.0pt;}
+@list l27
+	{mso-list-id:1408727606;
+	mso-list-type:simple;
+	mso-list-template-ids:1517740556;}
+@list l27:level1
+	{mso-level-text:%1、;
+	mso-level-tab-stop:68.5pt;
+	mso-level-number-position:left;
+	margin-left:68.5pt;
+	text-indent:-36.0pt;}
+@list l28
+	{mso-list-id:1624462491;
+	mso-list-type:simple;
+	mso-list-template-ids:534796060;}
+@list l28:level1
+	{mso-level-text:%1、;
+	mso-level-tab-stop:68.25pt;
+	mso-level-number-position:left;
+	margin-left:68.25pt;
+	text-indent:-36.0pt;}
+@list l29
+	{mso-list-id:1703281149;
+	mso-list-type:simple;
+	mso-list-template-ids:-420942296;}
+@list l29:level1
+	{mso-level-text:%1、;
+	mso-level-tab-stop:24.0pt;
+	mso-level-number-position:left;
+	margin-left:24.0pt;
+	text-indent:-24.0pt;}
+@list l30
+	{mso-list-id:1704210929;
+	mso-list-type:simple;
+	mso-list-template-ids:1625585500;}
+@list l30:level1
+	{mso-level-text:%1、;
+	mso-level-tab-stop:24.0pt;
+	mso-level-number-position:left;
+	margin-left:24.0pt;
+	text-indent:-24.0pt;}
+@list l31
+	{mso-list-id:1745834409;
+	mso-list-type:simple;
+	mso-list-template-ids:431792982;}
+@list l31:level1
+	{mso-level-tab-stop:15.0pt;
+	mso-level-number-position:left;
+	margin-left:15.0pt;
+	text-indent:-9.0pt;}
+@list l32
+	{mso-list-id:1985154715;
+	mso-list-type:simple;
+	mso-list-template-ids:388016674;}
+@list l32:level1
+	{mso-level-start-at:5;
+	mso-level-number-format:japanese-counting;
+	mso-level-text:第%1条;
+	mso-level-tab-stop:97.5pt;
+	mso-level-number-position:left;
+	margin-left:97.5pt;
+	text-indent:-65.25pt;}
+@list l33
+	{mso-list-id:2008317000;
+	mso-list-type:simple;
+	mso-list-template-ids:985295542;}
+@list l33:level1
+	{mso-level-text:%1、;
+	mso-level-tab-stop:68.25pt;
+	mso-level-number-position:left;
+	margin-left:68.25pt;
+	text-indent:-36.0pt;}
+ol
+	{margin-bottom:0cm;}
+ul
+	{margin-bottom:0cm;}
+-->
+</style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:普通表格;
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-parent:"";
+	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
+	mso-para-margin:0cm;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-ansi-language:#0400;
+	mso-fareast-language:#0400;
+	mso-bidi-language:#0400;}
+table.MsoTableGrid
+	{mso-style-name:网格型;
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	border:solid windowtext 1.0pt;
+	mso-border-alt:solid windowtext .5pt;
+	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
+	mso-border-insideh:.5pt solid windowtext;
+	mso-border-insidev:.5pt solid windowtext;
+	mso-para-margin:0cm;
+	mso-para-margin-bottom:.0001pt;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	mso-pagination:none;
+	font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-ansi-language:#0400;
+	mso-fareast-language:#0400;
+	mso-bidi-language:#0400;}
+</style>
+<![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="1"/>
+ </o:shapelayout></xml><![endif]-->
+</head> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<body lang=ZH-CN style='tab-interval:21.25pt;text-justify-trim:punctuation'>
+
+<div class=Section1>
+
+<p class=MsoNormal style='line-height:150%'><span style='font-size:14.0pt;line-height:120%;font-family:
+仿宋_GB2312'>计划类别：<u> <span lang=EN-US>科技支撑计划--社会发展<span
+style='mso-spacerun:yes'>&nbsp;
+</span></span></u><span lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='line-height:150%'><span style='font-size:14.0pt;
+line-height:120%;font-family:仿宋_GB2312'>指南代码：<u> <span lang=EN-US>1321<span
+style='mso-spacerun:yes'>&nbsp;
+</span></span></u><span lang=EN-US><o:p></o:p></span></span>&nbsp;&nbsp;<span style='font-size:14.0pt;
+line-height:120%;font-family:仿宋_GB2312'>申报<span lang=EN-US>ID</span>号：<u> <span
+lang=EN-US>SBE201170933<span
+style='mso-spacerun:yes'>&nbsp;&nbsp;
+</span></span></u><span lang=EN-US><o:p></o:p></span></span></p>
+ 
+<p class=MsoNormal style='line-height:150%'><span style='font-size:14.0pt;
+line-height:120%;font-family:仿宋_GB2312'>项目类别：<u> <span
+lang=EN-US>
+
+
+无
+
+
+
+<span
+style='mso-spacerun:yes'>&nbsp;
+</span></span></u><span lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='line-height:150%'><span lang=EN-US style='font-size:
+14.0pt;line-height:120%;font-family:仿宋_GB2312'><o:p>&nbsp;</o:p></span></p>
+
+
+
+<p class=MsoNormal align=center style='text-align:center;line-height:150%'><b
+style='mso-bidi-font-weight:normal'><span style='font-size:28.0pt;line-height:
+150%;font-family:黑体'>江苏省科技计划项目申报书<span lang=EN-US><o:p></o:p></span></span></b></p>
+
+<p class=MsoNormal align=center style='text-align:center;line-height:150%'><span
+lang=EN-US style='font-size:16.0pt;line-height:120%;font-family:仿宋_GB2312'>(</span><span
+style='font-size:16.0pt;line-height:120%;font-family:仿宋_GB2312'>
+
+
+科技支撑计划--社会发展
+
+
+<span
+lang=EN-US>)<o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='line-height:150%'><span lang=EN-US style='font-size:
+14.0pt;line-height:120%;font-family:仿宋_GB2312'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='line-height:200%'><span style='font-size:14.0pt;
+line-height:200%;font-family:仿宋_GB2312'>项目名称：<u> <span lang=EN-US>磁分离富集结合上转换荧光纳米探针的真菌毒素新型检测技术、产品及装备研究<span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><span style='mso-spacerun:yes'>&nbsp;&nbsp;</span></span></u><span
+lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='line-height:200%'><span style='font-size:14.0pt;
+line-height:200%;font-family:仿宋_GB2312'>承担单位：<u> <span lang=EN-US>江南大学<span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><span style='mso-spacerun:yes'>&nbsp;&nbsp;</span></span></u><span
+lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='line-height:200%'><span style='font-size:14.0pt;
+line-height:200%;font-family:仿宋_GB2312'>所在地区：<u> <span lang=EN-US>无锡市,滨湖区<span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><span style='mso-spacerun:yes'>&nbsp;&nbsp;</span></span></u><span
+lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='line-height:200%'><span style='font-size:14.0pt;
+line-height:200%;font-family:仿宋_GB2312'>单位地址：<u> <span lang=EN-US>无锡蠡湖大道1800号<span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><span style='mso-spacerun:yes'>&nbsp;&nbsp;</span></span></u><span
+lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='line-height:200%'><span style='font-size:14.0pt;
+line-height:200%;font-family:仿宋_GB2312'>邮政编码：<u> <span lang=EN-US>214122<span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><span style='mso-spacerun:yes'>&nbsp;&nbsp;</span></span></u><span
+lang=EN-US><o:p></o:p></span></span></p>
+
+
+<p class=MsoNormal style='line-height:200%'><span style='font-size:14.0pt;
+line-height:200%;font-family:仿宋_GB2312'>项目负责人：<u> <span lang=EN-US>王周平<span
+style='mso-spacerun:yes'>&nbsp;&nbsp;
+</span></span></u>电话：<u> <span lang=EN-US>15951581339<span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;</span></span></u></span></p>
+
+
+<p class=MsoNormal style='line-height:200%'><span style='font-size:14.0pt;
+line-height:200%;font-family:仿宋_GB2312'>主管部门：<i style='mso-bidi-font-style:
+normal'><u> </u></i><u><span lang=EN-US>无锡市科学技术局<i style='mso-bidi-font-style:normal'><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><span style='mso-spacerun:yes'>&nbsp;&nbsp;</span></i></span></u><span
+lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='line-height:150%'><span lang=EN-US style='font-size:
+14.0pt;line-height:120%;font-family:仿宋_GB2312'><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><o:p></o:p></span></p>
+
+<p class=MsoNormal style='line-height:150%'><span lang=EN-US style='font-size:
+14.0pt;line-height:120%;font-family:仿宋_GB2312'><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span><span
+style='font-size:14.0pt;line-height:120%;font-family:仿宋_GB2312'>申报日期：
+
+
+<span
+lang=EN-US>2011</span>年<span lang=EN-US>03</span>月<span lang=EN-US>21</span>日<span
+lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='line-height:150%'><span lang=EN-US style='font-size:
+14.0pt;line-height:120%;font-family:仿宋_GB2312'><o:p>&nbsp;</o:p></span></p>
+
+
+
+<p class=MsoNormal align=center style='text-align:center;line-height:150%'><span
+style='font-size:15.0pt;line-height:120%;font-family:仿宋_GB2312'>江苏省科学技术厅<span
+lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal align=center style='text-align:center;line-height:150%'><span
+style='font-size:15.0pt;line-height:120%;font-family:仿宋_GB2312'>二〇一一年</span><span
+style='font-size:9.0pt;mso-bidi-font-size:10.0pt;line-height:150%'> </span><span
+lang=EN-US style='font-size:15.0pt;line-height:120%;font-family:仿宋_GB2312'><o:p></o:p></span></p>
+<b style='mso-bidi-font-weight:normal'><span lang=EN-US style='font-size:14.0pt;
+line-height:120%;font-family:仿宋_GB2312;mso-hansi-font-family:"Times New Roman";
+mso-bidi-font-family:"Times New Roman";mso-font-kerning:1.0pt;mso-ansi-language:
+EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA'><br clear=all
+style='page-break-before:always'>
+<p class=MsoNormal style='line-height:150%'><b style='mso-bidi-font-weight:
+normal'><span style='font-size:14.0pt;line-height:120%;font-family:仿宋_GB2312'>一、立项依据<span
+lang=EN-US><o:p></o:p></span></span></b></p>
+
+<table class=MsoTableGrid border=1 cellspacing=0 cellpadding=0
+ style='border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-yfti-tbllook:480;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;mso-border-insideh:
+ .5pt solid windowtext;mso-border-insidev:.5pt solid windowtext'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td width=569 valign=top style='width:426.45pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:150%'><b style='mso-bidi-font-weight:
+  normal'><span lang=EN-US style='line-height:120%;font-family:
+  宋体'><font size="3">1</font></span></b><b style='mso-bidi-font-weight:normal'><font size="3"><span
+  style='line-height:120%;font-family:宋体'>、本项目国内外科技创新发展概况和最新发展趋势</span></font><span
+  lang=EN-US><o:p></o:p></span></b></p>
+  <p class=MsoNormal ><span lang=EN-US style="line-height:150%; font-family:宋体; font-size:12pt; "><font size="3"><DIV>&nbsp;&nbsp;&nbsp; 真菌毒素（mycotoxins）是由曲霉菌、青霉菌、镰刀菌等真菌产生的次级代谢产物，目前已发现真菌毒素达300多种，危害较大的主要有黄曲霉毒素（aflatoxin，AF）、赭曲霉毒素（ochratoxin，OT）、伏马菌素（fumonisins）、玉米赤霉烯酮（zearalenone，ZEN）、脱氧雪腐镰刀菌烯醇（deoxynivalenol，DON）、展青霉素（Patulin）几类。这些真菌毒素已经成为大多数农产品的主要污染物之一，近年来由于各种真菌毒素污染而导致动物或人类中毒的食品安全事件屡有发生。据联合国粮农组织估算，全球每年约有25％的农产品受到真菌毒素的污染，2％的农产品因污染严重而失去营养和经济价值，造成数百亿美元的经济损失。真菌毒素可以直接或间接进入食物链最终导致动植物、食品受到毒素污染，人畜进食被其污染的粮油食品可导致急、慢性真菌毒素中毒症（如肝肾毒性、生殖毒性、免疫抑制、中枢神经系统异常、致畸、致癌等）。例如，黄曲霉毒素（AFB<SUB>1</SUB>、AFB<SUB>2</SUB>、 AFG<SUB>1</SUB>、AFG<SUB>3</SUB>、AFM<SUB>1</SUB>等）是诱发人类肝癌发病的重要因素，AFB1的毒性最强，被国际癌症研究机构规定为I类致癌物其毒性是氰化钾的10倍。赭曲霉毒素中毒性最强的赭曲霉毒素A（OTA）可以危及人和动物的肾脏。伏马菌素具有显著的神经毒性和慢性肾脏毒性作用。现在世界各国纷纷制定了农产品及食品中真菌毒素的限量标准（一般为几个ng/g），不断加大对粮油食品的监督抽查力度，玉米、花生、小麦及其制品中真菌毒素含量也已成为各国质检部门检疫检验的重点项目之一。</DIV>
+<DIV>&nbsp;&nbsp;&nbsp; 食品安全体系的建立在很大程度上依赖于快速、准确、高灵敏度的检测方法的发展。而真菌毒素检测技术的研究一直是国际农产品质量安全的一个重要热点<SUP>[1]</SUP>。目前国内外报道的真菌毒素检测方法主要有：酶联免疫吸附分析（ELISA）、高效液相色谱法（HPLC）、薄层色谱法（TLC）、气相色谱法（GC）、Eu<SUP>3+</SUP>标记时间分辨免疫荧光分析、免疫亲和柱-荧光分析、表面等离子体共振（SPR）和毛细管电泳法等<SUP>[2]</SUP>。ELISA、免疫亲和柱-HPLC和TLC是目前质检部门中普遍使用的方法。但是这些方法也有一定的不足：TLC方法耗费有机溶剂多、操作复杂，熟练程度不易掌握、检测灵敏度低，只能做到目测半定量法，现在该法在质检部门中已较少使用。ELISA方法则由于其抗原抗体需要用到酶标记，酶标记探针寿命、稳定性和保藏条件上仍有不少缺陷。近年来在此基础上发展的金标免疫试纸盒技术，它主要用于大量样本的快速筛检，不能精确定量。HPLC法虽然是分析真菌毒素最常用的方法，能同时对多种毒素进行分析测定，特别是与免疫亲和柱和质谱联用后，其检测灵敏度和检测数量方面大大提高，但是由于该方法前处理复杂、需要耗费大量有机溶剂、需要配备昂贵的仪器设备、检测成本高，无法在一般的检测实验室及现场普及使用。此外，对于真菌毒素检测涉及到的荧光免疫分析，荧光分子标记对光不稳定、标记操作复杂；毛细管电泳检测，虽然可实现多组分高效分离分析，但要实现高灵敏度检测，需要柱前衍生化后再进行激光诱导荧光检测，操作相对繁琐费时。总体来看，目前制约真菌毒素快速检测的瓶颈问题中主要是简易程度、特异性、检测灵敏度。因此，开发一种操作简便、环境友好、检测灵敏度高、能实现多组分同时快速甚至用于现场检测的真菌毒素检测方法尤为必要。</DIV>
+<DIV>&nbsp;&nbsp;&nbsp; 上转换荧光探针技术是最近新发展起来的一种具有广阔应用前景的探针技术<SUP>[3]</SUP>。上转换荧光（Upconversion fluorescence）是一种通过多光子机制吸收长波辐射（近红外光）而发射出比激发光波长短的荧光（紫外可见光）的反Stokes发光现象，已成为借助上转换荧光纳米材料（Upconversion fluorescence nanomaterials）把红外光转换成可见光的有效方法。上转换发光纳米材料可使用红外激光（如980 nm）激发，其荧光发射在可见光区（如500-650 nm），若采用适当的光电倍增管作为光信号收集器（如接收光波范围为300-650 nm的光电倍增管），可构建无背景光干扰的更灵敏的上转换激光诱导荧光检测方法。它具有如下诸多优点：1）上转换材料光化学稳定，不易光解，由无机材料构成的上转换荧光材料在强光或长时间的激发光照射下仍具有很高的光学稳定性；2）其独特的上转换发光过程主要集中于固体基质中，几乎不受外界条件（如湿度、酸度等）的影响，因而可在固相或液相（亲水或疏水环境）中检测其荧光，从而大大方便了检测，特别适合作为复杂生物体系中的荧光标记物；3）若将上转换荧光材料用于生物标记探针，由于在红外光的照射下，只有上转换荧光材料发光，而被标记的生物分子和被检测的生物体系因为不具备上转换发光能力而不发荧光，从而使检测背景大大降低，进而提高生物检测的灵敏度；4）上转换发光材料是由近红外或红外光激发，激发光能量低，对生物组织具有良好的穿透性且不会对生物体产生伤害；5）采用廉价高效的980nm红外激光器作为激发光源，检测装置简单。此外，由于激发光的增强，又可提高荧光信号强度<SUP>[64]</SUP>，且上转换发光材料价格远远低于目前使用的CY3和CY5等染料的价格，显著降低相关成本费用；6）可以通过选择不同的基质材料和掺杂离子来调节上转换发光，在同一固定激发波长激发下（如980nm红外光），不同稀土离子掺杂的纳米粒子发射不同的上转换荧光，真正实现单激发多发射，从而有利于生物体系中多组分同时检测。关于上转化发光材料国内外都有大量的研究<SUP>[4-8]</SUP>，在很多领域显示了广泛的应用前景。目前，上转换荧光纳米材料临床生物样品中某些成分含量的测定，其中以核糖核酸（RNA）、脱氧核糖核酸(DNA)、蛋白质、亲和素、抗原等的测定尤为重要<SUP>[9,10]</SUP>。除了用于上述生物组分的测定外也已利用在荧光成像技术用于组织、细胞的的研究，尤其是对癌症细胞的研究。由于上转换荧光不受样品背景光干扰，能更为直观、生动的进行观察<SUP>[11]</SUP>。鉴于上述优点，上转换纳米材料是一种优越的生物标记材料。将此种新型荧光纳米材料结合激光诱导荧光检测模式运用于真菌毒素的检测，能够大大降低背景信号对目标真菌毒素的干扰，大大提高检测的灵敏度，将为真菌毒素快速检测提供更新颖高效的检测手段。</DIV>
+<DIV>&nbsp;&nbsp;&nbsp; 磁性纳米材料（magnetic nanoparticles）发展新的荧光标记材料能够很好地提高分析检测的灵敏度。与此同时，如果能对被测痕量生物组分进行快速分离富集、提高其在被测体系中的浓度，也将有效提高检测方法的灵敏度。磁分离是磁性纳米材料最常见而有效的特殊功能，特别适合痕量生物样品的快速分离富集<SUP>[12-17]</SUP>。磁分离是利用功能化磁性纳米材料的表面给体（或受体）与受体（或给体）间特异的相互作用，如生物素-亲和素（biotin-avidin）、抗原-抗体（antigen-antibody）、互补的特异基因片段（matched DNA）等来实现对靶向物质的快速分离与富集。目前，磁分离方法已被广泛用于酶、蛋白、多肽、细胞甚至毒素等的分离与纯化<SUP>[18-20]</SUP>。与常用的磁性微球相比，磁性纳米粒子在细胞分离方面具有更明显的优势：1）较小的尺寸可以避免与细胞发生识别作用后对细胞产生机械应力（mechanical stress）；2）磁性纳米粒子在磁场中可形成稳定的胶体分散体系，不会出现粒子的团聚和沉淀；3）可以缩短孵育时间，加快分离流程，操作方便、快捷，分离纯度高；4）生物相容的磁性纳米粒子在与细胞的识别过程中，基本可以保证不破坏被识别细胞的形态，不会影响细胞的功能和发育，磁分离细胞的存活率高，且不与非识别细胞发生作用。<B></B></DIV>
+<DIV>&nbsp;&nbsp;&nbsp; 综上所述，目前国内外真菌毒素快速检测方法和技术方面还有很大提升空间，尚缺乏基于纳米探针技术检测真菌毒素的检测方法和相关产品，尤其是目前国际上尚无磁分离富集结合上转换荧光纳米探针技术应用于真菌毒素乃至食品中其他有毒有害物质检测的报道。有鉴于此，本课题研究提出“<B>磁分离富集结合上转换荧光纳米探针技术的真菌毒素新型检测技术、产品和装备研究</B>”，旨在将纳米探针技术与磁性分离富集、免疫亲和识别、核酸适配体识别几种先进技术有机结合引入到真菌毒素检测领域，力求各种先进方法优势结合，充分发挥这些技术更高效、更准确、更灵敏、更快速等特点，建立快速、灵敏、多组分的真菌毒素（AFB<SUB>1</SUB>、OTA、FB<SUB>1</SUB>等）新型检测技术体系，弥补相关检测方法和技术的不足，形成一批具有自主知识产权和国际竞争力的快速检测新技术、新产品和新装备，同时也能够极大丰富纳米科学研究的内涵，使我国在高端纳米技术应用方面紧随世界步伐，形成自己的产品和新的应用领域。</DIV>
+<DIV>&nbsp;</DIV>
+<DIV><B>主要参考文献</B>：</DIV>
+<DIV>1. 许牡丹, 毛跟年编著. 食品安全性与分析检测. 化学工业出版社. 2003.</DIV>
+<DIV>2.&nbsp; 王晶, 王林, 黄晓蓉. 食品安全快速检测技术. 北京: 化学工业出版社, 2002.</DIV>
+<DIV align=left>3. 张瑞锐, 高源, 唐波. 分析科学学报, 26(3): 353-357</DIV>
+<DIV>4. Fujiwara H, Sasaki K. J.Appl.Phys.,1999,86:2385-2388.</DIV>
+<DIV>5. Zhang D L, Wang D C,Pun E Y B. IEEE J.Quantum Electron.,2005,41:958-969.</DIV>
+<DIV>6. Lin H, Jiang S B, Wu J F, et al. J.Phys.D-Appl.Phys.,2003,36:812-817.</DIV>
+<DIV>7. Huang X, Cutinha N, de Velasco A A, et al. Mater.Atoms,1998,142:50-60.</DIV>
+<DIV>8. 曹玉琳. 激光与红外,2005,31:755-757.</DIV>
+<DIV>9. Wang M, Mao C B,et al. Anal. Chem.2009, 81:8783-8789.</DIV>
+<DIV align=left>10. Wang L Y,Li Y D,et al. Angew. Chem. Int. Ed. 2005, 44: 6054 –6057.</DIV>
+<DIV align=left>11. Marcin Nyk, Rajiv Kumar, Tymish Y. Ohulchanskyy,Earl J. Bergey. Nano Lett.2008,11:3834-3838.</DIV>
+<DIV>12. Gu H W, Ho P L, Tong E, et al. Nano Lett.,2003,3:1261-1263.</DIV>
+<DIV>13. Gu H W, Ho P L,Tsang K W T, et al. J.Am.Chem.Soc.,2003,125:15702-15703.</DIV>
+<DIV>14. Gu H W, Ho P L, Tsang K W T, et al. Chemical Communications,2003: 1966-1967.</DIV>
+<DIV>15. Wang L,Yang Z M, Gao J H, et al. J.Am.Chem.Soc.,2006,128:13358-13359.</DIV>
+<DIV>16. Gu H W, Xu K M, Xu C J, et al. Chemical Communications,2006:941-949.</DIV>
+<DIV>17. Wang D S, He J B, Rosenzweig N,e t al.Nano Lett.,2004,4: 409-413.</DIV>
+<DIV>18. Nam J M, Stoeva S I, Mirkin C A. J.Am.Chem.Soc.,2004,126:5932-5933.</DIV>
+<DIV>19. Nam J M, Park S J, Mirkin C A. J.Am.Chem.Soc.,2002,124:3820-3821.</DIV>
+<DIV>20. Nam J M, Han S W, Lee K B,et al. Angew.Chem.Int.Edit.,2004,43:1246-1249.</DIV>
+
+  </font>
+  <o:p></o:p></span></p>
+  <p class=MsoNormal style='line-height:150%'>
+	<span lang=EN-US
+  style='line-height:150%'><o:p><font size="3">&nbsp;</font></o:p></span></p>
+  </td>
+ </tr>
+
+ <tr style='mso-yfti-irow:1'>
+  <td width=569 valign=top style='width:426.45pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:150%'><b style='mso-bidi-font-weight:
+  normal'><span lang="EN-US"><font size="3">2</font></span></b><b style='mso-bidi-font-weight:normal'><span style="font-family: 宋体; mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman"><font size="3">、本项目研究的目的、意义</font></span><span lang=EN-US><o:p></o:p></span></b></p>
+  <p class=MsoNormal >
+	<span lang=EN-US style="line-height:150%; font-family:宋体; font-size:12pt; "><font size="3">&nbsp;&nbsp;&nbsp; 快速、高灵敏、高通量的真菌毒素检测技术开发已成为国际上研究的热点。目前在实际检测工作中，真菌毒素的检测主要依靠ELISA和HPLC方法进行。ELISA方法采用酶作为标记物，稳定性欠佳，灵敏度有限；HPLC方法对样品前处理要求较高，且需要大型的检测设备和训练有素的检测人员（HPLC），不利于推广使用，尤其不适用于现场快速检测。本课题研究拟将上转换荧光纳米探针技术与磁分离富集、免疫亲和分析、核酸适配体识别、激光诱导上转换荧光检测技术有机结合，充分发挥这几种技术高灵敏、特异、稳定的优势，以AFB<SUB>1</SUB>、OTA、伏马菌素B<SUB>1</SUB>（FB1）等为模式分析物，以免疫亲和分析、核酸适配体识别、上转换荧光纳米探针多色标记-多组分同时检测为主要特色，构建基于磁分离富集-上转换荧光纳米探针的真菌毒素新型检测技术体系，发展新型检测产品、新型检测装备。该技术方法体系的建立、产品和装备的研发，对于弥补国际上相关检测方法和技术的不足、形成一批具有自主知识产权和国际竞争力的检测新技术、新产品和新装备，保障我国食品安全和打破国际食品贸易壁垒具有重要意义。 
+
+</font>
+<o:p></o:p></span></p>
+  <p class=MsoNormal style='line-height:150%'><span lang=EN-US><o:p>
+	<font size="3">&nbsp;</font></o:p></span></p>
+  </td>
+ </tr>
+
+ <tr style='mso-yfti-irow:2'>
+  <td width=569 valign=top style='width:426.45pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:150%'><b style='mso-bidi-font-weight:
+  normal'><span lang="EN-US"><font size="3">3</font></span></b><b style='mso-bidi-font-weight:normal'><span style="font-family: 宋体; mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman"><font size="3">、本项目研究现有起点科技水平及已存在的知识产权情况</font></span><span lang=EN-US><o:p></o:p></span></b></p>
+  <p class=MsoNormal >
+	<span lang=EN-US style="line-height:150%; font-family:宋体; font-size:12pt; "><font size="3"><DIV>&nbsp;&nbsp;&nbsp; 如前所述，目前真菌毒素的检测技术主要为免疫亲和柱净化结合HPLC分离检测技术和ELISA方法。本课题研究拟发展的磁分离富集、上转换荧光纳米探针结合竞争免疫分析和/或核酸适配体识别检测技术，在真菌毒素检测领域国内外均未见其他研究小组的报道<B>（知识产权基本空白）</B>，仅有本课题小组前期的部分报道。</DIV>
+<DIV>&nbsp;&nbsp;&nbsp; 磁分离富集的样品浓缩效应对于检测灵敏度的提高作用非常显著，同时磁分离操作简便、用时非常短（本课题小组发展的磁性纳米材料借助外加磁场可在1分钟内实现完全分离纯化），对于实现快速检测的目标具有重要意义。</DIV>
+<DIV>&nbsp;&nbsp;&nbsp; 上转换发光检测的优点则如前所述更为明显，因采用红外激光激发（多980 nm），而且红外激光对捕获光信号的光电倍增管无背景光和生物自发荧光干扰，因此相对于传统荧光检测灵敏高可以得到大幅度提高。</DIV>
+<DIV>&nbsp;&nbsp;&nbsp; 免疫亲和及核酸适配体识别能够很好保证检测的特异性。</DIV>&nbsp;&nbsp;&nbsp; 上述技术特点确保本课题项目提出的技术方法具有简单、快速、灵敏、特异等显著优势，具有很好的起点科技水平，对于提升我国食品源真菌毒素的检测技术水平具有积极的推动作用。 
+</font><o:p></o:p></span></p>
+  <p class=MsoNormal style='line-height:150%'><span lang=EN-US><o:p>
+	<font size="3">&nbsp;</font></o:p></span></p>
+  </td>
+ </tr>
+
+ <tr style='mso-yfti-irow:3;mso-yfti-lastrow:yes'>
+  <td width=569 valign=top style='width:426.45pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:150%'><b style='mso-bidi-font-weight:
+  normal'><span lang="EN-US"><font size="3">4</font></span></b><b style='mso-bidi-font-weight:normal'><span style="font-family: 宋体; mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman"><font size="3">、本项目研究国内外竞争情况及产业化前景</font></span><span lang=EN-US><o:p></o:p></span></b></p>
+  <p class=MsoNormal >
+	<span lang=EN-US style="line-height:150%; font-family:宋体; font-size:12pt; "><font size="3"><DIV>&nbsp;&nbsp;&nbsp; 本课题研究拟发展的磁分离富集、上转换荧光纳米探针结合竞争免疫分析和/或核酸适配体识别检测技术，在真菌毒素检测领域国内外均未见其他研究小组的报道，仅有本课题小组前期的部分报道。</DIV>
+<DIV>&nbsp;&nbsp;&nbsp; 磁性分离富集、上转换荧光纳米探针技术和免疫亲和及核酸适配体识别技术在AFB<SUB>1</SUB>、OTA、FB<SUB>1</SUB>等真菌毒素检测中的成功应用，将能有效弥补目前真菌毒素检测方法的不足（如灵敏度、简易程度），使之成为非常有应用前景的检测方法。该方法体系成功建立后，可以进一步推广应用到其他真菌毒素以及食品中其他有毒有害物质的快速、超灵敏检测当中，从而进一步丰富纳米科学技术研究的内涵。</DIV>&nbsp;&nbsp;&nbsp; 此外，由于该技术方法具有检测成本低、操作简单、灵敏度高、快速、多组分同时检测等诸多特点，可发展相应的检测试剂盒，还可制成便携式的检测分析仪器。因此，该新型检测技术以及在此基础上发展的新型检测产品在质检部门的实验室和现场快速检验检疫中将会有很好的应用前景，产生良好的社会效益和经济效益。 
+
+</font>
+<o:p></o:p></span></p>
+  <p class=MsoNormal style='line-height:150%'><span lang=EN-US><o:p>
+	<font size="3">&nbsp;</font></o:p></span></p>
+  </td>
+ </tr>
+</table>
+
+<p class=MsoNormal style='line-height:150%'><b style='mso-bidi-font-weight:
+normal'><span lang=EN-US style='font-size:14.0pt;line-height:120%;font-family:
+仿宋_GB2312'><o:p>&nbsp;</o:p></span></b></p>
+
+<b style='mso-bidi-font-weight:normal'><span lang=EN-US style='font-size:14.0pt;
+line-height:120%;font-family:仿宋_GB2312;mso-hansi-font-family:"Times New Roman";
+mso-bidi-font-family:"Times New Roman";mso-font-kerning:1.0pt;mso-ansi-language:
+EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA'><br clear=all
+style='page-break-before:always'>
+</span></b>
+
+<p class=MsoNormal style='line-height:150%'><b style='mso-bidi-font-weight:
+normal'><span style='font-size:14.0pt;line-height:120%;font-family:仿宋_GB2312'>二、研究内容<span
+lang=EN-US><o:p></o:p></span></span></b></p>
+
+<table class=MsoTableGrid border=1 cellspacing=0 cellpadding=0
+ style='border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-yfti-tbllook:480;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;mso-border-insideh:
+ .5pt solid windowtext;mso-border-insidev:.5pt solid windowtext'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td width=569 valign=top style='width:426.45pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:150%'><b style='mso-bidi-font-weight:
+  normal'><span lang=EN-US style='line-height:120%;font-family:
+  宋体'><font size="3">1</font></span></b><b style='mso-bidi-font-weight:normal'><font size="3"><span
+  style='line-height:120%;font-family:宋体'>、具体研究开发内容和要重点解决的关键技术问题；</span></font><span
+  lang=EN-US><o:p></o:p></span></b></p>
+  <p class=MsoNormal >
+	<span lang=EN-US style="line-height:150%; font-family:宋体; font-size:12pt; "><font size="3"><DIV><B><U>具体研究开发内容</U></B><B><U></U></B></DIV>
+<DIV>1）上转换荧光纳米材料、磁性纳米材料等新型纳米材料的合成与表征；</DIV>
+<DIV>2）真菌毒素人工抗原或核酸适配体生物功能化磁性纳米探针（捕获探针）和抗体或核酸适配体互补寡核苷酸链生物功能化上转换荧光纳米探针（信号探针）的制备；</DIV>
+<DIV>3）基于磁分离富集-免疫亲和识别-上转换荧光纳米探针技术的真菌毒素新型检测技术研究；</DIV>
+<DIV>4）基于磁分离富集-核酸适配体识别-上转换荧光纳米探针技术的真菌毒素新型检测技术研究；</DIV>
+<DIV>5）基于磁分离富集-上转换荧光纳米探针多色标记的真菌毒素多组分同时检测技术研究。</DIV>
+<DIV>6) 相关新型检测产品研发。</DIV>
+<DIV>7）相关新型检测装备研制。</DIV>
+<DIV><B><U>要重点解决的技术关键问题</U></B><B><U></U></B></DIV>
+<DIV>1）以上转换荧光纳米材料标记取代传统的酶标记、同位素标记、有机荧光染料标记以及普通荧光纳米材料标记，解决上述标记物稳定性差、灵敏度低，以及样本生物分子或组织背景荧光干扰的问题，因此生物功能化纳米探针的制备是本研究中关键技术。</DIV>
+<DIV>2）通过激光诱导荧光检测技术解决传统检测方法检测灵敏度有限、线性范围不够宽的问题；</DIV>
+<DIV>3）在保证反应完全程度和特异性的同时，通过磁分离富集作用，有效缩短检测周期；</DIV>
+<DIV>4) 利用多色上转换荧光纳米材料标记，达到真菌毒素多组分同时检测的目的。</DIV>5）产品、装备的微型化、精确化。 
+
+</font>
+<o:p></o:p></span></p>
+  <p class=MsoNormal >
+	<span lang=EN-US style='line-height:120%;
+  font-family:楷体_GB2312'><o:p><font size="3">&nbsp;</font></o:p></span></p>
+  </td>
+ </tr>
+
+ <tr style='mso-yfti-irow:1'>
+  <td width=569 valign=top style='width:426.45pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:150%'><b style='mso-bidi-font-weight:
+  normal'><span lang=EN-US style='line-height:120%;font-family:
+  宋体'><font size="3">2</font></span></b><b style='mso-bidi-font-weight:normal'><font size="3"><span
+  style='line-height:120%;font-family:宋体'>、项目的特色和创新之处；</span></font><span
+  lang=EN-US><o:p></o:p></span></b></p><p class=MsoNormal ><span lang=EN-US style="line-height:150%; font-family:宋体; font-size:12pt; "><font size="3"><DIV>&nbsp;&nbsp;&nbsp; 现有的真菌毒素检测方法要么繁琐、费时费力，灵敏度不够高（TLC）；要么虽然有较高的灵敏度，但需要借助昂贵的仪器设备且需要训练有素的操作人员（如免疫亲和柱-HPLC、HPLC-MS）；要么标记物稳定性欠佳（如ELISA），不适合在普通实验室和现场检测中推广使用。本课题研究针对上述问题，将有如下创新：</DIV>
+<DIV>&nbsp;&nbsp;&nbsp; 1）将磁分离富集、上转换荧光纳米探针技术与免疫亲和分析、核酸适配体识别等先进技术有机结合，构建的真菌毒素新型检测技术将具有灵敏度高、稳定性好、特异性强的显著特点，将能够有效解决传统检测方法中存在的不足；</DIV>
+<DIV>&nbsp;&nbsp;&nbsp; 2）通过不同稀土元素掺杂制备具有不同颜色发射特点的上转换荧光纳米探针，以此为基础，结合磁分离富集技术，发展真菌毒素多组分同时快速高灵敏检测新技术；</DIV>
+<DIV>&nbsp;&nbsp;&nbsp; 3）所发展的结合核酸适配体识别的技术方法在保证高灵敏度和特异性的同时，在检测体系稳定性方面更具优势；</DIV>
+<DIV>&nbsp;&nbsp;&nbsp; 4）所建立的技术方法可作为共性技术极易拓展应用到其他食品安全检测领域。</DIV>&nbsp;&nbsp;&nbsp; 5）所发展和研制的新产品、新装备在行业内具有良好的应用前景。 
+
+</font>
+<o:p></o:p></span></p>
+  <p class=MsoNormal >
+	<span lang=EN-US style='line-height:120%;
+  font-family:楷体_GB2312'><o:p><font size="3">&nbsp;</font></o:p></span></p>
+  </td>
+ </tr>
+
+ <tr style='mso-yfti-irow:2;mso-yfti-lastrow:yes'>
+  <td width=569 valign=top style='width:426.45pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:150%'><b style='mso-bidi-font-weight:
+  normal'><span lang=EN-US style='line-height:120%;font-family:
+  宋体'><font size="3">3</font></span></b><b style='mso-bidi-font-weight:normal'><font size="3"><span
+  style='line-height:120%;font-family:宋体'>、要达到的主要技术、经济指标及社会、经济效益。</span></font><span
+  lang=EN-US><o:p></o:p></span></b></p>
+  <p class=MsoNormal >
+	<span lang=EN-US style="line-height:150%; font-family:宋体; font-size:12pt; "><font size="3"><DIV>&nbsp;&nbsp;&nbsp; 建立新型上转换荧光纳米探针的制备方法、基于上转换荧光纳米探针技术的高灵敏度激光诱导荧光分析技术、基于上转换荧光纳米探针技术和抗原-抗体免疫亲和反应建立多色标记-多组分同时检测模式技术，解决真菌毒素快速和高灵敏度分析的实际问题，发展新型真菌毒素检测试剂，形成自主知识产权。最终将建立完善AFB<SUB>1</SUB>、OTA、FB<SUB>1</SUB>等重要真菌毒素新型检测方法3种，检出限达到pg/mL 水平甚至更低。预计发表高档次SCI源刊收录论文3-5篇，申请国家发明专利2-3项，研制检测新产品3种，新型检测装备1种，参与制订或修改国家、行业标准1项以上。</DIV>&nbsp;&nbsp;&nbsp; 该技术方法以及以此为基础发展的新型检测产品将在涉及真菌毒素检测的质检、商检部门，尤其是检疫检验、海关、公安等部门得到广泛应用，将在提升我国食品安全检测技术水平、保障国民健康方面产生良好的社会和经济效益。 
+
+</font>
+<o:p></o:p></span></p>
+  <p class=MsoNormal >
+	<span lang=EN-US style='line-height:120%;
+  font-family:楷体_GB2312'><o:p><font size="3">&nbsp;</font></o:p></span></p>
+  </td>
+ </tr>
+</table>
+
+<p class=MsoNormal style='line-height:150%'><b style='mso-bidi-font-weight:
+normal'><span lang=EN-US style='font-size:14.0pt;line-height:120%;font-family:
+仿宋_GB2312'><o:p>&nbsp;</o:p></span></b></p>
+
+<b style='mso-bidi-font-weight:normal'><span lang=EN-US style='font-size:14.0pt;
+line-height:120%;font-family:仿宋_GB2312;mso-hansi-font-family:"Times New Roman";
+mso-bidi-font-family:"Times New Roman";mso-font-kerning:1.0pt;mso-ansi-language:
+EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA'><br clear=all
+style='page-break-before:always'>
+</span></b>
+
+<p class=MsoNormal style='line-height:150%'><b style='mso-bidi-font-weight:
+normal'><span style='font-size:14.0pt;line-height:120%;font-family:仿宋_GB2312'>三、研究试验方法、技术路线以及工艺流程<span
+lang=EN-US><o:p></o:p></span></span></b></p>
+
+<table class=MsoTableGrid border=1 cellspacing=0 cellpadding=0
+ style='border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-yfti-tbllook:480;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;mso-border-insideh:
+ .5pt solid windowtext;mso-border-insidev:.5pt solid windowtext'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes'>
+  <td width=569 valign=top style='width:426.45pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='text-indent:18.0pt;mso-char-indent-count:1.5;
+  line-height:150%'><span lang=EN-US style="line-height:150%; font-family:宋体; font-size:12pt; "><font size="3"><DIV><B>1. </B><B>研究方法</B><B></B></DIV>
+<DIV>&nbsp;&nbsp;&nbsp; 1）新型纳米材料的合成与表征</DIV>
+<DIV>&nbsp;&nbsp;&nbsp; 采用微波辅助合成、水热合成等方法合成出具有新颖物化特性的上转换荧光纳米材料、磁性纳米材料，并采用TEM、XRD、XPS、SEM、AFM、FT-IR、FL、UV-vis等手段对其进行表征，同时对稀土元素掺杂种类和比例导致多色上转换荧光发射进行系统研究，筛选出更多具有新颖发光、稳定性高、生物兼容性好、适合分析检测目的的新型纳米材料。</DIV>
+<DIV>&nbsp;&nbsp;&nbsp; 2）功能化纳米探针的制备</DIV>
+<DIV>&nbsp;&nbsp;&nbsp; 研究在上转换荧光纳米材料和磁性纳米材料表面修饰功能基团（氨基，羧基等）的方法，并且通过化学反应或静电吸附等作用，采用真菌毒素人工抗原、抗体或核酸适配体互补寡核苷酸链、核酸适配体等对其表面进一步生物功能化，制备高效生物功能化纳米探针（即真菌毒素人工抗原或适配体功能化磁性纳米探针、抗体或核酸适配体互补寡核苷酸链功能化上转换荧光纳米探针）。</DIV>
+<DIV>&nbsp;&nbsp;&nbsp; 3）基于磁分离富集-免疫亲和识别-上转换荧光纳米探针技术的真菌毒素新型检测技术研究</DIV>
+<DIV>&nbsp;&nbsp;&nbsp; 基于竞争免疫分析原理，以AFB<SUB>1</SUB>、OTA为模式分析物，构建基于磁分离富集-免疫亲和识别-上转换荧光纳米探针技术的真菌毒素新型免疫检测技术，采用自制上转换激光诱导荧光检测器实现对目标真菌毒素的高灵敏快速检测。</DIV>
+<DIV>&nbsp;&nbsp;&nbsp; 4）基于磁分离富集-核酸适配体识别-上转换荧光纳米探针技术的真菌毒素新型检测技术研究</DIV>
+<DIV>&nbsp;&nbsp;&nbsp; 基于核酸适配体可与目标真菌毒素特异性识别、以及识别反应后原杂交互补寡核苷酸链解离脱落的原理，以OTA、FB<SUB>1</SUB>为模式分析物，构建基于磁分离富集-核酸适配体识别-上转换荧光纳米探针技术的真菌毒素新型核酸适配体识别检测技术，采用自制上转换激光诱导荧光检测器实现对目标真菌毒素的高灵敏快速检测。</DIV>
+<DIV>&nbsp;&nbsp;&nbsp; 5）基于磁分离富集-上转换荧光纳米探针多色标记的真菌毒素多组分同时检测技术研究</DIV>
+<DIV>&nbsp;&nbsp;&nbsp; 采用不同颜色发射的上转换荧光材料作为标记物，基于竞争免疫分析或核酸适配体识别原理，结合磁分离富集技术，构建基于磁分离富集-上转换荧光纳米探针多色标记的真菌毒素多组分同时检测新技术。</DIV>
+<DIV>&nbsp;&nbsp;&nbsp; 6）检测产品研发</DIV>
+<DIV>&nbsp;&nbsp;&nbsp; 基于前述检测技术体系的建立，发展配套检测试剂盒等新产品。</DIV>
+<DIV>&nbsp;&nbsp;&nbsp; 7）检测装备研制</DIV>
+<DIV>&nbsp;&nbsp;&nbsp; 将在本课题小组前期搭建好上转换荧光检测平台基础上，进一步探索和试制便携式小型检测设备。</DIV>
+<DIV><B>2. </B><B>技术路线</B><B>(</B><B>图</B><B>1)</B></DIV>
+<DIV>&nbsp;&nbsp;&nbsp; 1）首先采用水热法和一步法分别合成上转换荧光纳米材料、氨基化磁性纳米材料，通过TEM，XRD，XPS，FL等手段对其表征，筛选出合适的纳米材料；</DIV>
+<DIV>&nbsp;&nbsp;&nbsp; 2）对上转换荧光纳米材料经过氨基、羧基等表面修饰和与真菌毒素抗体或核酸适配体互补寡核苷酸链结合，获得生物功能化的新型上转换荧光纳米探针；对氨基化磁性纳米材料采用真菌毒素人工抗原或核酸适配体对其进行表面功能化，制备生物功能化磁性纳米捕获探针；</DIV>
+<DIV>&nbsp;&nbsp;&nbsp; 3）在检测过程中，分别基于竞争免疫反应识别或核酸适配体识别，通过目标真菌毒素与生物功能化纳米探针相互作用，继而通过外加磁场实现磁分离富集，最终采用上转换激光诱导荧光为检测手段，通过对荧光强度大小来定量目标物质含量，从而建立基于磁分离富集-上转换荧光纳米探针技术的真菌毒素新型检测技术体系。</DIV>&nbsp;&nbsp;&nbsp; 4）研制检测新产品、新装备。 
+<CENTER><a href="http://www.jskjjh.gov.cn/XMSB/Ent_JBXXB_RWS_FUJIAN_DownLoad.jsp?typ=inline&amp;DJXH=201145961&amp;SN=57870&amp;tmp=tmp" target="_blank" ><IMG border=0 src="http://www.jskjjh.gov.cn/XMSB/Ent_JBXXB_RWS_FUJIAN_DownLoad.jsp?DJXH=201145961&amp;SN=57870"></A><BR></CENTER>
+</font>
+
+<o:p></o:p></span></p>
+  <p class=MsoNormal style='text-indent:18.0pt;mso-char-indent-count:1.5;
+  line-height:150%'><span lang=EN-US style='font-size:9.0pt;line-height:120%;
+  font-family:楷体_GB2312'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+</table>
+
+<p class=MsoNormal style='line-height:150%'><b style='mso-bidi-font-weight:
+normal'><span lang=EN-US style='font-size:14.0pt;line-height:120%;font-family:
+仿宋_GB2312'><o:p>&nbsp;</o:p></span></b></p>
+
+<b style='mso-bidi-font-weight:normal'><span lang=EN-US style='font-size:14.0pt;
+line-height:120%;font-family:仿宋_GB2312;mso-hansi-font-family:"Times New Roman";
+mso-bidi-font-family:"Times New Roman";mso-font-kerning:1.0pt;mso-ansi-language:
+EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA'><br clear=all
+style='page-break-before:always'>
+</span></b>
+
+<p class=MsoNormal style='line-height:150%'><b style='mso-bidi-font-weight:
+normal'><span style='font-size:14.0pt;line-height:120%;font-family:仿宋_GB2312'>四、工作基础和条件<span
+lang=EN-US><o:p></o:p></span></span></b></p>
+
+<table class=MsoTableGrid border=1 cellspacing=0 cellpadding=0
+ style='border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-yfti-tbllook:480;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;mso-border-insideh:
+ .5pt solid windowtext;mso-border-insidev:.5pt solid windowtext'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td width=569 valign=top style='width:426.45pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:150%'><b style='mso-bidi-font-weight:
+  normal'><span lang=EN-US style='line-height:120%;font-family:
+  宋体'><font size="3">1</font></span></b><b style='mso-bidi-font-weight:normal'><font size="3"><span
+  style='line-height:120%;font-family:宋体'>、承担单位概况，拥有知识产权状况</span></font><span
+  lang=EN-US><o:p></o:p></span></b></p>
+  <p class=MsoNormal >
+	<span lang=EN-US style="line-height:150%; font-family:宋体; font-size:12pt; "><font size="3"><DIV>&nbsp;&nbsp;&nbsp; 项目申报单位<B>江南大学</B>是我国轻工、食品、生物技术高科技的摇篮与依托单位之一。建有国内唯一的“食品科学与技术”国家重点实验室，同时建有6个国家、省部级工程研究中心，7个部省级重点实验室以及江苏省食品安全研究基地、教育部科技查新工作站、工业微生物资源数据库整合及共享信息平台，拥有图书218.66万册，电子图书11264 GB。“十五”以来，学校承担并完成了包括国家“863”、“973”、国家自然科学基金、国家重大专项、国家“十五”“十一五”攻关项目等在内的国家、部省市科研项目1000余项。共获国家、省部级以上科技奖励200余项，其中国家技术发明和科技进步二等奖5项。出版学术专著1000余部，发表高水平学术论文17000余篇。2009年，学校科研经费总量达到2.229亿元；国际三大检索收录论文923篇，其中SCIE 387篇，EI403篇，ISTP 206篇。2009年，申请专利 1413项，其中发明专利370 项；授权专利365项，其中发明专利114项，申请和授权专利数在全国高校中一直名列前茅。</DIV>
+<DIV><B>&nbsp;&nbsp;&nbsp; 江南大学</B>食品学院拥有国内食品学科唯一的“食品科学与工程一级国家重点学科”和“食品科学与技术国家重点实验室”，拥有强大的师资及大型实验设备（包括SEM、TEM、XRD、激光粒径分布仪、Zetal电位仪、核磁共振仪、圆二色谱仪、Beckman毛细管电泳仪、HPLC、GC、GC-MS、LC-MS、LC-MS-MS）和众多基础设备，建有专业的生物安全实验室，可以完全保证研究工作的顺利进行。江南大学食品学院食品生物平台实验室拥有全套蛋白质组学相关仪器设备、日立F-7000荧光仪、PCR仪、流式细胞仪、多功能酶标仪等大型仪器设备，可随时保证研究工作使用。本课题研究小组实验室拥有发光成像系统、全自动酶标仪、梯度PCR仪、分子杂交炉、电泳仪、双波长紫外-可见分光光度计、层析制备系统、半制备HPLC、超低温冰箱等仪器设备，拥有完善的细胞生物学和分子生物学实验室。</DIV>
+<DIV>&nbsp;&nbsp;&nbsp; 项目合作单位<B>江苏出入境检验检疫局动植物与食品检测中心</B>拥有LightCycler实时定量PCR仪、梯度PCR仪和常规PCR仪、凝胶成相系统、核酸杂交炉、Eppendorf离心机、电泳及层析等成套的生物化学和分子生物学实验仪器设备，拥有CO<SUB>2</SUB>培养箱、倒置显微镜、细胞滚瓶培养装置、生物安全实验室等成套的细胞培养所需的仪器设备和实验设施，拥有全自动酶标仪、常规酶标仪、洗板机、各类离心机等成套血清学实验仪器设备，拥有高压电泳、超滤浓缩、层析、超速离心等成套的蛋白检测和分析仪器设备。同时拥有三相气体培养箱，微需氧培养罐，MiniVidas细菌快速鉴定，Matrix磁珠吸附，Bax等适用于弯曲菌的成套的细菌培养及检测仪器设备拥有微需氧培养罐，Mini Vidas细菌快速鉴定，Matrix磁珠吸附，Bax等适用于弯曲菌的成套的细菌培养及检测仪器设备。中心拥有实验室面积3000多平方米，拥有生物安全实验室三间，各种培养用的无菌室多间，设计先进的分子检测专用实验室，整体布局合理。涉及了细菌病毒的分离鉴定、细胞培养、PCR、ELISA等各种生物学技术，具有完善的生物安全体系和丰富的操作经验，能合理使用并有效控制活病原，确保病原不会扩散。</DIV>&nbsp;&nbsp;&nbsp; 此外，江南大学食品学院、食品科学与技术国家重点实验室自“十五”以来，承担了大量食品安全领域的国家、省部级科研项目，在食品安全检测技术和产品开发领域发表研究论文近100篇，申报国家发明专利210项，获得授权国家发明专利78项。 
+
+
+</font>
+
+<o:p></o:p></span></p>
+  <p class=MsoNormal >
+	<span lang=EN-US style='line-height:120%;
+  font-family:楷体_GB2312;mso-hansi-font-family:宋体'><o:p><font size="3">&nbsp;</font></o:p></span></p>
+  </td>
+ </tr>
+
+ <tr style='mso-yfti-irow:1'>
+  <td width=569 valign=top style='width:426.45pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:150%'><b style='mso-bidi-font-weight:
+  normal'><span lang=EN-US style='line-height:120%;font-family:
+  宋体'><font size="3">2</font></span></b><b style='mso-bidi-font-weight:normal'><font size="3"><span
+  style='line-height:120%;font-family:宋体'>、本项目现有的研究工作基础</span></font><span
+  lang=EN-US><o:p></o:p></span></b></p>
+  <p class=MsoNormal >
+	<span lang=EN-US style="line-height:150%; font-family:宋体; font-size:12pt; "><font size="3"><DIV>&nbsp;&nbsp;&nbsp; 1）<B>食品安全检测方面</B>：本课题组近年来一直致力于真菌毒素和食源性致病菌快速检测方法和技术的研究工作，基于免疫亲和反应、核酸适配体识别、DNA杂交等原理，结合纳米探针技术，已成功构建了黄曲霉毒素B<SUB>1</SUB>、赭曲霉毒素A、沙门氏菌、金黄色葡萄球菌、单增李斯特菌等的新型检测方法，并成功应用于实际样本的检测工作中；筛选得到了单增李斯特菌和志贺氏菌特异结合核酸适配体，已结合荧光生物标记技术成功应用于目标菌的高灵敏检测。发表SCI论文4篇，申报国家发明专利6项。<B></B></DIV>
+<DIV>&nbsp;&nbsp;&nbsp; 2）<B>纳米探针制备方面</B>：前期研究中，课题组成员在纳米材料制备及其生物功能化、纳米生物探针制备等方面已经开展了大量研究工作，积累了丰富的实践经验。制备了金属纳米颗粒、核壳结构磁性纳米颗粒、二氧化硅包覆荧光纳米颗粒、量子点等多种纳米材料，并成功对其进行了表面生物功能化、构建纳米生物探针并应用于食品安全相关研究工作中。发表研究论文6篇。</DIV>
+<DIV><B>&nbsp;&nbsp;&nbsp; 3</B><B>）上转换发光纳米材料、检测装备方面：</B>本课题小组已成功合成了表面氨基化的磁性纳米球和具有不同颜色发射的上转换荧光纳米材料<B>(</B><B>图</B><B>2, 3)</B>，为多色生物标记奠定了基础。另，课题组已经自行组装了采用红外激光光源的上转换荧光检测装置，在光源配置和接口、检测池设计方面均为课题组特有思想设计。目前该装置已非常成熟，在稳定性、可靠性、可调性能上表现良好。后续试验中将为此设备增加部分组件，进一步提高其性能，并使其小型化，研制便携式检测仪。已录用SCI论文1篇，申报国家发明专利1项。</DIV>
+<DIV><B><U>已申报国家发明专利（课题直接相关）</U></B>：</DIV>
+<DIV>&nbsp; 1）王周平，吴世嘉, 段诺. 一种适配体功能化磁性纳米材料磁分离—上转换荧光纳米材料标记检测赭曲霉毒素A的方法 （申请号：201010295782.8）</DIV>
+<DIV>&nbsp; 2) 王周平，段诺，混旭，吴世嘉. 一种电化学发光核配体传感器检测赭曲霉毒素A的方法（申请号：201010271247.9; 公开号：CN 101936940 A）</DIV>
+<DIV>&nbsp; 3）王周平, 李井泉, 段诺, 吴世嘉. 一种纳米金标记-黄曲霉毒素B<SUB>1</SUB>新型检测方法（申请号：200910035334.1; 公开号：CN 101750484 A）</DIV>
+<DIV>&nbsp;</DIV>
+<DIV><B><U>发表和录用</U></B><B><U>SCI</U></B><B><U>论文（课题直接相关）</U></B>：</DIV>
+<DIV>&nbsp; 1）<B>Zhouping Wang&#61482;</B>*<B>,</B> Nuo Duan, Xu Hun, Shijia Wu. Electrochemiluminescence aptamer biosensor for the determination of Ochratoxin A at gold nanoparticles modified gold electrode using N-(aminobutyl)-N-ethylisoluminol as luminescence label. <B>Anal. Bioanal. Chem. </B>2010, 398:2125–2132 <B>(SCI, IF 3.48)</B></DIV>
+<DIV>&nbsp; 2) Shijia Wu, Nuo Duan, <B>Zhouping Wang</B>*, and Hongxin Wang. Aptamer-functionalized magnetic nanoparticles-based bioassay for the detection of ochratoxin A using upconversion nanoparticles as label. <B>Analyst</B> (accepted)DOI:10.1039/C0AN00735H (<B>SCI, IF 3.272)</B></DIV>
+<DIV>&nbsp; 3)&nbsp;Nuo Duan, Shijia Wu, Zhouping Wang*. An aptamer-based fluorescence assay for Ochratoxin A. <B>Chinese J. Anal. Chem.</B> 2011, 39(3):300-304 <B>(SCI, IF 0.79)</B></DIV>
+<DIV><B><U>在食品安全检测领域发表的其他</U></B><B><U>SCI</U></B><B><U>论文：</U></B><B><U></U></B></DIV>
+<DIV>&nbsp; 1) Tinging Miao, <B>Zhouping Wang&#61482;</B>*<B>,</B> Shuang Li, Xin Wang. Sensitive fluorescent detection of <I>Staphylococcus aureus</I> using nanogold linked CdTe nanocrystal as signals amplification labels. <B>Microchimica Acta,</B> 2011, 172:431–437 <B>(SCI, IF 2.648)</B></DIV>
+<DIV>&nbsp; 2) <B>Zhouping Wang&#61482;</B>*<B>,</B> Huan Xu, Jia Wu, Jing Ye, and Zhen Yang. Sensitive detection of <I>Salmonella</I> with fluorescent bioconjugated nanoparticles probe. <B>Food Chemistry</B>, 2011, 125, 779–784 <B>(SCI, IF 3.146)</B></DIV>
+<DIV>&nbsp; 3) <B>Zhouping Wang&#61482;</B>*<B>,</B> Tingting Miu, Huan Xu, Nuo Duan, Xiaoying Ding, Shuang Li. Sensitive immunoassay of Listeria monocytogenes with highly fluorescent bioconjugated silica nanoparticles probe. <B>Journal of Microbiological methods,</B> 2010, 83, 179–184 <B>(SCI, IF 2.427)</B></DIV>
+<DIV>&nbsp; 4)<B> Zhouping Wang*</B>, Huan Xu, Jia Wu, Jing Ye, Guowei Le. Homogenous Detection of Listeria Monocytohenes DNA with Molecule Beacon and Highly Fluorescent Bioconjugated Nanoparticles Probe. <B>Acta Chimica Sinica, </B>2010, 68(9):909-916<B> (SCI, IF 0.751)</B></DIV>
+<DIV>&nbsp; 5)<B> Zhouping Wang</B>, Jun Li, Bin Liu, Jinghong Li. CdTe nanocrystals sensitized chemiluminescence and the analytical application. <B>Talanta</B> 2009, 77, 1050-1056<B>(SCI) IF 3.3</B></DIV>
+<DIV>&nbsp; 6) <B>Zhouping Wang</B>, Jianqiang Hu,<B> </B>Yan Jin, Xin Yao, Jinghong Li. In situ amplified chemiluminescent detection of DNA and immunoassay of IgG using special-shaped nanogold as label.<B> Clin. Chem.</B> 2006, 52(10): 1958-1961 <B>(SCI, IF 6.263)</B></DIV>
+<DIV>&nbsp; 7)<B> Zhouping Wang</B>, Jun Li, Bin Liu, Jianqiang Hu, Xin Yao, Jinghong Li. Chemiluminescence of CdTe nanocrystals induced from direct chemical oxidation and its size-dependent and surfactant sensitized effect. <B>J. Phys. Chem. B</B> 2005, 109(49):23304-23311<B> (SCI, IF 4.58)</B></DIV>
+<DIV>&nbsp; 8) <B>Zhouping Wang</B>*, Nuo Duan, Jingquan Li, Jing Ye, Shufeng Ma, Guowei Le. Ultrasensitive chemiluminescent immunoassay of<I> Salmonella</I> with silver enhancement of nanogold labels. <B>Luminescence</B>, 2010(accepted, in press)<B> </B>DOI: 10.1002/bio.1196<B> (SCI, IF 1.209)</B></DIV>
+<DIV><B><U>申报的其他国家发明专利、获奖情况</U></B><B>：</B><B></B></DIV>
+<DIV>1) 王周平，段诺，李井泉. 一种基于纳米金标银增强信号放大技术的沙门氏菌检测方法（申请号：20109026053X；公开号：CN 101776688 A）</DIV>
+<DIV>2) 王周平，丁晓莹. 一种特异识别单核细胞增生李斯特菌的核酸适配子及其筛选方法与应用（申请号：201010295766.9）</DIV>
+<DIV>3）王周平，丁晓莹. 一种特异识别志贺氏菌的核酸适配子及其筛选方法与应用（申请号：201010295767.3）</DIV>
+<DIV>* 李景虹，李军，王周平。半导体纳米晶复合材料在分析化学和生物分析中的应用. <B>中国分析测试协会科学技术一等奖</B><B>(CAIA</B><B>奖</B><B>)</B>. 2007</DIV><STRONG><U>上转换发光纳米检测相关实验结果</U>：<BR></STRONG>
+<DIV align=center></DIV>
+<DIV align=center></DIV>
+<DIV><STRONG>
+<CENTER><IMG border=0 src="http://www.jskjjh.gov.cn/XMSB/Ent_JBXXB_RWS_FUJIAN_DownLoad.jsp?DJXH=201145961&amp;SN=58009"><BR></CENTER><BR>图</STRONG><STRONG> 2</STRONG> 课题组采用水热法所制备红色发射NaYF<SUB>4</SUB>: Yb, Er (a)、蓝色发射NaYF<SUB>4</SUB>: Yb, Tm (b)、绿色发射NaYF<SUB>4</SUB>: Yb, Er (c)上转换发光纳米材料荧光发射光谱及液相发光照片(内图)（980 nm红外激光激发）<BR><STRONG>
+<CENTER><a href="http://www.jskjjh.gov.cn/XMSB/Ent_JBXXB_RWS_FUJIAN_DownLoad.jsp?typ=inline&amp;DJXH=201145961&amp;SN=58020&amp;tmp=tmp" target="_blank" ><IMG border=0 src="http://www.jskjjh.gov.cn/XMSB/Ent_JBXXB_RWS_FUJIAN_DownLoad.jsp?DJXH=201145961&amp;SN=58020"></A><BR></CENTER><BR>图3</STRONG> 磁分离后不同颜色发射的磁性纳米粒子-上转换发光纳米粒子复合物（NaYF<SUB>4</SUB>: Yb, Tm 上转换发光纳米粒子(a), NaYF<SUB>4</SUB>: Yb, Er上转换发光纳米粒子(a), 二者混合（c））（本课题小组制备）</DIV>
+
+</font>
+<o:p></o:p></span></p>
+  <p class=MsoNormal >
+	<span lang=EN-US style='line-height:120%;
+  font-family:楷体_GB2312;mso-hansi-font-family:宋体'><o:p><font size="3">&nbsp;</font></o:p></span></p>
+  </td>
+ </tr>
+
+ <tr style='mso-yfti-irow:2'>
+  <td width=569 valign=top style='width:426.45pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:150%'><b style='mso-bidi-font-weight:
+  normal'><span lang=EN-US style='line-height:120%;font-family:
+  宋体'><font size="3">3</font></span></b><b style='mso-bidi-font-weight:normal'><font size="3"><span
+  style='line-height:120%;font-family:宋体'>、项目负责人以往承担国家、省级等各类科技计划项目完成情况</span></font><span
+  lang=EN-US><o:p></o:p></span></b></p>
+  <p class=MsoNormal >
+	<span lang=EN-US style="line-height:150%; font-family:宋体; font-size:12pt; "><font size="3"><DIV>1）国家“863”计划项目“基于纳米探针技术的真菌毒素快速检测技术研究”（No.2008AA10Z419），课题已经完成。</DIV>
+<DIV>2) 国家自然科学基金项目“基于功能化金纳米探针的食源性致病菌超灵敏快速检测方法与技术研究”（No.20805019），课题已经完成。</DIV>
+<DIV>3) 江苏省自然科学基金项目“基于功能化金纳米探针的真菌毒素新型检测方法研究”（No.BK2008101），课题已经完成（验收评定为优秀）。</DIV>4）教育部博士点基金新教师项目“基于纳米探针技术的食品营养与安全分析”（No.20070295014），课题已经完成。 
+
+</font>
+<o:p></o:p></span></p>
+  <p class=MsoNormal >
+	<span lang=EN-US style='line-height:120%;
+  font-family:楷体_GB2312;mso-hansi-font-family:宋体'><o:p><font size="3">&nbsp;</font></o:p></span></p>
+  </td>
+ </tr>
+
+ <tr style='mso-yfti-irow:3'>
+  <td width=569 valign=top style='width:426.45pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:150%'><b style='mso-bidi-font-weight:
+  normal'><span lang=EN-US style='line-height:120%;font-family:
+  宋体'><font size="3">4</font></span></b><b style='mso-bidi-font-weight:normal'><font size="3"><span
+  style='line-height:120%;font-family:宋体'>、项目实施具备的人才队伍、经费配套投入能力及科技服务管理能力；</span></font><span
+  lang=EN-US><o:p></o:p></span></b></p>
+  <p class=MsoNormal >
+	<span lang=EN-US style="line-height:150%; font-family:宋体; font-size:12pt; "><font size="3"><DIV>1) 研究队伍<STRONG>&nbsp;&nbsp;&nbsp;<BR>&nbsp;&nbsp;&nbsp;</STRONG>项目研究团队共有9人，其中正教授1名，高级工程师1名，工程师1名，助理工程师1名，博士生3名，硕士生2名。学科背景包括食品营养与安全、食品微生物检验、食品科学、分析化学、食品安全检测等多个领域。是一支很富活力的研究团队。<BR><STRONG>&nbsp;&nbsp;&nbsp;项目申请人，王周平</STRONG>，男，37岁， 2004年获分析化学博士学位，2004-2006年在清华大学化学系从事博士后研究工作，现为江南大学食品学院副院长、教授、博士生导师，（法国）梅里埃科学研究基金获得者，江苏省食品科学与技术学会秘书长，江苏省食品安全标准审评专家，教育部“长江学者与创新团队发展计划” 团队主要成员。申请人具有多年食品安全检测和发光分析科研经历，熟悉食品安全检测、发光分析技术、纳米探针技术及微生物培养筛选工作，目前主要研究方向为食品安全检测和纳米生物分析。先后主持国家“863”计划项目、国家自然科学基金项目、江苏省自然科学基金项目、教育部博士点基金项目、国家质检总局科技计划项目子课题、（法国）梅里埃科学研究基金项目（食品安全领域该基金全球第一个资助项目）等科研项目多项，参与国家自然基金重点和面上项目、国家“十一五”科技支撑计划项目各一项。迄今为止已在国内外重要学术刊物发表研究论文近50篇，其中SCI源刊收录论文35篇（第一作者和责任作者SCI论文25篇），国际刊物邀请综述1篇；申报国家发明专利8项，获中国分析测试协会科学技术一等奖1项。指导博士研究生4名，硕士研究生9名。</DIV>
+<DIV><B>&nbsp;&nbsp; 项目组主要成员，祝长青</B>，男，1973年出生，南京农业大学食品科学与安全专业在读博士生，江苏出入境检验检疫局动植物与食品检测中心食品安全检测实验室高级工程师，生物学检验科副科长。近年来一直致力于食品微生物、毒素等检验工作，主持和参与科研、标准制订项目6个，获国家质检总局“科技兴检奖”二等奖一次，江苏局“科技兴检奖”两次。项目技术骨干，在本项目中主要负责方法的验证与评估。近年取得的主要成果：</DIV>
+<DIV>&nbsp;&nbsp;&nbsp; ①《食品中常见病原微生物快速检测技术的研究》获国家质检总局“科技兴检奖”二等奖（证书编号：2004-33-2-R04，第四完成人）；</DIV>
+<DIV>&nbsp;&nbsp;&nbsp; ②《食品和水中空肠弯曲杆菌检测方法的研究》获江苏局“科技兴检奖”一等奖（证书编号：2004 №：07-02，第二完成人）；</DIV>
+<DIV>&nbsp;&nbsp;&nbsp; ③《转基因大豆检测方法的研究》获得江苏局科技兴检奖二等奖（证书编号：2002 №：06-02，第二完成人，该课题为获得2004年总局科技兴检奖一等奖的“国家转基因植物产品检测实验室及检测技术体系的建立”的子项目）；</DIV>
+<DIV>&nbsp;&nbsp;&nbsp; ④ 完成制定行业标准SN/T 1195-2003“大豆中转基因成分的定性PCR检测方法”（第二完成人）和国家标准GB/T 19495.4-2004 “转基因产品检测 核酸定性PCR检测方法”（第十完成人）；完成国家标准GB/T 4789.9-2003 “食品卫生微生物学检验&nbsp; 空肠弯曲菌检验”的修订工作。<BR>&nbsp;&nbsp;&nbsp; 项目组主要成员，马小媛，女，27岁，东南大学化学化工学院分析化学在读博士生，将于2011年7月到江南大学食品学院任教，主要从事纳米材料制备及SPR分析技术研发工作。截至目前，先后参与国家自然科学基金重大研究计划培育类项目(90923010)、江苏省高校科研成果产业化推进项目(JH09-34)、国家自然科学基金面上项目(20475009)等的研究工作，已发表和录用SCI论文10篇。<BR>
+<DIV>&nbsp;&nbsp;&nbsp; 1）<B>Xiaoyuan Ma</B>, Weiping Qian.&nbsp;Phenolic acid induced growth of gold nanoshells precursor composites and their application in antioxidant capacity assay.<I>Biosensors and Bioelectronics,</I> <B>2010</B>, 26, 1049-1055. (SCI, IF: 5.429)</DIV>
+<DIV>&nbsp;&nbsp;&nbsp; 2）<B>Xiaoyuan Ma</B>, Hui Li, Jian Dong, Weiping Qian. Determination of hydrogen peroxide scavenging activity of phenolic acids by employing gold nanoshells precursor composites as nanoprobes. <I>Food Chemistry,</I> <B>2011</B>, 126, 698-704. (SCI, IF: 3.146)</DIV>
+<DIV>&nbsp;&nbsp;&nbsp; 3）<B>马小媛</B>, 钱卫平. 抗氧化能力评价方法综述.《化学进展》(已接收，SCI，IF: 0.649)</DIV>
+<DIV>&nbsp;&nbsp;&nbsp; 4）Hui Li, <B>Xiaoyuan Ma</B>, Jian Dong, Weiping Qian. Development of methodology based on the formation process of gold nanoshells for detecting hydrogen peroxide scavenging activity. <I>Analytical Chemistry,</I> <B>2009</B>, 81, 8916-8922. (<B>并列第一作者</B>, SCI, IF: 5.214)</DIV>
+<DIV>&nbsp;&nbsp;&nbsp; 5）Xueping Jia, <B>Xiaoyuan Ma</B>, Dongwei Wei, Jian Dong, Weiping Qian. Direct formation of silver nanoparticles in cuttlebone-derived organic matrix for catalytic applications. <I>Colloids and Surfaces A: Physicochemical and Engineering Aspects,</I> <B>2008</B>, 330, 234-240. (SCI, IF: 1.988)</DIV>
+<DIV>&nbsp;&nbsp;&nbsp; 6）Guilan Xu, Hui Li, <B>Xiaoyuan Ma</B>, Xueping Jia, Jian Dong,Weiping Qian. A cuttlebone-derived matrix substrate for hydrogen peroxide/glucose detection. <I>Biosensors and Bioelectronics,</I> <B>2009</B>, 25, 362-367. (SCI, IF: 5.429)</DIV></DIV>
+<DIV>2）经费配套投入能力</DIV>
+<DIV>&nbsp;&nbsp;&nbsp; 课题组在前期研究中已经投入18万元左右用于检测光源购置、接口试制、原材料和生化试剂等购买，后续研究工作中还将通过市配套投入和单位自筹方式继续配套增加140万元经费投入，在实验仪器设备购置、技术产品化、产品市场化方面进行深入研究。</DIV>
+<DIV>3）科技服务管理能力</DIV>
+<DIV>&nbsp;&nbsp;&nbsp; 课题组前期已经承担包括国家“863计划”、国家自然科学基金、江苏省自然科学基金、教育部博士点基金在内的多项科研项目，在科研服务管理能力方面积累了较好的经验，对于本课题项目的实施将发挥积极的指导作用。</DIV>&nbsp;&nbsp;&nbsp; 本课题组也将进一步结合本课题的特色，以及课题指南的规范和要求，针对本课题项目制定对应的策略，全面完成好本课题的各项预定目标，努力提升科技服务管理能力。 
+
+
+</font>
+
+<o:p></o:p></span></p>
+  <p class=MsoNormal >
+	<span lang=EN-US style='line-height:120%;
+  font-family:楷体_GB2312;mso-hansi-font-family:宋体'><o:p><font size="3">&nbsp;</font></o:p></span></p>
+  </td>
+ </tr>
+  
+ <tr style='mso-yfti-irow:4;mso-yfti-lastrow:yes'>
+  <td width=569 valign=top style='width:426.45pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:150%'><b style='mso-bidi-font-weight:
+  normal'><span lang=EN-US style='line-height:120%;font-family:
+  宋体'><font size="3">5</font></span></b><b style='mso-bidi-font-weight:normal'><font size="3"><span
+  style='line-height:120%;font-family:宋体'>、本项目实施可能对环境的影响及预防治理方案。</span></font><span
+  lang=EN-US><o:p></o:p></span></b></p>
+  <p class=MsoNormal >
+	<span lang=EN-US style="line-height:150%; font-family:宋体; font-size:12pt; "><font size="3">本项目实施不涉及对环境造成影响。 
+
+</font>
+<o:p></o:p></span></p>
+  <p class=MsoNormal >
+	<span lang=EN-US style='line-height:120%;
+  font-family:楷体_GB2312;mso-hansi-font-family:宋体'><o:p><font size="3">&nbsp;</font></o:p></span></p>
+  </td>
+ </tr>
+</table>
+
+<span lang=EN-US style='font-size:14.0pt;line-height:120%;font-family:仿宋_GB2312;
+mso-hansi-font-family:"Times New Roman";mso-bidi-font-family:"Times New Roman";
+mso-font-kerning:1.0pt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;
+mso-bidi-language:AR-SA'><br clear=all style='page-break-before:always'>
+</span>
+ 
+<p class=MsoNormal style='line-height:150%'><b style='mso-bidi-font-weight:
+normal'><span style='font-size:14.0pt;line-height:120%;font-family:仿宋_GB2312'>五、项目研究预期成果及效益<span
+lang=EN-US><o:p></o:p></span></span></b></p>
+
+<table class=MsoTableGrid border=1 cellspacing=0 cellpadding=0
+ style='border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-yfti-tbllook:480;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;mso-border-insideh:
+ .5pt solid windowtext;mso-border-insidev:.5pt solid windowtext'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes'>
+  <td width=569 valign=top style='width:426.45pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='text-indent:18.0pt;mso-char-indent-count:1.5;
+  line-height:150%'><span lang=EN-US style="line-height:150%; font-family:宋体; font-size:12pt; "><font size="3"><DIV>&nbsp;&nbsp;&nbsp; 建立新型上转换荧光纳米探针的制备方法、基于上转换荧光纳米探针技术的高灵敏度激光诱导荧光分析技术、基于上转换荧光纳米探针技术和抗原-抗体免疫亲和反应建立多色标记-多组分同时检测模式技术，解决真菌毒素快速和高灵敏度分析的实际问题，发展新型真菌毒素检测试剂，形成自主知识产权。最终将建立完善AFB<SUB>1</SUB>、OTA、FB<SUB>1</SUB>等重要真菌毒素新型检测方法3种，检出限达到pg/mL水平甚至更低。</DIV>
+<DIV>&nbsp;&nbsp;&nbsp; 1）建立真菌毒素检测新技术3种；</DIV>
+<DIV>&nbsp;&nbsp;&nbsp; 2）发展检测新产品2种；</DIV>
+<DIV>&nbsp;&nbsp;&nbsp; 3）研制检测新装备1种；</DIV>
+<DIV>&nbsp;&nbsp;&nbsp; 4）申请国家发明专利2-3项，申请国家或行业标准1项；</DIV>
+<DIV>&nbsp;&nbsp;&nbsp; 5）发表高档次SCI源刊收录论文2-5篇；</DIV>&nbsp;&nbsp;&nbsp; 6）提交详细研究报告1份。<BR>&nbsp;&nbsp;&nbsp; 该技术方法以及以此为基础发展的新型检测产品将在涉及真菌毒素检测的质检、商检部门，尤其是检疫检验、海关、公安等部门得到广泛应用，将在提升我国食品安全检测技术水平、保障国民健康方面产生良好的社会和经济效益。 
+</font><o:p></o:p></span></p>
+  <p class=MsoNormal style='text-indent:18.0pt;mso-char-indent-count:1.5;
+  line-height:150%'><span lang=EN-US style='font-size:9.0pt;line-height:120%;
+  font-family:楷体_GB2312'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+</table>
+
+<p class=MsoNormal style='line-height:150%'><b style='mso-bidi-font-weight:
+normal'><span lang=EN-US style='font-size:14.0pt;line-height:120%;font-family:
+仿宋_GB2312'><o:p>&nbsp;</o:p></span></b></p>
+
+<p class=MsoNormal style='line-height:150%'><b style='mso-bidi-font-weight:
+normal'><span lang=EN-US style='font-size:14.0pt;line-height:120%;font-family:
+仿宋_GB2312'><o:p>&nbsp;</o:p></span></b></p>
+
+<b style='mso-bidi-font-weight:normal'><span lang=EN-US style='font-size:14.0pt;
+line-height:120%;font-family:仿宋_GB2312;mso-hansi-font-family:"Times New Roman";
+mso-bidi-font-family:"Times New Roman";mso-font-kerning:1.0pt;mso-ansi-language:
+EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA'><br clear=all
+style='page-break-before:always'>
+</span></b>
+
+<p class=MsoNormal style='line-height:150%'><b style='mso-bidi-font-weight:
+normal'><span style='font-size:14.0pt;line-height:120%;font-family:仿宋_GB2312'>六、计划进度安排与考核指标<span
+lang=EN-US><o:p></o:p></span></span></b></p>
+
+<table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width=582
+ style='width:436.55pt;border-collapse:collapse;border:none;mso-border-alt:
+ solid windowtext .5pt;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;mso-border-insideh:
+ .5pt solid windowtext;mso-border-insidev:.5pt solid windowtext'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;height:1.0cm'>
+  <td width=224 style='width:168.15pt;border:solid windowtext 1.0pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='text-align:center'><font size="3">
+	<span
+  style='font-family:仿宋_GB2312'>工作进度</span></font><span lang=EN-US><o:p></o:p></span></p>
+  </td>
+  <td width=358 style='width:268.4pt;border:solid windowtext 1.0pt;border-left:
+  none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='text-align:center'><font size="3">
+	<span
+  style='font-family:仿宋_GB2312'>主要工作内容</span></font><span lang=EN-US><o:p></o:p></span></p>
+  </td>
+ </tr>
+ 
+	  
+	  
+ 
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;height:1.0cm'>
+  <td width=224 style='width:168.15pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='text-align:center'>
+	<span lang=EN-US
+  style='font-family:仿宋_GB2312'><font size="3">2011</font></span><font size="3"><span
+  style='font-family:仿宋_GB2312'>年<span lang=EN-US>07</span>月至<span
+  lang=EN-US>2011</span>年<span lang=EN-US>09</span>月</span></font><span lang=EN-US><o:p></o:p></span></p>
+  </td>
+  <td width=358 style='width:268.4pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal><span lang=EN-US style='font-family:楷体_GB2312'><font size="3">纳米材料制备、表征，生物功能化纳米探针制备</font><o:p></o:p></span></p>
+  </td>
+ </tr>
+ 
+ 
+
+ 
+  
+ 
+ 
+ 	 
+ 
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;height:1.0cm'>
+  <td width=224 style='width:168.15pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='text-align:center'>
+	<span lang=EN-US
+  style='font-family:仿宋_GB2312'><font size="3">2011</font></span><font size="3"><span
+  style='font-family:仿宋_GB2312'>年<span lang=EN-US>10</span>月至<span
+  lang=EN-US>2012</span>年<span lang=EN-US>12</span>月</span></font><span lang=EN-US><o:p></o:p></span></p>
+  </td>
+  <td width=358 style='width:268.4pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal><span lang=EN-US style='font-family:楷体_GB2312'><font size="3">建立基于磁分离富集-免疫亲和识别-上转换荧光纳米探针技术的真菌毒素新型检测技术和基于磁分离富集-核酸适配体识别-上转换荧光纳米探针技术的真菌毒素新型检测技术</font><o:p></o:p></span></p>
+  </td>
+ </tr>
+ 
+ 
+
+ 
+  
+ 
+ 
+ 	 
+ 
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;height:1.0cm'>
+  <td width=224 style='width:168.15pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='text-align:center'>
+	<span lang=EN-US
+  style='font-family:仿宋_GB2312'><font size="3">2013</font></span><font size="3"><span
+  style='font-family:仿宋_GB2312'>年<span lang=EN-US>01</span>月至<span
+  lang=EN-US>2013</span>年<span lang=EN-US>07</span>月</span></font><span lang=EN-US><o:p></o:p></span></p>
+  </td>
+  <td width=358 style='width:268.4pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal><span lang=EN-US style='font-family:楷体_GB2312'><font size="3">建立基于磁分离富集-上转换荧光纳米探针多色标记的真菌毒素多组分同时检测技术；产品研制。装备试制</font><o:p></o:p></span></p>
+  </td>
+ </tr>
+ 
+ 
+
+ 
+  
+ 
+ 
+ 	 
+ 
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;height:1.0cm'>
+  <td width=224 style='width:168.15pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='text-align:center'>
+	<span lang=EN-US
+  style='font-family:仿宋_GB2312'><font size="3">2013</font></span><font size="3"><span
+  style='font-family:仿宋_GB2312'>年<span lang=EN-US>08</span>月至<span
+  lang=EN-US>2013</span>年<span lang=EN-US>12</span>月</span></font><span lang=EN-US><o:p></o:p></span></p>
+  </td>
+  <td width=358 style='width:268.4pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal><span lang=EN-US style='font-family:楷体_GB2312'><font size="3">样本测试，技术、产品和装备验证评估；结题验收</font><o:p></o:p></span></p>
+  </td>
+ </tr>
+ 
+ 
+
+ 
+  
+ 
+ 
+ 	 
+ 
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;height:1.0cm'>
+  <td width=224 style='width:168.15pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='text-align:center'>
+	<span
+  style='font-family:仿宋_GB2312'><font size="3">&nbsp;&nbsp;&nbsp;&nbsp;年&nbsp;&nbsp;月至</font></span><span
+  style='font-size:9.0pt;font-family:仿宋_GB2312'><span
+  style='font-family:仿宋_GB2312'><font size="3">&nbsp;&nbsp;&nbsp;&nbsp;年</font></span><font size="3"><span
+  style='font-family:仿宋_GB2312'>&nbsp;&nbsp;月</span></font><span lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+  <td width=358 style='width:268.4pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal><span lang=EN-US style='font-size:9.0pt;font-family:楷体_GB2312'><o:p></o:p></span></p>
+  </td>
+ </tr>
+
+ 
+ 
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;height:1.0cm'>
+  <td width=224 style='width:168.15pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='text-align:center'>
+	<span
+  style='font-family:仿宋_GB2312'><font size="3">&nbsp;&nbsp;&nbsp;&nbsp;年&nbsp;&nbsp;月至</font></span><span
+  style='font-size:9.0pt;font-family:仿宋_GB2312'><span
+  style='font-family:仿宋_GB2312'><font size="3">&nbsp;&nbsp;&nbsp;&nbsp;年</font></span><font size="3"><span
+  style='font-family:仿宋_GB2312'>&nbsp;&nbsp;月</span></font><span lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+  <td width=358 style='width:268.4pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal><span lang=EN-US style='font-size:9.0pt;font-family:楷体_GB2312'><o:p></o:p></span></p>
+  </td>
+ </tr>
+
+ 
+ 
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;height:1.0cm'>
+  <td width=224 style='width:168.15pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='text-align:center'>
+	<span
+  style='font-family:仿宋_GB2312'><font size="3">&nbsp;&nbsp;&nbsp;&nbsp;年&nbsp;&nbsp;月至</font></span><span
+  style='font-size:9.0pt;font-family:仿宋_GB2312'><span
+  style='font-family:仿宋_GB2312'><font size="3">&nbsp;&nbsp;&nbsp;&nbsp;年</font></span><font size="3"><span
+  style='font-family:仿宋_GB2312'>&nbsp;&nbsp;月</span></font><span lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+  <td width=358 style='width:268.4pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal><span lang=EN-US style='font-size:9.0pt;font-family:楷体_GB2312'><o:p></o:p></span></p>
+  </td>
+ </tr>
+
+ 
+ 	 
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes;
+  height:310.25pt'>
+  <td width=582 colspan=2 valign=top style='width:436.55pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:310.25pt'>
+  <p class=MsoNormal style='line-height:150%'><font size="3">
+	<span style='line-height:120%;font-family:仿宋_GB2312'>项目完成后主要考核指标： </span>
+	</font> <span lang=EN-US><o:p></o:p></span></p>
+  <p class=MsoNormal >
+	<span lang=EN-US style='line-height:120%;
+  font-family:楷体_GB2312'><font size="3">1）建立真菌毒素检测新技术3种；
+2）发展检测新产品2种；
+3）研制检测新装备1种；
+4）申请国家发明专利2-3项，申请国家或行业标准1项；
+5）发表高档次SCI源刊收录论文2-5篇；
+6）提交详细研究报告1份。
+</font><o:p></o:p></span></p>
+  <p class=MsoNormal><span lang=EN-US style='font-family:仿宋_GB2312'><o:p>
+	<font size="3">&nbsp;</font></o:p></span></p>
+  </td>
+ </tr>
+</table>
+
+</div>
+
+<div class=Section3>
+
+<span lang=EN-US style='font-size:14.0pt;line-height:120%;font-family:仿宋_GB2312;
+mso-hansi-font-family:"Times New Roman";mso-bidi-font-family:"Times New Roman";
+mso-font-kerning:1.0pt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;
+mso-bidi-language:AR-SA'><br clear=all style='page-break-before:always'>
+</span>
+
+</span>
+<span style='font-size:14.0pt;
+line-height:120%;font-family:仿宋_GB2312;mso-hansi-font-family:"Times New Roman";
+mso-bidi-font-family:"Times New Roman";mso-font-kerning:1.0pt;mso-ansi-language:
+EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA'>
+
+<p class=MsoNormal style='line-height:150%'>
+<span style="font-family: 仿宋_GB2312; font-size: 14pt">七</span></span><span lang=EN-US style='font-size:14.0pt;
+line-height:120%;font-family:仿宋_GB2312;mso-hansi-font-family:"Times New Roman";
+mso-bidi-font-family:"Times New Roman";mso-font-kerning:1.0pt;mso-ansi-language:
+EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA'><b style='mso-bidi-font-weight:
+normal'><span style='font-size:14.0pt;line-height:120%;font-family:仿宋_GB2312'>、承担单位审查及承诺意见、盖章</span></b></p>
+
+<p class=MsoNormal style='line-height:150%'>　</p>
+<p class=MsoNormal style='line-height:150%'>
+<span
+style='mso-spacerun:yes; font-size:14.0pt; line-height:120%; font-family:仿宋_GB2312' lang="EN-US">&nbsp; </span><span style='font-size:14.0pt;
+line-height:120%;font-family:仿宋_GB2312'>承担单位<span lang=EN-US><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span>参加单位<span lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='line-height:150%'><span style='font-size:14.0pt;
+line-height:120%;font-family:仿宋_GB2312'>（法人签字）<span lang=EN-US><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span>（法人签字）<span lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='line-height:150%'><span lang=EN-US style='font-size:
+14.0pt;line-height:120%;font-family:仿宋_GB2312'><span
+style='mso-spacerun:yes'>&nbsp;&nbsp; </span></span><span style='font-size:
+14.0pt;line-height:120%;font-family:仿宋_GB2312'>盖章<span lang=EN-US><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span>盖章<span lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='line-height:150%'><span lang=EN-US style='font-size:
+14.0pt;line-height:120%;font-family:仿宋_GB2312'><span
+style='mso-spacerun:yes'>&nbsp; </span></span><span style='font-size:14.0pt;
+line-height:120%;font-family:仿宋_GB2312'>年<span lang=EN-US><span
+style='mso-spacerun:yes'>&nbsp; </span></span>月<span lang=EN-US><span
+style='mso-spacerun:yes'>&nbsp; </span></span>日<span lang=EN-US><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span>年<span lang=EN-US><span style='mso-spacerun:yes'>&nbsp; </span></span>月<span
+lang=EN-US><span style='mso-spacerun:yes'>&nbsp; </span></span>日</span></p>
+
+<p class=MsoNormal style='line-height:150%'>　</p>
+</span>
+<span style='font-size:14.0pt;
+line-height:120%;font-family:仿宋_GB2312;mso-hansi-font-family:"Times New Roman";
+mso-bidi-font-family:"Times New Roman";mso-font-kerning:1.0pt;mso-ansi-language:
+EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA'>
+<p class=MsoNormal style='line-height:150%'>
+<span style="font-family: 仿宋_GB2312; font-size: 14pt">八</span></span><span lang=EN-US style='font-size:14.0pt;
+line-height:120%;font-family:仿宋_GB2312;mso-hansi-font-family:"Times New Roman";
+mso-bidi-font-family:"Times New Roman";mso-font-kerning:1.0pt;mso-ansi-language:
+EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA'><b style='mso-bidi-font-weight:
+normal'><span style='font-size:14.0pt;line-height:120%;font-family:仿宋_GB2312'>、县（市）科技主管部门承诺意见、盖章</span></b></p>
+<p class=MsoNormal style='line-height:150%'>　</p>
+
+<p class=MsoNormal style='line-height:150%'><span lang=EN-US style='font-size:
+14.0pt;line-height:120%;font-family:仿宋_GB2312'><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span></span><span
+style='font-size:14.0pt;line-height:120%;font-family:仿宋_GB2312'>是否同意配套支持：是</span><span
+lang=EN-US style='font-size:14.0pt;line-height:120%;font-family:"Monotype Sorts";
+mso-ascii-font-family:仿宋_GB2312;mso-fareast-font-family:仿宋_GB2312;mso-hansi-font-family:
+"Times New Roman";mso-char-type:symbol;mso-symbol-font-family:"Monotype Sorts"'><span
+style='mso-char-type:symbol;mso-symbol-font-family:"Monotype Sorts"'>&#151;</span></span><span
+lang=EN-US style='font-size:14.0pt;line-height:120%;font-family:仿宋_GB2312'><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span
+style='font-size:14.0pt;line-height:120%;font-family:仿宋_GB2312'>配套支持经费：<span
+lang=EN-US><span style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span></span>万元<span
+lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='line-height:150%'><span lang=EN-US style='font-size:
+14.0pt;line-height:120%;font-family:仿宋_GB2312'><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span style='font-size:14.0pt;line-height:120%;font-family:仿宋_GB2312'>否</span><span
+lang=EN-US style='font-size:14.0pt;line-height:120%;font-family:"Monotype Sorts";
+mso-ascii-font-family:仿宋_GB2312;mso-fareast-font-family:仿宋_GB2312;mso-hansi-font-family:
+"Times New Roman";mso-char-type:symbol;mso-symbol-font-family:"Monotype Sorts"'><span
+style='mso-char-type:symbol;mso-symbol-font-family:"Monotype Sorts"'>&#151;</span></span><span
+lang=EN-US style='font-size:14.0pt;line-height:120%;font-family:仿宋_GB2312'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='line-height:150%'><span lang=EN-US style='font-size:
+14.0pt;line-height:120%;font-family:仿宋_GB2312'><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span></span><span
+style='font-size:14.0pt;line-height:120%;font-family:仿宋_GB2312'>（负责人签字）<span
+lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='line-height:150%'><span lang=EN-US style='font-size:
+14.0pt;line-height:120%;font-family:仿宋_GB2312'><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-indent:217.0pt;mso-char-indent-count:15.5;
+line-height:150%'><span style='font-size:14.0pt;line-height:120%;font-family:
+仿宋_GB2312'>单位盖章<span lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='line-height:150%'><span lang=EN-US style='font-size:
+14.0pt;line-height:120%;font-family:仿宋_GB2312'><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span style='font-size:14.0pt;line-height:120%;font-family:仿宋_GB2312'>年<span
+lang=EN-US><span style='mso-spacerun:yes'>&nbsp; </span></span>月<span
+lang=EN-US><span style='mso-spacerun:yes'>&nbsp;&nbsp; </span></span>日</span></p>
+<p class=MsoNormal style='line-height:150%'>　</p>
+</span>
+<span style='font-size:14.0pt;
+line-height:120%;font-family:仿宋_GB2312;mso-hansi-font-family:"Times New Roman";
+mso-bidi-font-family:"Times New Roman";mso-font-kerning:1.0pt;mso-ansi-language:
+EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA'>
+<p class=MsoNormal style='line-height:150%'>
+<span style="font-family: 仿宋_GB2312; font-size: 14pt">九</span></span><span lang=EN-US style='font-size:14.0pt;
+line-height:120%;font-family:仿宋_GB2312;mso-hansi-font-family:"Times New Roman";
+mso-bidi-font-family:"Times New Roman";mso-font-kerning:1.0pt;mso-ansi-language:
+EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA'><b style='mso-bidi-font-weight:
+normal'><span style='font-size:14.0pt;line-height:120%;font-family:仿宋_GB2312'>、省辖市科技主管部门、省有关厅局审查承诺意见、盖章</span></b></p>
+<p class=MsoNormal style='line-height:150%'>　</p>
+
+<p class=MsoNormal style='line-height:150%'><span lang=EN-US style='font-size:
+14.0pt;line-height:120%;font-family:仿宋_GB2312'><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span></span><span
+style='font-size:14.0pt;line-height:120%;font-family:仿宋_GB2312'>是否同意配套支持：是</span><b style='mso-bidi-font-weight:normal'><span
+style='mso-char-type:symbol;mso-symbol-font-family:"Monotype Sorts"; font-size:14.0pt; line-height:120%; font-family:Monotype Sorts; mso-ascii-font-family:仿宋_GB2312; mso-fareast-font-family:仿宋_GB2312; mso-hansi-font-family:Times New Roman; mso-bidi-font-family:Times New Roman; mso-font-kerning:1.0pt; mso-ansi-language:EN-US; mso-fareast-language:ZH-CN; mso-bidi-language:AR-SA' lang="EN-US">&#151;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>
+</b><span
+style='font-size:14.0pt;line-height:120%;font-family:仿宋_GB2312'>配套支持经费：<span
+lang=EN-US><span style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span></span>万元<span
+lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='line-height:150%'><span lang=EN-US style='font-size:
+14.0pt;line-height:120%;font-family:仿宋_GB2312'><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span style='font-size:14.0pt;line-height:120%;font-family:仿宋_GB2312'>否</span><b style='mso-bidi-font-weight:normal'><span
+style='mso-char-type:symbol;mso-symbol-font-family:"Monotype Sorts"; font-size:14.0pt; line-height:120%; font-family:Monotype Sorts; mso-ascii-font-family:仿宋_GB2312; mso-fareast-font-family:仿宋_GB2312; mso-hansi-font-family:Times New Roman; mso-bidi-font-family:Times New Roman; mso-font-kerning:1.0pt; mso-ansi-language:EN-US; mso-fareast-language:ZH-CN; mso-bidi-language:AR-SA' lang="EN-US">&#151;</span></b></p>
+<p class=MsoNormal style='line-height:150%'>
+<span
+style='mso-spacerun:yes; font-size:14.0pt; line-height:120%; font-family:仿宋_GB2312' lang="EN-US">&nbsp;&nbsp;&nbsp; </span><span
+style='font-size:14.0pt;line-height:120%;font-family:仿宋_GB2312'>（负责人签字）<span
+lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='line-height:150%'><span lang=EN-US style='font-size:
+14.0pt;line-height:120%;font-family:仿宋_GB2312'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='line-height:150%'><span lang=EN-US style='font-size:
+14.0pt;line-height:120%;font-family:仿宋_GB2312'><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span style='font-size:14.0pt;line-height:120%;font-family:仿宋_GB2312'>单位盖章<span
+lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='line-height:150%'><span lang=EN-US style='font-size:
+14.0pt;line-height:120%;font-family:仿宋_GB2312'><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span style='font-size:14.0pt;line-height:120%;font-family:仿宋_GB2312'>年<span
+lang=EN-US><span style='mso-spacerun:yes'>&nbsp;&nbsp; </span></span>月<span
+lang=EN-US><span style='mso-spacerun:yes'>&nbsp;&nbsp; </span></span>日<span
+lang=EN-US><o:p></o:p></span></span></p>
+
+<span lang=EN-US style='font-size:14.0pt;line-height:120%;font-family:仿宋_GB2312;
+mso-hansi-font-family:"Times New Roman";mso-bidi-font-family:"Times New Roman";
+mso-font-kerning:1.0pt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;
+mso-bidi-language:AR-SA'><br clear=all style='page-break-before:always'>
+</span>
+
+<p class=MsoNormal style='line-height:150%'><b style='mso-bidi-font-weight:
+normal'><span style='font-size:14.0pt;line-height:120%;font-family:仿宋_GB2312'>本项目任务书所附的附件清单<span
+lang=EN-US><o:p></o:p></span></span></b></p>
+
+<table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width=560
+ style='width:420.15pt;border-collapse:collapse;border:none;mso-border-alt:
+ solid windowtext .5pt;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;mso-border-insideh:
+ .5pt solid windowtext;mso-border-insidev:.5pt solid windowtext'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td width=560 valign=top style='width:420.15pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:150%'><span style='font-size:14.0pt;
+  line-height:120%;font-family:仿宋_GB2312'>附件名称（复印件）<span lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+ </tr>
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td width=560 valign=top style='width:420.15pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:150%'><span lang=EN-US
+  style='font-size:14.0pt;line-height:120%;font-family:仿宋_GB2312'>1.</span><span
+  style='font-size:14.0pt;line-height:120%;font-family:仿宋_GB2312'>申报专利1<span
+  lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+ </tr>
+  
+   
+ 
+ 
+ 
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td width=560 valign=top style='width:420.15pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:150%'><span lang=EN-US
+  style='font-size:14.0pt;line-height:120%;font-family:仿宋_GB2312'>2.</span><span
+  style='font-size:14.0pt;line-height:120%;font-family:仿宋_GB2312'>申报专利2<span
+  lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+ </tr>
+  
+   
+ 
+ 
+ 
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td width=560 valign=top style='width:420.15pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:150%'><span lang=EN-US
+  style='font-size:14.0pt;line-height:120%;font-family:仿宋_GB2312'>3.</span><span
+  style='font-size:14.0pt;line-height:120%;font-family:仿宋_GB2312'>申报专利3<span
+  lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+ </tr>
+  
+   
+ 
+ 
+ 
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td width=560 valign=top style='width:420.15pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:150%'><span lang=EN-US
+  style='font-size:14.0pt;line-height:120%;font-family:仿宋_GB2312'>4.</span><span
+  style='font-size:14.0pt;line-height:120%;font-family:仿宋_GB2312'>获奖证书<span
+  lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+ </tr>
+  
+   
+ 
+ 
+ 
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td width=560 valign=top style='width:420.15pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:150%'><span lang=EN-US
+  style='font-size:14.0pt;line-height:120%;font-family:仿宋_GB2312'>5.</span><span
+  style='font-size:14.0pt;line-height:120%;font-family:仿宋_GB2312'>相关论文1<span
+  lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+ </tr>
+  
+   
+ 
+ 
+ 
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td width=560 valign=top style='width:420.15pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:150%'><span lang=EN-US
+  style='font-size:14.0pt;line-height:120%;font-family:仿宋_GB2312'>6.</span><span
+  style='font-size:14.0pt;line-height:120%;font-family:仿宋_GB2312'>相关论文3（首页）<span
+  lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+ </tr>
+  
+   
+ 
+ 
+ 
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td width=560 valign=top style='width:420.15pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:150%'><span lang=EN-US
+  style='font-size:14.0pt;line-height:120%;font-family:仿宋_GB2312'>7.</span><span
+  style='font-size:14.0pt;line-height:120%;font-family:仿宋_GB2312'>其他论文1（首页）<span
+  lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+ </tr>
+  
+   
+ 
+ 
+ 
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td width=560 valign=top style='width:420.15pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:150%'><span lang=EN-US
+  style='font-size:14.0pt;line-height:120%;font-family:仿宋_GB2312'>8.</span><span
+  style='font-size:14.0pt;line-height:120%;font-family:仿宋_GB2312'>其他论文2（首页）<span
+  lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+ </tr>
+  
+   
+ 
+ 
+ 
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td width=560 valign=top style='width:420.15pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:150%'><span lang=EN-US
+  style='font-size:14.0pt;line-height:120%;font-family:仿宋_GB2312'>9.</span><span
+  style='font-size:14.0pt;line-height:120%;font-family:仿宋_GB2312'>相关论文2（录用函和首页）<span
+  lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+ </tr>
+  
+   
+
+</table>
+
+<p class=MsoNormal style='line-height:150%'><span lang=EN-US><o:p>&nbsp;</o:p></span></p>
+
+</div>
+
+</body>
+
+</html>
