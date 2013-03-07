@@ -1,0 +1,1704 @@
+
+
+
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=gbk">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 11">
+<meta name=Originator content="Microsoft Word 11">
+<title>项目申报书</title>
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>JonMMx 2000</o:Author>
+  <o:LastAuthor>CYP</o:LastAuthor>
+  <o:Revision>3</o:Revision>
+  <o:TotalTime>11</o:TotalTime>
+  <o:LastPrinted>2003-01-28T01:52:00Z</o:LastPrinted>
+  <o:Created>2007-12-06T08:13:00Z</o:Created>
+  <o:LastSaved>2007-12-06T08:13:00Z</o:LastSaved>
+  <o:Pages>10</o:Pages>
+  <o:Words>381</o:Words>
+  <o:Characters>2173</o:Characters>
+  <o:Company>jsstc</o:Company>
+  <o:Lines>18</o:Lines>
+  <o:Paragraphs>5</o:Paragraphs>
+  <o:CharactersWithSpaces>2549</o:CharactersWithSpaces>
+  <o:Version>11.5606</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+
+  <w:View>Print</w:View>
+  <w:SpellingState>Clean</w:SpellingState>
+  <w:GrammarState>Clean</w:GrammarState>  
+  
+
+  <w:PunctuationKerning/>
+  <w:DrawingGridHorizontalSpacing>5.25 磅</w:DrawingGridHorizontalSpacing>
+  <w:DrawingGridVerticalSpacing>7.25 磅</w:DrawingGridVerticalSpacing>
+  <w:DisplayHorizontalDrawingGridEvery>0</w:DisplayHorizontalDrawingGridEvery>
+  <w:DisplayVerticalDrawingGridEvery>2</w:DisplayVerticalDrawingGridEvery>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:Compatibility>
+   <w:SpaceForUL/>
+   <w:BalanceSingleByteDoubleByteWidth/>
+   <w:DoNotLeaveBackslashAlone/>
+   <w:ULTrailSpace/>
+   <w:DoNotExpandShiftReturn/>
+   <w:FootnoteLayoutLikeWW8/>
+   <w:ShapeLayoutLikeWW8/>
+   <w:AlignTablesRowByRow/>
+   <w:ForgetLastTabAlignment/>
+   <w:LayoutRawTableWidth/>
+   <w:LayoutTableRowsApart/>
+   <w:UseWord97LineBreakingRules/>
+   <w:SelectEntireFieldWithStartOrEnd/>
+   <w:UseWord2002TableStyleRules/>
+   <w:UseFELayout/>
+  </w:Compatibility>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+ </w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" LatentStyleCount="156">
+ </w:LatentStyles>
+</xml><![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:宋体;
+	panose-1:2 1 6 0 3 1 1 1 1 1;
+	mso-font-alt:SimSun;
+	mso-font-charset:134;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:3 135135232 16 0 262145 0;}
+@font-face
+	{font-family:黑体;
+	panose-1:2 1 6 0 3 1 1 1 1 1;
+	mso-font-alt:SimHei;
+	mso-font-charset:134;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:1 135135232 16 0 262144 0;}
+@font-face
+	{font-family:仿宋_GB2312;
+	panose-1:2 1 6 9 3 1 1 1 1 1;
+	mso-font-charset:134;
+	mso-generic-font-family:modern;
+	mso-font-pitch:fixed;
+	mso-font-signature:1 135135232 16 0 262144 0;}
+@font-face
+	{font-family:楷体_GB2312;
+	panose-1:2 1 6 9 3 1 1 1 1 1;
+	mso-font-charset:134;
+	mso-generic-font-family:modern;
+	mso-font-pitch:fixed;
+	mso-font-signature:1 135135232 16 0 262144 0;}
+@font-face
+	{font-family:"Monotype Sorts";
+	mso-font-alt:Symbol;
+	mso-font-charset:2;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:0 268435456 0 0 -2147483648 0;}
+@font-face
+	{font-family:"\@宋体";
+	panose-1:2 1 6 0 3 1 1 1 1 1;
+	mso-font-charset:134;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:3 135135232 16 0 262145 0;}
+@font-face
+	{font-family:"\@黑体";
+	panose-1:2 1 6 0 3 1 1 1 1 1;
+	mso-font-charset:134;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:1 135135232 16 0 262144 0;}
+@font-face
+	{font-family:"\@楷体_GB2312";
+	panose-1:2 1 6 9 3 1 1 1 1 1;
+	mso-font-charset:134;
+	mso-generic-font-family:modern;
+	mso-font-pitch:fixed;
+	mso-font-signature:1 135135232 16 0 262144 0;}
+@font-face
+	{font-family:"\@仿宋_GB2312";
+	panose-1:2 1 6 9 3 1 1 1 1 1;
+	mso-font-charset:134;
+	mso-generic-font-family:modern;
+	mso-font-pitch:fixed;
+	mso-font-signature:1 135135232 16 0 262144 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	mso-pagination:none;
+	font-size:10.5pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:宋体;
+	mso-font-kerning:1.0pt;}
+p.MsoHeader, li.MsoHeader, div.MsoHeader
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:center;
+	mso-pagination:none;
+	tab-stops:center 207.65pt right 415.3pt;
+	layout-grid-mode:char;
+	border:none;
+	mso-border-bottom-alt:solid windowtext .75pt;
+	padding:0cm;
+	mso-padding-alt:0cm 0cm 1.0pt 0cm;
+	font-size:9.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:宋体;
+	mso-font-kerning:1.0pt;}
+p.MsoFooter, li.MsoFooter, div.MsoFooter
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	mso-pagination:none;
+	tab-stops:center 207.65pt right 415.3pt;
+	layout-grid-mode:char;
+	font-size:9.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:宋体;
+	mso-font-kerning:1.0pt;}
+p.MsoBodyText, li.MsoBodyText, div.MsoBodyText
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	mso-pagination:none;
+	font-size:14.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:仿宋_GB2312;
+	mso-hansi-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";
+	mso-font-kerning:1.0pt;
+	font-weight:bold;
+	mso-bidi-font-weight:normal;}
+ /* Page Definitions */
+ @page
+	{mso-page-border-surround-header:no;
+	mso-page-border-surround-footer:no;}
+@page Section1
+	{size:21.0cm 842.0pt;
+	margin:72.0pt 89.85pt 72.0pt 89.85pt;
+	mso-header-margin:42.55pt;
+	mso-footer-margin:49.6pt;
+	
+
+	
+	
+mso-header:url("http://210.73.128.90/XMSB/SysPrint/PrintTitle.htm") h1;
+
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+@page Section2
+	{size:842.0pt 21.0cm;
+	mso-page-orientation:landscape;
+	margin:89.85pt 72.0pt 89.85pt 72.0pt;
+	mso-header-margin:42.55pt;
+	mso-footer-margin:49.6pt;
+	
+mso-header:url("http://210.73.128.90/XMSB/SysPrint/PrintTitle.htm") h1;
+
+	mso-paper-source:0;}
+div.Section2
+	{page:Section2;}
+@page Section3
+	{size:21.0cm 842.0pt;
+	margin:72.0pt 89.85pt 72.0pt 89.85pt;
+	mso-header-margin:42.55pt;
+	mso-footer-margin:49.6pt;
+	
+mso-header:url("http://210.73.128.90/XMSB/SysPrint/PrintTitle.htm") h1;
+
+	mso-paper-source:0;}
+div.Section3
+	{page:Section3;}
+ /* List Definitions */
+ @list l0
+	{mso-list-id:204740;
+	mso-list-type:simple;
+	mso-list-template-ids:-1481365112;}
+@list l0:level1
+	{mso-level-text:%1、;
+	mso-level-tab-stop:24.0pt;
+	mso-level-number-position:left;
+	margin-left:24.0pt;
+	text-indent:-24.0pt;}
+@list l1
+	{mso-list-id:88241662;
+	mso-list-type:simple;
+	mso-list-template-ids:-926643370;}
+@list l1:level1
+	{mso-level-number-format:japanese-counting;
+	mso-level-text:第%1条;
+	mso-level-tab-stop:86.25pt;
+	mso-level-number-position:left;
+	margin-left:86.25pt;
+	text-indent:-54.0pt;}
+@list l2
+	{mso-list-id:93210360;
+	mso-list-type:simple;
+	mso-list-template-ids:-671557242;}
+@list l2:level1
+	{mso-level-start-at:10;
+	mso-level-number-format:japanese-counting;
+	mso-level-text:%1、;
+	mso-level-tab-stop:36.0pt;
+	mso-level-number-position:left;
+	text-indent:-36.0pt;}
+@list l3
+	{mso-list-id:162018693;
+	mso-list-type:simple;
+	mso-list-template-ids:-1134012298;}
+@list l3:level1
+	{mso-level-text:%1、;
+	mso-level-tab-stop:68.25pt;
+	mso-level-number-position:left;
+	margin-left:68.25pt;
+	text-indent:-36.0pt;}
+@list l4
+	{mso-list-id:170880209;
+	mso-list-type:simple;
+	mso-list-template-ids:-1499551460;}
+@list l4:level1
+	{mso-level-number-format:japanese-counting;
+	mso-level-text:%1、;
+	mso-level-tab-stop:32.25pt;
+	mso-level-number-position:left;
+	margin-left:32.25pt;
+	text-indent:-32.25pt;}
+@list l5
+	{mso-list-id:221333872;
+	mso-list-type:simple;
+	mso-list-template-ids:17607314;}
+@list l5:level1
+	{mso-level-text:%1、;
+	mso-level-tab-stop:18.0pt;
+	mso-level-number-position:left;
+	margin-left:18.0pt;
+	text-indent:-18.0pt;}
+@list l6
+	{mso-list-id:302274800;
+	mso-list-type:simple;
+	mso-list-template-ids:-1891325540;}
+@list l6:level1
+	{mso-level-start-at:2;
+	mso-level-text:%1、;
+	mso-level-tab-stop:36.0pt;
+	mso-level-number-position:left;
+	text-indent:-36.0pt;}
+@list l7
+	{mso-list-id:362898502;
+	mso-list-type:simple;
+	mso-list-template-ids:920545212;}
+@list l7:level1
+	{mso-level-start-at:6;
+	mso-level-number-format:japanese-counting;
+	mso-level-text:%1、;
+	mso-level-tab-stop:36.0pt;
+	mso-level-number-position:left;
+	text-indent:-36.0pt;}
+@list l8
+	{mso-list-id:370107206;
+	mso-list-type:simple;
+	mso-list-template-ids:-1684646148;}
+@list l8:level1
+	{mso-level-text:%1、;
+	mso-level-tab-stop:68.25pt;
+	mso-level-number-position:left;
+	margin-left:68.25pt;
+	text-indent:-36.0pt;}
+@list l9
+	{mso-list-id:452090853;
+	mso-list-type:simple;
+	mso-list-template-ids:1914355420;}
+@list l9:level1
+	{mso-level-text:%1、;
+	mso-level-tab-stop:36.0pt;
+	mso-level-number-position:left;
+	text-indent:-36.0pt;}
+@list l10
+	{mso-list-id:492570912;
+	mso-list-type:simple;
+	mso-list-template-ids:985295542;}
+@list l10:level1
+	{mso-level-text:%1、;
+	mso-level-tab-stop:68.25pt;
+	mso-level-number-position:left;
+	margin-left:68.25pt;
+	text-indent:-36.0pt;}
+@list l11
+	{mso-list-id:546528166;
+	mso-list-type:simple;
+	mso-list-template-ids:-1963849714;}
+@list l11:level1
+	{mso-level-text:%1、;
+	mso-level-tab-stop:68.25pt;
+	mso-level-number-position:left;
+	margin-left:68.25pt;
+	text-indent:-36.0pt;}
+@list l12
+	{mso-list-id:570966614;
+	mso-list-type:simple;
+	mso-list-template-ids:664988006;}
+@list l12:level1
+	{mso-level-text:%1、;
+	mso-level-tab-stop:24.0pt;
+	mso-level-number-position:left;
+	margin-left:24.0pt;
+	text-indent:-24.0pt;}
+@list l13
+	{mso-list-id:579173750;
+	mso-list-type:simple;
+	mso-list-template-ids:-906057658;}
+@list l13:level1
+	{mso-level-start-at:3;
+	mso-level-text:%1、;
+	mso-level-tab-stop:36.0pt;
+	mso-level-number-position:left;
+	text-indent:-36.0pt;}
+@list l14
+	{mso-list-id:591472689;
+	mso-list-type:simple;
+	mso-list-template-ids:1131216068;}
+@list l14:level1
+	{mso-level-start-at:10;
+	mso-level-number-format:japanese-counting;
+	mso-level-text:%1、;
+	mso-level-tab-stop:36.0pt;
+	mso-level-number-position:left;
+	text-indent:-36.0pt;}
+@list l15
+	{mso-list-id:604112910;
+	mso-list-type:simple;
+	mso-list-template-ids:1287172022;}
+@list l15:level1
+	{mso-level-text:%1、;
+	mso-level-tab-stop:36.0pt;
+	mso-level-number-position:left;
+	text-indent:-36.0pt;}
+@list l16
+	{mso-list-id:611058031;
+	mso-list-type:simple;
+	mso-list-template-ids:1644329458;}
+@list l16:level1
+	{mso-level-text:%1、;
+	mso-level-tab-stop:68.25pt;
+	mso-level-number-position:left;
+	margin-left:68.25pt;
+	text-indent:-36.0pt;}
+@list l17
+	{mso-list-id:781724144;
+	mso-list-type:simple;
+	mso-list-template-ids:985295542;}
+@list l17:level1
+	{mso-level-text:%1、;
+	mso-level-tab-stop:68.25pt;
+	mso-level-number-position:left;
+	margin-left:68.25pt;
+	text-indent:-36.0pt;}
+@list l18
+	{mso-list-id:836843116;
+	mso-list-type:simple;
+	mso-list-template-ids:682402314;}
+@list l18:level1
+	{mso-level-text:%1、;
+	mso-level-tab-stop:24.75pt;
+	mso-level-number-position:left;
+	margin-left:24.75pt;
+	text-indent:-24.75pt;}
+@list l19
+	{mso-list-id:964581930;
+	mso-list-type:simple;
+	mso-list-template-ids:-1541797724;}
+@list l19:level1
+	{mso-level-text:%1、;
+	mso-level-tab-stop:24.0pt;
+	mso-level-number-position:left;
+	margin-left:24.0pt;
+	text-indent:-24.0pt;}
+@list l20
+	{mso-list-id:1058045325;
+	mso-list-type:simple;
+	mso-list-template-ids:985295542;}
+@list l20:level1
+	{mso-level-text:%1、;
+	mso-level-tab-stop:68.25pt;
+	mso-level-number-position:left;
+	margin-left:68.25pt;
+	text-indent:-36.0pt;}
+@list l21
+	{mso-list-id:1064764933;
+	mso-list-type:simple;
+	mso-list-template-ids:1256638742;}
+@list l21:level1
+	{mso-level-start-at:2;
+	mso-level-number-format:japanese-counting;
+	mso-level-text:第%1条;
+	mso-level-tab-stop:54.0pt;
+	mso-level-number-position:left;
+	margin-left:54.0pt;
+	text-indent:-54.0pt;}
+@list l22
+	{mso-list-id:1084107392;
+	mso-list-type:simple;
+	mso-list-template-ids:1799803702;}
+@list l22:level1
+	{mso-level-start-at:5;
+	mso-level-number-format:japanese-counting;
+	mso-level-text:%1、;
+	mso-level-tab-stop:36.0pt;
+	mso-level-number-position:left;
+	text-indent:-36.0pt;}
+@list l23
+	{mso-list-id:1084447896;
+	mso-list-type:simple;
+	mso-list-template-ids:985295542;}
+@list l23:level1
+	{mso-level-text:%1、;
+	mso-level-tab-stop:68.25pt;
+	mso-level-number-position:left;
+	margin-left:68.25pt;
+	text-indent:-36.0pt;}
+@list l24
+	{mso-list-id:1113672882;
+	mso-list-type:simple;
+	mso-list-template-ids:508735346;}
+@list l24:level1
+	{mso-level-start-at:6;
+	mso-level-number-format:japanese-counting;
+	mso-level-text:第%1条;
+	mso-level-tab-stop:102.0pt;
+	mso-level-number-position:left;
+	margin-left:102.0pt;
+	text-indent:-70.5pt;}
+@list l25
+	{mso-list-id:1159425512;
+	mso-list-type:simple;
+	mso-list-template-ids:1674322214;}
+@list l25:level1
+	{mso-level-text:%1、;
+	mso-level-tab-stop:24.0pt;
+	mso-level-number-position:left;
+	margin-left:24.0pt;
+	text-indent:-24.0pt;}
+@list l26
+	{mso-list-id:1316060155;
+	mso-list-type:simple;
+	mso-list-template-ids:985295542;}
+@list l26:level1
+	{mso-level-text:%1、;
+	mso-level-tab-stop:68.25pt;
+	mso-level-number-position:left;
+	margin-left:68.25pt;
+	text-indent:-36.0pt;}
+@list l27
+	{mso-list-id:1408727606;
+	mso-list-type:simple;
+	mso-list-template-ids:1517740556;}
+@list l27:level1
+	{mso-level-text:%1、;
+	mso-level-tab-stop:68.5pt;
+	mso-level-number-position:left;
+	margin-left:68.5pt;
+	text-indent:-36.0pt;}
+@list l28
+	{mso-list-id:1624462491;
+	mso-list-type:simple;
+	mso-list-template-ids:534796060;}
+@list l28:level1
+	{mso-level-text:%1、;
+	mso-level-tab-stop:68.25pt;
+	mso-level-number-position:left;
+	margin-left:68.25pt;
+	text-indent:-36.0pt;}
+@list l29
+	{mso-list-id:1703281149;
+	mso-list-type:simple;
+	mso-list-template-ids:-420942296;}
+@list l29:level1
+	{mso-level-text:%1、;
+	mso-level-tab-stop:24.0pt;
+	mso-level-number-position:left;
+	margin-left:24.0pt;
+	text-indent:-24.0pt;}
+@list l30
+	{mso-list-id:1704210929;
+	mso-list-type:simple;
+	mso-list-template-ids:1625585500;}
+@list l30:level1
+	{mso-level-text:%1、;
+	mso-level-tab-stop:24.0pt;
+	mso-level-number-position:left;
+	margin-left:24.0pt;
+	text-indent:-24.0pt;}
+@list l31
+	{mso-list-id:1745834409;
+	mso-list-type:simple;
+	mso-list-template-ids:431792982;}
+@list l31:level1
+	{mso-level-tab-stop:15.0pt;
+	mso-level-number-position:left;
+	margin-left:15.0pt;
+	text-indent:-9.0pt;}
+@list l32
+	{mso-list-id:1985154715;
+	mso-list-type:simple;
+	mso-list-template-ids:388016674;}
+@list l32:level1
+	{mso-level-start-at:5;
+	mso-level-number-format:japanese-counting;
+	mso-level-text:第%1条;
+	mso-level-tab-stop:97.5pt;
+	mso-level-number-position:left;
+	margin-left:97.5pt;
+	text-indent:-65.25pt;}
+@list l33
+	{mso-list-id:2008317000;
+	mso-list-type:simple;
+	mso-list-template-ids:985295542;}
+@list l33:level1
+	{mso-level-text:%1、;
+	mso-level-tab-stop:68.25pt;
+	mso-level-number-position:left;
+	margin-left:68.25pt;
+	text-indent:-36.0pt;}
+ol
+	{margin-bottom:0cm;}
+ul
+	{margin-bottom:0cm;}
+-->
+</style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:普通表格;
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-parent:"";
+	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
+	mso-para-margin:0cm;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-ansi-language:#0400;
+	mso-fareast-language:#0400;
+	mso-bidi-language:#0400;}
+table.MsoTableGrid
+	{mso-style-name:网格型;
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	border:solid windowtext 1.0pt;
+	mso-border-alt:solid windowtext .5pt;
+	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
+	mso-border-insideh:.5pt solid windowtext;
+	mso-border-insidev:.5pt solid windowtext;
+	mso-para-margin:0cm;
+	mso-para-margin-bottom:.0001pt;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	mso-pagination:none;
+	font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-ansi-language:#0400;
+	mso-fareast-language:#0400;
+	mso-bidi-language:#0400;}
+</style>
+<![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="1"/>
+ </o:shapelayout></xml><![endif]-->
+</head> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<body lang=ZH-CN style='tab-interval:21.25pt;text-justify-trim:punctuation'>
+
+<div class=Section1>
+
+<p class=MsoNormal style='line-height:150%'><span style='font-size:14.0pt;line-height:120%;font-family:
+仿宋_GB2312'>计划类别：<u> <span lang=EN-US>科技支撑计划--社会发展<span
+style='mso-spacerun:yes'>&nbsp;
+</span></span></u><span lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='line-height:150%'><span style='font-size:14.0pt;
+line-height:120%;font-family:仿宋_GB2312'>申报代码：<u> <span lang=EN-US>1322<span
+style='mso-spacerun:yes'>&nbsp;
+</span></span></u><span lang=EN-US><o:p></o:p></span></span>&nbsp;&nbsp;<span style='font-size:14.0pt;
+line-height:120%;font-family:仿宋_GB2312'>申报<span lang=EN-US>ID</span>号：<u> <span
+lang=EN-US>SBE201270764<span
+style='mso-spacerun:yes'>&nbsp;&nbsp;
+</span></span></u><span lang=EN-US><o:p></o:p></span></span></p>
+ 
+<p class=MsoNormal style='line-height:150%'><span style='font-size:14.0pt;
+line-height:120%;font-family:仿宋_GB2312'>项目类别：<u> <span
+lang=EN-US>
+
+
+民生领域
+
+
+
+<span
+style='mso-spacerun:yes'>&nbsp;
+</span></span></u><span lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='line-height:150%'><span lang=EN-US style='font-size:
+14.0pt;line-height:120%;font-family:仿宋_GB2312'><o:p>&nbsp;</o:p></span></p>
+
+
+
+<p class=MsoNormal align=center style='text-align:center;line-height:150%'><b
+style='mso-bidi-font-weight:normal'><span style='font-size:28.0pt;line-height:
+150%;font-family:黑体'>江苏省科技计划项目申报书<span lang=EN-US><o:p></o:p></span></span></b></p>
+
+<p class=MsoNormal align=center style='text-align:center;line-height:150%'><span
+lang=EN-US style='font-size:16.0pt;line-height:120%;font-family:仿宋_GB2312'>(</span><span
+style='font-size:16.0pt;line-height:120%;font-family:仿宋_GB2312'>
+
+
+科技支撑计划--社会发展
+
+
+<span
+lang=EN-US>)<o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='line-height:150%'><span lang=EN-US style='font-size:
+14.0pt;line-height:120%;font-family:仿宋_GB2312'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='line-height:200%'><span style='font-size:14.0pt;
+line-height:200%;font-family:仿宋_GB2312'>项目名称：<u> <span lang=EN-US>基于组装纳米金阵列的食品检测与评价新技术研究<span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><span style='mso-spacerun:yes'>&nbsp;&nbsp;</span></span></u><span
+lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='line-height:200%'><span style='font-size:14.0pt;
+line-height:200%;font-family:仿宋_GB2312'>承担单位：<u> <span lang=EN-US>江南大学<span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><span style='mso-spacerun:yes'>&nbsp;&nbsp;</span></span></u><span
+lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='line-height:200%'><span style='font-size:14.0pt;
+line-height:200%;font-family:仿宋_GB2312'>所在地区：<u> <span lang=EN-US>无锡市,滨湖区<span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><span style='mso-spacerun:yes'>&nbsp;&nbsp;</span></span></u><span
+lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='line-height:200%'><span style='font-size:14.0pt;
+line-height:200%;font-family:仿宋_GB2312'>单位地址：<u> <span lang=EN-US>无锡蠡湖大道1800号<span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><span style='mso-spacerun:yes'>&nbsp;&nbsp;</span></span></u><span
+lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='line-height:200%'><span style='font-size:14.0pt;
+line-height:200%;font-family:仿宋_GB2312'>邮政编码：<u> <span lang=EN-US>214122<span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><span style='mso-spacerun:yes'>&nbsp;&nbsp;</span></span></u><span
+lang=EN-US><o:p></o:p></span></span></p>
+
+
+<p class=MsoNormal style='line-height:200%'><span style='font-size:14.0pt;
+line-height:200%;font-family:仿宋_GB2312'>项目负责人：<u> <span lang=EN-US>马小媛<span
+style='mso-spacerun:yes'>&nbsp;&nbsp;
+</span></span></u>电话：<u> <span lang=EN-US>18706177206<span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;</span></span></u></span></p>
+
+
+<p class=MsoNormal style='line-height:200%'><span style='font-size:14.0pt;
+line-height:200%;font-family:仿宋_GB2312'>主管部门：<i style='mso-bidi-font-style:
+normal'><u> </u></i><u><span lang=EN-US>无锡市科学技术局<i style='mso-bidi-font-style:normal'><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><span style='mso-spacerun:yes'>&nbsp;&nbsp;</span></i></span></u><span
+lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='line-height:150%'><span lang=EN-US style='font-size:
+14.0pt;line-height:120%;font-family:仿宋_GB2312'><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><o:p></o:p></span></p>
+
+<p class=MsoNormal style='line-height:150%'><span lang=EN-US style='font-size:
+14.0pt;line-height:120%;font-family:仿宋_GB2312'><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span><span
+style='font-size:14.0pt;line-height:120%;font-family:仿宋_GB2312'>申报日期：
+
+
+<span
+lang=EN-US>2012</span>年<span lang=EN-US>03</span>月<span lang=EN-US>16</span>日<span
+lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='line-height:150%'><span lang=EN-US style='font-size:
+14.0pt;line-height:120%;font-family:仿宋_GB2312'><o:p>&nbsp;</o:p></span></p>
+
+
+
+<p class=MsoNormal align=center style='text-align:center;line-height:150%'><span
+style='font-size:15.0pt;line-height:120%;font-family:仿宋_GB2312'>江苏省科学技术厅<span
+lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal align=center style='text-align:center;line-height:150%'>
+<span
+style='font-size:15.0pt;line-height:120%;font-family:仿宋_GB2312'>二〇一二年</span><span
+style='font-size:9.0pt;mso-bidi-font-size:10.0pt;line-height:150%'> </span><span
+lang=EN-US style='font-size:15.0pt;line-height:120%;font-family:仿宋_GB2312'><o:p></o:p></span></p>
+<b style='mso-bidi-font-weight:normal'><span lang=EN-US style='font-size:14.0pt;
+line-height:120%;font-family:仿宋_GB2312;mso-hansi-font-family:"Times New Roman";
+mso-bidi-font-family:"Times New Roman";mso-font-kerning:1.0pt;mso-ansi-language:
+EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA'><br clear=all
+style='page-break-before:always'>
+<p class=MsoNormal style='line-height:150%'><b style='mso-bidi-font-weight:
+normal'><span style='font-size:14.0pt;line-height:120%;font-family:仿宋_GB2312'>一、立项依据<span
+lang=EN-US><o:p></o:p></span></span></b></p>
+
+<table class=MsoTableGrid border=1 cellspacing=0 cellpadding=0
+ style='border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-yfti-tbllook:480;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;mso-border-insideh:
+ .5pt solid windowtext;mso-border-insidev:.5pt solid windowtext'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td width=569 valign=top style='width:426.45pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:150%'><b style='mso-bidi-font-weight:
+  normal'><span lang=EN-US style='line-height:120%;font-family:
+  宋体'><font size="3">1</font></span></b><b style='mso-bidi-font-weight:normal'><font size="3"><span
+  style='line-height:120%;font-family:宋体'>、本项目国内外科技创新发展概况和最新发展趋势</span></font><span
+  lang=EN-US><o:p></o:p></span></b></p>
+  <p class=MsoNormal ><span lang=EN-US style="line-height:150%; font-family:宋体; font-size:12pt; "><font size="3"><DIV>&nbsp;&nbsp;&nbsp; 食品安全与营养功效问题一直是各国政府和人民群众最为关心的热点，它关系到消费者的健康和生命。在解决了基本的“吃的饱”生存要求后，人们进而追求的是“吃的好”、“吃的安全”的健康的生活理念。随着越来越多食品质量安全问题的不断涌现，当今社会对食品安全检测与功效评价的新方法、新技术的需求显得尤为突出。<BR>&nbsp;&nbsp;&nbsp; 俗话说“病从口入”，据WTO统计，全世界每年发生食源性疾病数十亿人，在发达国家，每年也有三分之一的人群遭受食源性疾病的侵袭。由于农药、食品饲料添加剂、动植物生长激素滥用导致的食品安全问题相当严重，其中，病原微生物引起的食源性疾病是影响食品安全的最主要的因素之一<SUP>[1,2]<SUB>。</SUB></SUP>近年来，世界范围内食品安全方面的恶性、突发性事件屡屡发生，如：大规模发生于日本、欧美国家的大肠杆菌O157：H7食物中毒、疯牛病，法国出现的李斯特菌疾病，香港出现了禽流感，比利时出现了二噁英，南亚地区的霍乱弧菌疾病频频爆发等。这些由于各种因素导致的食源性疾病影响的国家范围之广、危害健康人群之多都是其他原因引起疾病所不及的，而且还给国家间相关的食品贸易带来危机。食源性致病菌是指以食物为载体，导致人类发生疾病的细菌。常见的食源性致病菌有：沙门氏菌、金黄色葡萄球菌、单核细胞增生李斯特氏菌、志贺氏菌、副溶血性弧菌、霍乱弧菌、空肠弯曲菌、耶尔森氏菌、肠出血性大肠杆菌、创伤弧菌等。致病菌快速检测是采用微生物学、化学、生物化学、生物物理学、免疫学的方法对食品及其加工、贮藏等环境中的致病菌进行分离、检测、鉴定和计数。现广泛使用的检测方法主要有：平皿培养分离计数法、聚合酶链式反应（PCR）、荧光PCR检验法与酶联免疫吸附法（ELISA）<SUP>[3,4]<SUB>。</SUB></SUP>传统的平皿培养分离鉴定法是目前最成熟，使用最广泛，作为基准的检验方法，但是检测时间长，一般需要5-7天的增菌培养时间，时间上不能满足快速检测的要求。PCR反应以细菌基因组特定DNA片段为模板通过分子生物学技术扩增，再以琼脂糖凝胶电泳检验PCR产物是否有特征条件对致病菌进行检验。荧光PCR在普通PCR基础上加入一条特异的寡核苷酸荧光探针，对PCR产物进行标记跟踪，实时在线监控反应过程。但PCR反应受样品情况影响较大，食品中的糖类、酸类、油脂等会干扰反应正常进行，实验结果出现假阳性和假阴性。ELISA法以酶作为标记物，标记抗原或者抗体，用酶促反应的放大作用来显示初级免疫学反应，具有较高的灵敏度和可重复性，但每次只能检测一种标志物，且操作繁琐，试剂盒价格昂贵<SUP>[5-7]<SUB>。<BR></SUB></SUP>&nbsp;&nbsp;&nbsp; 一个世纪前，动物界中越高的新陈代谢速率导致越短的寿命这一现象即被观察到并进而衍生出“生命速率假设”推论，即物种的代谢速率决定生命的长短。20世纪50年代，Denham Harman<SUP>[8]</SUP>等人提出关于老化的“自由基理论”，他认为细胞内生的氧自由基在细胞内不断积累，正常情况下，体内自身含有的抗氧化剂，如酶类化合物、大分子物质、小分子物质、激素类化合物等与活性氧物种存在动态平衡，维持正常的生理机能<SUP>[9]<SUB>。</SUB></SUP>但是一旦人体遭受外界刺激或是体内病变，这种平衡就会被打破，从而造成机体的氧化损伤，被认为同人体内的诸多疾病发病机理密切相关，如：动脉粥样硬化、糖尿病、慢性炎症、神经系统紊乱以及多种癌症<SUP>[10]<SUB>。<BR></SUB></SUP>&nbsp;&nbsp;&nbsp; 除体内自身含有的抗氧化成分，我们还可以通过体外摄取来补充。饮食中抗氧化剂长期以来倍受国内外学者关注，这是因为：（1）食物中的抗氧化剂能够保护食品免受氧化损伤而变质；（2）在人体消化道内具有抗氧化作用，防止消化道发生氧化损伤；（3）吸收后可在机体其他组织器官内发挥作用；（4）来源于食物的某些具有抗氧化作用的提取物可以作为治疗药物。生物的抗氧化能力与其抗病性、抗逆性及延缓衰老密切相关。因而从天然植物中寻找有效的抗氧化剂应用于医药、食品、保健品、饮料、化妆品等之中，或从氧化与抗氧化代谢的平衡来探讨生物对变化环境条件的适应性机理，都是当前研究的热点问题。抗氧化剂的抗氧化能力测定方法包括分光光度法（ABTS法、DPPH&#8226;法、β-胡萝卜素漂白法、藏花素漂白法、铁离子还原法、铜离子还原法）、荧光法、化学发光法、循环伏安法、色谱法、电子自旋共振法、自动流体注射法等<SUP>[11-19]</SUP>。这些方法可以测定抗氧化剂对各类活性氧自由基的清除能力，以及抗氧化剂的整体还原能力，它们各自存在一定的优势，但也都有其局限性。如ABTS法只能检测水溶性抗氧化剂；DPPH&#8226;法和β-胡萝卜素漂白法只能评价脂溶性抗氧化剂；铁离子还原法只能在强酸性条件下进行，而且只能检测水溶性抗氧化剂；循环伏安法不可逆，且敏感度低；色谱法比较费时，劳动强度大；电子自旋共振法虽然可以同时分析水溶性和脂溶性抗氧化剂以及混浊或颜色深的溶液，但其所需使用的电子自旋共振仪昂贵，无法普及。迄今为止，由于这些操作的不同限制，还没有标准的定量评估方法来测定抗氧化能力或者“总的抗氧化”营养指数（活性抗氧化复合物所占水平）。<BR>&nbsp;&nbsp;&nbsp; 纳米科技是上世纪80年代以来由多学科交叉而逐步发展起来的新兴学科，金纳米粒子具有特殊的表面效应、体积效应、量子尺寸效应和宏观量子隧道效应,使得金纳米粒子可以和多种生物分子(核酸、蛋白质和生物分子等) 结合，易于标记，对人体无害，而且具有标记后被标记物活性基本不发生改变的特点，较之传统标记物，纳米探针更稳定、使用寿命更长、可检测模式更多、更灵敏，在生物分析应用中已显现出极大的优越性。近年来，以各种不同尺寸的聚苯乙烯（PS）或二氧化硅（SiO<SUB>2</SUB>）胶体颗粒为核，外层包上一层金属壳制备的复合纳米颗粒，即金属纳米壳，引起了国内外学者的广泛关注。将此种核壳结构的复合纳米颗粒组装在某一基底上形成规则有序排列的纳米结构，其制备方法主要有电化学刻蚀法、电子束平板印刷法、自组装法、微尺寸-接触印刷、胶体晶模板法等<SUP>[20-25]<SUB>。</SUB></SUP>联合周期性结构的光学性质及金属纳米壳结构的本质特性，在一定程度上拓展了材料的应用，如表面增强拉曼散射（SERS）、催化、传感、作为锂离子电池的电极、太阳能电池、以及光电器件的基本结构等<SUP>[26-31]<SUB>。</SUB></SUP>Bartlet等<SUP>[32]</SUP>建立了基于SERS传感器基础的有序大孔金纳米材料可有效识别突变的DNA序列。纳米结构的SPR效应取决于其大小、形状、组成、取向以及聚集状态等，且其吸收峰对周围环境介质的介电常数变化也十分敏感。由于有序大孔结构的介电常数在三维空间内呈周期性变化，因而可以产生非常有趣的光学特性。如果材料的孔径被控制在可见光波长范围内，孔壁上反射回来的光之间可发生 Bragg 衍射，在材料的表面能够观察到各种颜色的彩光。Xia 等人<SUP>[33]</SUP>在以PS为内核的GNSs阵列表面修饰山羊抗人IgG抗体，通过GNSs的吸收峰的位移来检测人IgG抗原，该方法的检测下限可以达到10 ng/mL。Wang 等人<SUP>[34]</SUP>通过控制核-壳比制备出具有可调光学性质的GNSs，使其LSPR位于光谱的近红外区(700 nm-1300 nm)，该光谱区域是光学传输透过生物组织的最佳区域。将GNSs组装到APTES修饰的玻璃基底表面，制备出新型自组装GNSs敏感膜。利用GNSs对周围介质介电常数改变的敏感性，研制出一种适合于全血样品分析的生物传感器，并实现了全血体系中生物素与链霉亲和素的相互作用的实时检测。由于金属纳米壳材料的光学特征和生物相容性使其成为一种理想的全血检测分析手段。随着纳米技术向生物科学和医学领域的不断渗透，利用纳米生物技术研究和解决其中的重大问题，推动纳米生物技术的发展，正成为当前一个重要的前沿领域。<BR>&nbsp;&nbsp;&nbsp; 综上所述，目前国内外对食源性致病菌的检测及食品抗氧化能力的评价方法还有很大的提升空间，尚缺乏基于纳米探针技术的食品检测与评价的新技术和相关产品，尤其是目前国际上尚无组装纳米金阵列技术应用于食品中致病菌及抗氧化能力评价的报道。鉴于此，本课题研究提出“基于组装纳米金阵列的食品检测与评价新技术研究”，诣在将与纳米探针相关的光学传感、电化学传感检测、金增强信号放大、免疫亲和识别几种先进技术有机结合引入到食品检测领域，力求各种先进方法优势结合，充分发挥这些技术更高效、更准确、更灵敏、更快速等特点，建立快速、灵敏的新型检测技术体系，弥补相关检测方法和技术的不足，形成一批具有自主知识产权和国际竞争力的快速检测新技术，同时也能够极大丰富纳米科学研究的内涵，使我国在高端纳米技术应用方面紧随世界步伐，形成自己的产品和新的应用领域。</DIV>
+<DIV><BR>主要参考文献：<BR>1.&nbsp;Butterworth P, Baltar H, Kratzmeier M, et al. Simple bead assay for detection of live bacteria (Escherichia coli). Anal. Chem., 2011, 83(4): 1443-1447.<BR>2.&nbsp;Laurino P, Kikkeri R, Azzouz N, et al. Detection of bacteria using glyco-dendronized polylysine prepared by continuous flow photofunctionalization. Nano Letters, 2011, 11(1):73-78.<BR>3.&nbsp;Bernabini C, Holmes D, Morgan H. Micro-impedance cytometry for detection and <BR>analysis of micron-sized particles and bacteria. Lab on a chip, 2011, 11(3): 407-412.<BR>4.&nbsp;Ben Nasr S, Gtari M, Azzouna A. Detection and phylogeny of the bacteria Wolbachia in the terrestrial isopod Porcellio laevis Latr. Annals of Microbiology, 2010, 60(1): 43-50.<BR>5.&nbsp;Zelada-Guillen GA, Bhosale SV, Riu J, et al. Real-time potentiometric detection of bacteria in complex samples. Anal. Chem., 2010, 82(22): 9254-9260.<BR>6.&nbsp;Ibarburu I, Aznar R, Elizaquivel P, et al. A real-time PCR assay for detection and quantification of 2-branched (1,3)-beta-D-glucan producing lactic acid bacteria in cider. International Journal of Food Microbiology, 2010, 143: 26-31.<BR>7.&nbsp;Jacobs M R, Bajaksouzian S, Yomtovian R, et al. Detection of bacteria in Leukocyte-reduced whole blood derived platelet units using the Immunetics BacTx test. Transfusion, 2010, 50: 194A-194A.<BR>8.&nbsp;Harman D. Aging: a theory based on free radical and radiation chemistry. J. Gerontol., 1956, 2: 298-300.<BR>9.&nbsp;Huang D J, Ou B X, Prior R L. The chemistry behind antioxidant capacity assays. J. Agric. Food Chem., 2005, 53: 1841-1856.<BR>10.&nbsp;Valko M, Leibfritz D, Moncol J, et al. Free radicals and antioxidants in normal physiological functions and human disease. Int. J. Biochem. Cell Biol., 2007, 39: 44-84.<BR>11.&nbsp;Magalhaes L M, Segundo M A, Reis S, et al. Methodological aspects about in vitro evaluation of antioxidant properties. Anal. Chim. Acta, 2008, 613: 1-19.<BR>12.&nbsp;Pazdzioch-Czochra M, Widenska A. Spectrofluorimetric determination of hydrogen peroxide scavenging activity. Anal. Chim. Acta, 2002, 452: 177-184.<BR>13.&nbsp;Mansouri A, Makris D P, Kefalas P. Determination of hydrogen peroxide scavenging activity of cinnamic and benzoic acids employing a highly sensitive peroxyoxalate chemiluminescence-based assay: structure-activity relationships. J. Pharm. Biomed. Anal., 2005, 39: 22-26.<BR>14.&nbsp;Wood L G, Gibson P G, Garg M L. A review of the methodology for assessing in vivo antioxidant capacity. J. Sci. Food Agric., 2006, 86: 2057-2066.<BR>15.&nbsp;Arnous A, Petrakis C, Makris D P, et al. A peroxyoxalate chemiluminescence-based assay for the evaluation of hydrogen peroxide scavenging activity employing 9, 10-diphenylanthracene as the fluorophore. J. Pharmacol. Toxicol. Methods, 2002, 48: 171-177.<BR>16.&nbsp;Winston G W, Regoli F, Dugas A J, et al. A rapid gas chromatographic assay for determining oxyradical scavenging capacity of antioxidants and biological fluids. Free Radical. Biol. Med., 1998, 24: 480-493.<BR>17.&nbsp;Magalhaes L M, Segundo M A, Reis S, et al. Automatic in vitro determination of hypochlorous acid scavenging capacity exploiting multisyringe flow injection analysis and chemiluminescence. Anal. Chem., 2007, 79: 3933-3939.<BR>18.&nbsp;Jiang H, Ju H X. Electrochemiluminescence sensors for scavengers of hydroxyl radical based on its annihilation in cdse quantum dots film/peroxide system. Anal. Chem., 2007, 79: 6690-6696.<BR>19.&nbsp;Prior R L, Wu X L, Schaich K. Standardized methods for the determination of antioxidant capacity and phenolics in foods and dietary supplements. J. Agric. Food Chem., 2005, 53: 4290-4302.<BR>20.&nbsp;Chiappini C, Tasciotti E, Fakhoury J R, et al. Tailored porous silicon microparticles: fabrication and properties. Chemphyschem, 2010, 11 (5): 1029-1035.<BR>21.&nbsp;Ebbesen T W, Lezec H J, Ghaemi H F, et al. Extraordinary optical transmission through sub-wavelength hole arrays. Nature, 1998, 391 (6668): 667-669.<BR>22.&nbsp;Chen Y W, Kang E T, Neoh K G, et al. Preparation of hollow silica nanospheres by surface-initiated atom transfer radical polymerization on polymer latex templates. Advanced Functional Materials, 2005, 15 (1): 113-117.<BR>23.&nbsp;Shah P S, Sigman M B, Stowell C A, et al. Single-step self-organization of ordered macroporous nanocrystal thin films. Advanced Materials, 2003, 15 (12): 971-974.<BR>24.&nbsp;Xia Y N, Rogers J A, Paul K E, et al. Unconventional methods for fabricating and patterning nanostructures. Chemical Reviews, 1999, 99 (7): 1823-1848.<BR>25.&nbsp;Haupt M, Miller S, Glass R, et al. Nanoporous gold films created using templates formed from self-assembled structures of inorganic-block copolymer micelles. Advanced Materials, 2003, 15 (10): 829-831.<BR>26.&nbsp;Wang W, Li Z P, Gu B H, et al. Ag@SiO<SUB>2</SUB> Core-shell nanoparticles for probing spatial distribution of electromagnetic field enhancement via surface-enhanced raman scattering. Acs Nano, 2009, 3 (11): 3493-3496.<BR>27.&nbsp;Heck K N, Janesko B G, Scuseria G E, et al. Observing metal-catalyzed chemical reactions in situ using surface-enhanced raman spectroscopy on Pd-Au nanoshells. Journal of the American Chemical Society, 2008, 130 (49): 16592-16600.<BR>28.&nbsp;Wang Y, Su F B, Lee J Y, et al. Crystalline carbon hollow spheres, crystalline carbon-SnO2 hollow spheres, and crystalline SnO<SUB>2</SUB> hollow spheres: synthesis and performance in reversible Li-ion storage. Chemistry of Materials, 2006, 18 (5): 1347-1353.<BR>29.&nbsp;Kim H, Han B, Choo J, et al. Three-dimensional porous silicon particles for use in high-performance lithium secondary batteries. Angewandte Chemie-International Edition, 2008, 47 (52): 10151-10154.<BR>30.&nbsp;Teki R, Datta M K, Krishnan R, et al. Nanostructured silicon anodes for lithium ion rechargeable batteries. Small, 2009, 5 (20): 2236-2242.<BR>31.&nbsp;Qian J F, Liu P, Xiao Y, et al. TiO<SUB>2</SUB>-coated multilayered SnO<SUB>2</SUB> hollow microspheres for dye-sensitized solar cells. Advanced Materials, 2009, 21 (36): 3663-3667.<BR>32.&nbsp;Mahajan S, Richardson J, Brown T, et al. SERS-melting:&nbsp;a new method for discriminating mutations in DNA sequences. Journal of the American Chemical Society, 2008, 130 (46): 15589-15601.<BR>33.&nbsp;Xia Y T, Lu W S, Jiang L. Fabrication of color changeable polystyrene spheres decorated by gold nanoparticles and their label-free biosensing. Nanotechnology, 2010, 21 (8): 85501.<BR>34.&nbsp;Wang Y, Qian W P, Tan Y, et al. A label-free biosensor based on gold nanoshell monolayers for monitoring biomolecular interactions in diluted whole blood. Biosensors and Bioelectronics, 2008, 23 (7): 1166-1170.<BR></DIV>
+
+  </font>
+  <o:p></o:p></span></p>
+  <p class=MsoNormal style='line-height:150%'>
+	<span lang=EN-US
+  style='line-height:150%'><o:p><font size="3">&nbsp;</font></o:p></span></p>
+  </td>
+ </tr>
+
+ <tr style='mso-yfti-irow:1'>
+  <td width=569 valign=top style='width:426.45pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:150%'><b style='mso-bidi-font-weight:
+  normal'><span lang="EN-US"><font size="3">2</font></span></b><b style='mso-bidi-font-weight:normal'><span style="font-family: 宋体; mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman"><font size="3">、本项目研究的目的、意义</font></span><span lang=EN-US><o:p></o:p></span></b></p>
+  <p class=MsoNormal >
+	<span lang=EN-US style="line-height:150%; font-family:宋体; font-size:12pt; "><font size="3">&nbsp;&nbsp;&nbsp; 快速、高灵敏的食品检测与评价技术开发已成为国际上研究的热点，特别是针对食源性致病菌的检测及食品抗氧化能力的功效评价是关系到食品安全和质量控制的关键。目前在实际检测工作中，虽然已发展了多种针对致病菌及抗氧化能力评价的方法，但是各种方法都存在一定的局限，如检测时间长，操作繁琐，易受环境因素干扰，灵敏度有限等，不能完全满足快速、高灵敏的技术需求。本课题研究拟将纳米探针传感中的光学、电化学分析技术及食品中抗氧化成分的氧化还原作用相结合，创新性的将纳米材料应用于食品抗氧化功效的分析评价；将纳米探针技术、金增强信号放大、免疫亲和识别等先进技术有机结合，创新性的应用于食源性致病菌的快速检测，发展新型检测技术，充分发挥这几种技术高灵敏、特异、稳定、快速的优势。该技术方法体系的建立，对于弥补国际上相关检测方法和技术的不足，完善检测标准，提高检测技术手段，形成一批具有自主知识产权和国际竞争力的检测新技术，促进食品生产水平，保障我国食品安全及营养功效，打破国际食品贸易壁垒都具有重要的现实意义。
+
+</font>
+<o:p></o:p></span></p>
+  <p class=MsoNormal style='line-height:150%'><span lang=EN-US><o:p>
+	<font size="3">&nbsp;</font></o:p></span></p>
+  </td>
+ </tr>
+
+ <tr style='mso-yfti-irow:2'>
+  <td width=569 valign=top style='width:426.45pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:150%'><b style='mso-bidi-font-weight:
+  normal'><span lang="EN-US"><font size="3">3</font></span></b><b style='mso-bidi-font-weight:normal'><span style="font-family: 宋体; mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman"><font size="3">、本项目研究现有起点科技水平及已存在的知识产权情况</font></span><span lang=EN-US><o:p></o:p></span></b></p>
+  <p class=MsoNormal >
+	<span lang=EN-US style="line-height:150%; font-family:宋体; font-size:12pt; "><font size="3">&nbsp;&nbsp;&nbsp; 如前所述，目前食源性致病菌的检测技术主要为平皿培养计数法、PCR法、荧光PCR法及ELISA法，食品抗氧化能力评价的方法主要有针对各种活性氧自由基以及抗氧化剂整体还原能力的化学检测方法。本课题研究拟发展的基于组装纳米金阵列在光学及电化学传感中的特性结合免疫分析识别检测技术，在食源性致病菌检测和抗氧化能力评价领域国内外均未见其他研究小组的报道。<BR>&nbsp;&nbsp;&nbsp; 组装纳米金阵列结合了金属纳米结构的本质特性（光、电性质等）和周期性结构的光学性质，对于实现构建灵敏的、快速检测的纳米探针是十分新颖的。纳米结构的LSPR效应取决于其大小、形状、组成、取向以及聚集状态等，且有序阵列结构在三维空间内呈周期性变化，因而可以产生非常有趣的光学、电化学特性。<BR>&nbsp;&nbsp;&nbsp; 免疫亲和作用能够很好保证检测的特异性。<BR>&nbsp;&nbsp;&nbsp; 上述技术特点将与纳米探针相关的光学传感、电化学传感检测、金增强信号放大、免疫亲和识别几种先进技术有机结合引入到食品检测领域，确保本课题项目提出的技术方法具有简单、快速、灵敏、特异性强等显著优势，具有很好的起点科技水平，对于提升我国食源性致病菌和食品抗氧化能力的检测技术水平具有积极的推动作用。 
+</font><o:p></o:p></span></p>
+  <p class=MsoNormal style='line-height:150%'><span lang=EN-US><o:p>
+	<font size="3">&nbsp;</font></o:p></span></p>
+  </td>
+ </tr>
+
+ <tr style='mso-yfti-irow:3;mso-yfti-lastrow:yes'>
+  <td width=569 valign=top style='width:426.45pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:150%'><b style='mso-bidi-font-weight:
+  normal'><span lang="EN-US"><font size="3">4</font></span></b><b style='mso-bidi-font-weight:normal'><span style="font-family: 宋体; mso-ascii-font-family: Times New Roman; mso-hansi-font-family: Times New Roman"><font size="3">、本项目研究国内外竞争情况及产业化前景</font></span><span lang=EN-US><o:p></o:p></span></b></p>
+  <p class=MsoNormal >
+	<span lang=EN-US style="line-height:150%; font-family:宋体; font-size:12pt; "><font size="3">&nbsp;&nbsp;&nbsp; 本课题研究拟发展的与纳米探针相关的光学传感、电化学传感检测、金增强信号放大、免疫亲和识别有机结合的先进技术，在食源性致病菌和食品抗氧化能力评价领域国内外均未见其他研究小组的相关报道。<BR>&nbsp;&nbsp;&nbsp; 金纳米阵列材料高度可调的光学、电化学特性，良好的生物相容性，易与生物分子结合的特性结合免疫识别分析检测技术在食品检测与评价领域的成功应用，将能够有效弥补目前已有的传统的食源性致病菌和食品抗氧化能力的评价方法的不足，如致病菌检测的增菌时间长，易受反应样品干扰，操作繁琐，价格昂贵等，以及抗氧化能力检测的只能检测水溶性或脂溶性抗氧化剂，敏感度低，耗时，仪器复杂，无统一定量普及评价方法等。该检测技术方法体系建立后，可进一步推广到食品中其他相关物质的快速、高灵敏的检测中，使之成为非常有应用前景的检测方法，从而丰富纳米科学技术研究的内涵。<BR>&nbsp;&nbsp;&nbsp; 此外，由于该技术方法操作简单、快速、灵敏度高、成本低，可发展相应的检测试剂盒，还可制成便携式的检测分析仪器。因此，该新型检测技术以及在此基础上发展的新型检测产品在质检部门的实验室和现场快速检验检疫中将会有很好的应用前景，产生良好的社会效益和经济效益。 
+
+</font>
+<o:p></o:p></span></p>
+  <p class=MsoNormal style='line-height:150%'><span lang=EN-US><o:p>
+	<font size="3">&nbsp;</font></o:p></span></p>
+  </td>
+ </tr>
+</table>
+
+<p class=MsoNormal style='line-height:150%'><b style='mso-bidi-font-weight:
+normal'><span lang=EN-US style='font-size:14.0pt;line-height:120%;font-family:
+仿宋_GB2312'><o:p>&nbsp;</o:p></span></b></p>
+
+<b style='mso-bidi-font-weight:normal'><span lang=EN-US style='font-size:14.0pt;
+line-height:120%;font-family:仿宋_GB2312;mso-hansi-font-family:"Times New Roman";
+mso-bidi-font-family:"Times New Roman";mso-font-kerning:1.0pt;mso-ansi-language:
+EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA'><br clear=all
+style='page-break-before:always'>
+</span></b>
+
+<p class=MsoNormal style='line-height:150%'><b style='mso-bidi-font-weight:
+normal'><span style='font-size:14.0pt;line-height:120%;font-family:仿宋_GB2312'>二、研究内容<span
+lang=EN-US><o:p></o:p></span></span></b></p>
+
+<table class=MsoTableGrid border=1 cellspacing=0 cellpadding=0
+ style='border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-yfti-tbllook:480;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;mso-border-insideh:
+ .5pt solid windowtext;mso-border-insidev:.5pt solid windowtext'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td width=569 valign=top style='width:426.45pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:150%'><b style='mso-bidi-font-weight:
+  normal'><span lang=EN-US style='line-height:120%;font-family:
+  宋体'><font size="3">1</font></span></b><b style='mso-bidi-font-weight:normal'><font size="3"><span
+  style='line-height:120%;font-family:宋体'>、具体研究开发内容和要重点解决的关键技术问题；</span></font><span
+  lang=EN-US><o:p></o:p></span></b></p>
+  <p class=MsoNormal >
+	<span lang=EN-US style="line-height:150%; font-family:宋体; font-size:12pt; "><font size="3"><DIV>具体研究开发内容：<BR>(1) 制备厚度可控、有序排列的大面积均匀的SiO<SUB>2</SUB>胶体晶体模板阵列，并对相关性质进行表征；<BR>(2) 金纳米颗粒在SiO<SUB>2</SUB>胶体晶体模板阵列表面的吸附及进一步生长过程中的形貌、光学、电化学性质表征；<BR>(3) 基于抗氧化剂和纳米金阵列之间的催化、氧化还原作用引起的纳米金阵列表面形貌改变的光学、电化学传感检测技术的研究；<BR>(4) 食源性致病菌特异性结合抗体或特异识别核酸适配体生物功能化的胶体晶体模板的制备；<BR>(5) 基于纳米金阵列探针技术和免疫亲和识别/核酸适配体识别的食源性致病菌的快速、高灵敏的检测技术研究；<BR>(6) 相关新型检测产品研发；<BR>(7) 相关新型检测装备研制。</DIV>
+<DIV><BR>重点解决的关键技术问题：<BR>(1) 稳定、可重复的纳米金阵列基底的制造与优化，通过控制SiO<SUB>2</SUB>胶体微球直径、胶体晶膜厚度、金纳米壳层的厚度以及表面裂纹等调节基底光学及电化学信号最优化，提高检测灵敏度；<BR>(2) 通过对纳米金阵列探针的生物功能化修饰，消除非特异性识别分子或者复杂样品体系中干扰成分的背景噪音影响；<BR>(3) 结合免疫亲和识别/核酸适配体识别技术和纳米金阵列高度可调的光学、电化学性质有效缩短检测时间，提高检测灵敏度；<BR>(4) 新检测技术体系的建立与参数优化。</DIV>
+
+</font>
+<o:p></o:p></span></p>
+  <p class=MsoNormal >
+	<span lang=EN-US style='line-height:120%;
+  font-family:楷体_GB2312'><o:p><font size="3">&nbsp;</font></o:p></span></p>
+  </td>
+ </tr>
+
+ <tr style='mso-yfti-irow:1'>
+  <td width=569 valign=top style='width:426.45pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:150%'><b style='mso-bidi-font-weight:
+  normal'><span lang=EN-US style='line-height:120%;font-family:
+  宋体'><font size="3">2</font></span></b><b style='mso-bidi-font-weight:normal'><font size="3"><span
+  style='line-height:120%;font-family:宋体'>、项目的特色和创新之处；</span></font><span
+  lang=EN-US><o:p></o:p></span></b></p><p class=MsoNormal ><span lang=EN-US style="line-height:150%; font-family:宋体; font-size:12pt; "><font size="3">&nbsp;&nbsp;&nbsp; 目前已发展的食源性致病菌检测方法需要较长的增菌时间，易受反应样品干扰，操作繁琐，价格昂贵，而抗氧化能力检测方法也存在诸多不足，如一般只能检测水溶性或脂溶性抗氧化剂，敏感度低，耗时，仪器复杂，无统一定量普及评价方法等，不适用于普通实验室和现场普及推广使用。<BR>&nbsp;&nbsp;&nbsp; 本课题针对以上问题进行研究，具有如下特色和创新之处：<BR>(1) 利用胶体晶体模板技术结合以金纳米颗粒为核的可控生长构建有序排列的纳米金阵列结构，光学、电化学性质高度可调且具有周期性变化的特性，易于表征，胶体晶体模板一方面可稳定纳米金结构，另一方面可用简单的物理吸附方法固定抗体、核酸适配体等生物分子，易于表面修饰；<BR>(2) 将与纳米探针相关的光学传感、电化学传感检测、金增强信号放大、免疫亲和识别几种先进技术有机结合引入到食品检测领域，确保本课题提出的技术方法具有简单、快速、灵敏、特异性强等显著优势；<BR>(3) 利用纳米金生长过程中随着颗粒大小、取向、聚集状态、厚度的变化而产生的在可见光区的光谱迁移规律，该检测方法可用于可视化的快速定性分析；<BR>(4) 所建立的技术方法可作为共性技术极易拓展应用到其他食品检测与评价领域；<BR>(5) 基于以上特色，开发相关产品检测试剂盒，可用于致病菌的现场快速检测和抗氧化能力的日常饮食功效评价，在行业内具有良好的实际应用前景。
+
+</font>
+<o:p></o:p></span></p>
+  <p class=MsoNormal >
+	<span lang=EN-US style='line-height:120%;
+  font-family:楷体_GB2312'><o:p><font size="3">&nbsp;</font></o:p></span></p>
+  </td>
+ </tr>
+
+ <tr style='mso-yfti-irow:2;mso-yfti-lastrow:yes'>
+  <td width=569 valign=top style='width:426.45pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:150%'><b style='mso-bidi-font-weight:
+  normal'><span lang=EN-US style='line-height:120%;font-family:
+  宋体'><font size="3">3</font></span></b><b style='mso-bidi-font-weight:normal'><font size="3"><span
+  style='line-height:120%;font-family:宋体'>、要达到的主要技术、经济指标及社会、经济效益。</span></font><span
+  lang=EN-US><o:p></o:p></span></b></p>
+  <p class=MsoNormal >
+	<span lang=EN-US style="line-height:150%; font-family:宋体; font-size:12pt; "><font size="3">&nbsp;&nbsp;&nbsp; 建立新型纳米金阵列光学、电化学探针的制备方法，建立基于纳米金阵列探针相关的光学传感、电化学传感检测、金增强信号放大、免疫亲和识别几种先进技术有机结合的食源性致病菌和食品中抗氧化能力评价的新技术、新方法，实现简单、快速、高灵敏、特异性强的检测。解决实际检测问题，发展新型检测试剂，形成自主知识产权。最终实现检测过程在几分钟内即可完成，只需要简单的光学或电化学分析仪器，检出限达ng/mL水平甚至更低。预计发表高档次SCI收录论文3-5篇，申请国家发明专利3-4个，研制检测新产品3种，新型检测装备1种，参与制订或修改国家、行业标准1项以上。<BR>&nbsp;&nbsp;&nbsp; 该技术方法及以此为基础发展的新型检测产品将在涉及食源性致病菌检测的质检、商检部门，尤其是检验检疫、海关、公安等部门得到广泛应用，在涉及食品营养功效评价的质量评估及改善人们日常饮食结构中发挥重要作用，在提升我国食品安全检测技术水平、保障国民健康方面产生良好的社会和经济效益。 
+
+</font>
+<o:p></o:p></span></p>
+  <p class=MsoNormal >
+	<span lang=EN-US style='line-height:120%;
+  font-family:楷体_GB2312'><o:p><font size="3">&nbsp;</font></o:p></span></p>
+  </td>
+ </tr>
+</table>
+
+<p class=MsoNormal style='line-height:150%'><b style='mso-bidi-font-weight:
+normal'><span lang=EN-US style='font-size:14.0pt;line-height:120%;font-family:
+仿宋_GB2312'><o:p>&nbsp;</o:p></span></b></p>
+
+<b style='mso-bidi-font-weight:normal'><span lang=EN-US style='font-size:14.0pt;
+line-height:120%;font-family:仿宋_GB2312;mso-hansi-font-family:"Times New Roman";
+mso-bidi-font-family:"Times New Roman";mso-font-kerning:1.0pt;mso-ansi-language:
+EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA'><br clear=all
+style='page-break-before:always'>
+</span></b>
+
+<p class=MsoNormal style='line-height:150%'><b style='mso-bidi-font-weight:
+normal'><span style='font-size:14.0pt;line-height:120%;font-family:仿宋_GB2312'>三、研究试验方法、技术路线以及工艺流程<span
+lang=EN-US><o:p></o:p></span></span></b></p>
+
+<table class=MsoTableGrid border=1 cellspacing=0 cellpadding=0
+ style='border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-yfti-tbllook:480;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;mso-border-insideh:
+ .5pt solid windowtext;mso-border-insidev:.5pt solid windowtext'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes'>
+  <td width=569 valign=top style='width:426.45pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='text-indent:18.0pt;mso-char-indent-count:1.5;
+  line-height:150%'><span lang=EN-US style="line-height:150%; font-family:宋体; font-size:12pt; "><font size="3">(1) SiO<SUB>2</SUB>胶体晶体模板的制备<BR>&nbsp;&nbsp;&nbsp; 利用乙醇蒸发的方法，通过控制单分散SiO<SUB>2</SUB>胶体微球浓度和直径以及蒸发时间，在ITO导电玻璃表面制备均匀、性质相同、三维有序排列的SiO<SUB>2</SUB>胶体晶体模板，利用扫描电子显微镜对表面形貌性质进行表征。<BR>(2) 胶体晶体模板中SiO<SUB>2</SUB>微球表面GNPs的吸附与生长<BR>&nbsp;&nbsp;&nbsp; 在胶体晶SiO<SUB>2</SUB>微球表面通过静电作用吸附GNPs，以吸附的GNPs为核，选择H<SUB>2</SUB>O<SUB>2</SUB>等作为还原剂，还原AuCl<SUB>4<SUP>-</SUP></SUB>，利用GNPs生长过程中H<SUB>2</SUB>O<SUB>2</SUB>浓度与其LSPR吸收峰波长迁移之间的对应关系控制纳米金阵列结构的形成。<BR>利用透射电镜、扫描电镜、紫外-可见-近红外分光光度计等表征制备的纳米金阵列结构的形貌及光学性质。<BR>(3) 研究不同氧化还原反应造成的纳米金阵列的生长过程，并分析不同的电子传递过程与纳米材料生长过程的相互作用和机理。<BR>(4) 饮食中抗氧化能力的评价<BR>&nbsp;&nbsp;&nbsp; 选择与人体健康指数密切相关的各种茶、葡萄酒、水果、蔬菜等日常饮食作为抗氧化能力评价对象，通过萃取技术、微波辅助提取、快速溶剂提取、离心、分离等简单的食品预处理手段，在不破坏饮食营养成分的前提下，利用其中抗氧化物质的还原能力结合纳米金阵列基底的高度可调的光学、电化学特性，对食品中的抗氧化能力进行评价，建立基于纳米金阵列基底的抗氧化水平快速有效的定量评价体系，得到样品检测范围、线性关系、灵敏度、特异性等检测指标，并与传统的食品抗氧化能力检测方法相比较。<BR>(5) 功能化纳米探针的制备<BR>&nbsp;&nbsp;&nbsp; 研究在SiO<SUB>2</SUB>胶体晶体模板和纳米金阵列表面修饰功能基团（氨基，羧基等）的方法，并且通过化学反应或静电吸附等作用，采用致病菌特异性结合的抗体或者是致病菌特异识别的核酸适配体等对其表面进一步生物功能化，制备高效生物功能化的纳米探针。<BR>(6) 基于纳米探针传感技术-免疫亲和识别/核酸适配体识别的食源性致病菌新型检测技术研究<BR>&nbsp;&nbsp;&nbsp; 基于竞争免疫分析和核酸适配体与目标食源性致病菌的特异性结合原理，以金黄色葡萄球菌和沙门氏菌为例，构建基于纳米探针传感技术-免疫亲和识别/核酸适配体识别的食源性致病菌新型检测技术。分别利用电流还原产生的纳米金阵列的电化学信号和化学还原剂作用产生的纳米金阵列的光学信号实现食源性致病菌的高灵敏快速检测，优化反应条件，并对两种检测手段进行分析比较。<BR>(7) 选择不同的反应体系条件，特别是当反应环境中存在一定浓度的盐离子、蛋白质分子或是生物小分子物质时，研究这些分子同纳米材料个体之间的作用机制，通过对纳米材料的表面修饰等处理消除复杂样品中非特异性因素引起的结果干扰。<BR>(8) 检测产品的研发<BR>&nbsp;&nbsp;&nbsp; 基于前述检测技术体系的建立，发展配套检测试剂盒等新产品。<BR><BR>技术路线如图所示：<BR>
+<CENTER><a href="http://www.jskjjh.gov.cn/XMSB/Ent_JBXXB_RWS_FUJIAN_DownLoad.jsp?typ=inline&amp;DJXH=201207222&amp;SN=72404&amp;tmp=tmp" target="_blank" ><IMG src="http://www.jskjjh.gov.cn/XMSB/Ent_JBXXB_RWS_FUJIAN_DownLoad.jsp?DJXH=201207222&amp;SN=72404" border=0></A><BR></CENTER><BR>&nbsp; 
+</font>
+
+<o:p></o:p></span></p>
+  <p class=MsoNormal style='text-indent:18.0pt;mso-char-indent-count:1.5;
+  line-height:150%'><span lang=EN-US style='font-size:9.0pt;line-height:120%;
+  font-family:楷体_GB2312'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+</table>
+
+<p class=MsoNormal style='line-height:150%'><b style='mso-bidi-font-weight:
+normal'><span lang=EN-US style='font-size:14.0pt;line-height:120%;font-family:
+仿宋_GB2312'><o:p>&nbsp;</o:p></span></b></p>
+
+<b style='mso-bidi-font-weight:normal'><span lang=EN-US style='font-size:14.0pt;
+line-height:120%;font-family:仿宋_GB2312;mso-hansi-font-family:"Times New Roman";
+mso-bidi-font-family:"Times New Roman";mso-font-kerning:1.0pt;mso-ansi-language:
+EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA'><br clear=all
+style='page-break-before:always'>
+</span></b>
+
+<p class=MsoNormal style='line-height:150%'><b style='mso-bidi-font-weight:
+normal'><span style='font-size:14.0pt;line-height:120%;font-family:仿宋_GB2312'>四、工作基础和条件<span
+lang=EN-US><o:p></o:p></span></span></b></p>
+
+<table class=MsoTableGrid border=1 cellspacing=0 cellpadding=0
+ style='border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-yfti-tbllook:480;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;mso-border-insideh:
+ .5pt solid windowtext;mso-border-insidev:.5pt solid windowtext'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td width=569 valign=top style='width:426.45pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:150%'><b style='mso-bidi-font-weight:
+  normal'><span lang=EN-US style='line-height:120%;font-family:
+  宋体'><font size="3">1</font></span></b><b style='mso-bidi-font-weight:normal'><font size="3"><span
+  style='line-height:120%;font-family:宋体'>、承担单位概况，拥有知识产权状况</span></font><span
+  lang=EN-US><o:p></o:p></span></b></p>
+  <p class=MsoNormal >
+	<span lang=EN-US style="line-height:150%; font-family:宋体; font-size:12pt; "><font size="3">&nbsp;&nbsp;&nbsp; 项目申报单位江南大学是我国轻工、食品、生物技术高科技的摇篮与依托单位之一。建有国内唯一的“食品科学与技术”国家重点实验室，同时建有6个国家、省部级工程研究中心，7个部省级重点实验室以及江苏省食品安全研究基地、教育部科技查新工作站、工业微生物资源数据库整合及共享信息平台，拥有图书218.66万册，电子图书11264 GB。“十五”以来，学校承担并完成了包括国家“863”、“973”、国家自然科学基金、国家重大专项、国家“十五”“十一五”攻关项目等在内的国家、部省市科研项目1000余项。共获国家、省部级以上科技奖励200余项，其中国家技术发明和科技进步二等奖5项。出版学术专著1000余部，发表高水平学术论文17000余篇。2009年，学校科研经费总量达到2.229亿元；国际三大检索收录论文923篇，其中SCIE 387篇，EI403篇，ISTP 206篇。2009年，申请专利 1413项，其中发明专利370 项；授权专利365项，其中发明专利114项，申请和授权专利数在全国高校中一直名列前茅。<BR>&nbsp;&nbsp;&nbsp; 江南大学食品学院拥有国内食品学科唯一的“食品科学与工程一级国家重点学科”和“食品科学与技术国家重点实验室”，拥有强大的师资及大型实验设备（包括SEM、TEM、XRD、激光粒径分布仪、Zetal电位仪、核磁共振仪、圆二色谱仪、Beckman毛细管电泳仪、HPLC、GC、GC-MS、LC-MS、LC-MS-MS）和众多基础设备，建有专业的生物安全实验室，可以完全保证研究工作的顺利进行。江南大学食品学院食品生物平台实验室拥有全套蛋白质组学相关仪器设备、日立F-7000荧光仪、PCR仪、流式细胞仪、多功能酶标仪等大型仪器设备，可随时保证研究工作使用。本课题研究小组实验室拥有发光成像系统、全自动酶标仪、梯度PCR仪、分子杂交炉、电泳仪、双波长紫外-可见分光光度计、层析制备系统、半制备HPLC、超低温冰箱等仪器设备，拥有完善的细胞生物学和分子生物学实验室。<BR>&nbsp;&nbsp;&nbsp; 项目组主要成员祝长青高级研究员所在的单位江苏出入境检验检疫局动植物与食品检测中心拥有LightCycler实时定量PCR仪、梯度PCR仪和常规PCR仪、凝胶成相系统、核酸杂交炉、Eppendorf离心机、电泳及层析等成套的生物化学和分子生物学实验仪器设备，拥有CO<SUB>2</SUB>培养箱、倒置显微镜、细胞滚瓶培养装置、生物安全实验室等成套的细胞培养所需的仪器设备和实验设施，拥有全自动酶标仪、常规酶标仪、洗板机、各类离心机等成套血清学实验仪器设备，拥有高压电泳、超滤浓缩、层析、超速离心等成套的蛋白检测和分析仪器设备。同时拥有三相气体培养箱，微需氧培养罐，MiniVidas细菌快速鉴定，Matrix磁珠吸附，Bax等适用于弯曲菌的成套的细菌培养及检测仪器设备拥有微需氧培养罐，Mini Vidas细菌快速鉴定，Matrix磁珠吸附，Bax等适用于弯曲菌的成套的细菌培养及检测仪器设备。中心拥有实验室面积3000多平方米，拥有生物安全实验室三间，各种培养用的无菌室多间，设计先进的分子检测专用实验室，整体布局合理。涉及了细菌病毒的分离鉴定、细胞培养、PCR、ELISA等各种生物学技术，具有完善的生物安全体系和丰富的操作经验，能合理使用并有效控制活病原，确保病原不会扩散。<BR>&nbsp;&nbsp;&nbsp; 此外，江南大学食品学院、食品科学与技术国家重点实验室自“十五”以来，承担了大量食品安全领域的国家、省部级科研项目，在食品安全检测技术和产品开发领域发表研究论文近100篇，申报国家发明专利210项，获得授权国家发明专利78项。 
+
+
+</font>
+
+<o:p></o:p></span></p>
+  <p class=MsoNormal >
+	<span lang=EN-US style='line-height:120%;
+  font-family:楷体_GB2312;mso-hansi-font-family:宋体'><o:p><font size="3">&nbsp;</font></o:p></span></p>
+  </td>
+ </tr>
+
+ <tr style='mso-yfti-irow:1'>
+  <td width=569 valign=top style='width:426.45pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:150%'><b style='mso-bidi-font-weight:
+  normal'><span lang=EN-US style='line-height:120%;font-family:
+  宋体'><font size="3">2</font></span></b><b style='mso-bidi-font-weight:normal'><font size="3"><span
+  style='line-height:120%;font-family:宋体'>、本项目现有的研究工作基础</span></font><span
+  lang=EN-US><o:p></o:p></span></b></p>
+  <p class=MsoNormal >
+	<span lang=EN-US style="line-height:150%; font-family:宋体; font-size:12pt; "><font size="3"><DIV>&nbsp;&nbsp;&nbsp; 本项申请的创新性构思源自于申请人前期所做的课题研究，发现了一些新现象，得到了一系列有意义的结果，引发了许多新的思考，为本项申请打下了很好的工作基础。<BR>&nbsp;&nbsp;&nbsp; 本项申请的工作基础包括以下几个方面：<BR>&nbsp;&nbsp;&nbsp; 通过胶体化学和静电自组装的方法将预先制备的2 nm-5 nm的金纳米颗粒（GNPs）吸附到氨基化的SiO<SUB>2</SUB>小球表面，形成SiO<SUB>2</SUB>/GNPs复合颗粒。实验发现，葡萄糖氧化酶(GOx)/葡萄糖(GOD)/O<SUB>2</SUB>氧化还原体系生成的副产物H<SUB>2</SUB>O<SUB>2</SUB>可作为还原剂还原AuCl<SUB>4</SUB>-生成Au<SUP>0</SUP>，以SiO<SUB>2</SUB>/GNPs复合颗粒表面的GNPs为核继续沉积长大，直到形成完整的GNSs。通过改变酶催化反应过程中底物GOD的浓度以及GOx的活力可调节H<SUB>2</SUB>O<SUB>2</SUB>的生成量及生成速率，从而调节GNSs形成过程中的表面形貌及光学性质。生长过程中，复合颗粒的局域表面等离激元共振吸收峰逐渐红移直到完整的核-壳结构的形成，从~530 nm迁移到~830 nm，迁移量达~300 nm。这是一种在自然界温和的环境体系中利用生物分子酶的高催化活性来介导纳米材料制备的新方法。相关工作发表在Journal of Nanoscience and Nanotechnology（in press）上。<BR></DIV>
+<CENTER><IMG src="http://www.jskjjh.gov.cn/XMSB/Ent_JBXXB_RWS_FUJIAN_DownLoad.jsp?DJXH=201207222&amp;SN=67374" border=0><BR></CENTER>
+<DIV><BR></DIV>
+<DIV align=left>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;图1 不同浓度葡萄糖诱导的SiO<SUB>2</SUB>/GNPs复合颗粒生长状态形貌表征及吸收光谱图<BR>&nbsp;&nbsp;&nbsp; <BR>&nbsp;&nbsp;&nbsp; H<SUB>2</SUB>O<SUB>2</SUB>作为一种活泼的电子供体，同时也是活性氧物种的重要组成部分。研究发现，在H<SUB>2</SUB>O<SUB>2</SUB>介导GNSs形成过程中，当一定浓度的抗氧化剂加入反应体系后，部分H<SUB>2</SUB>O<SUB>2</SUB>被清除，完整GNSs的生长受到抑制。从电镜图上可以看出，SiO<SUB>2</SUB>/GNPs复合颗粒表面的GNPs呈现不同的长大及接合状态，颗粒与颗粒之间存在大小不等的缝隙，在表面等离激元共振作用下，用紫外-可见-近红外光谱仪和表面增强拉曼光谱仪测得的谱线峰位置及强度与H<SUB>2</SUB>O<SUB>2</SUB>的量呈比例关系。基于此，我们利用加入抗氧化剂前后SiO<SUB>2</SUB>/GNPs复合颗粒光学吸收性质的变化分析了一些有机酸和酚酸化合物的抗氧化能力大小情况。相关工作发表在Analytical Chemistry，Biosensors and Bioelectronics，Food Chemistry，Analytical Methods上。<BR>&nbsp; 
+<CENTER><IMG style="WIDTH: 570px; HEIGHT: 413px" height=431 src="http://www.jskjjh.gov.cn/XMSB/Ent_JBXXB_RWS_FUJIAN_DownLoad.jsp?DJXH=201207222&amp;SN=67442" width=585 border=0><BR></CENTER><BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;图2 基于GNSs生长过程的抗氧化剂清除H<SUB>2</SUB>O<SUB>2</SUB>能力检测原理示意图<BR><BR>&nbsp;&nbsp;&nbsp; 此外，本课题组近年来一直致力于真菌毒素和食源性致病菌快速检测方法和技术的研究工作，基于免疫亲和反应、核酸适配体识别、DNA杂交等原理，结合纳米探针技术，已成功构建了黄曲霉毒素B1、赭曲霉毒素A、沙门氏菌、金黄色葡萄球菌、单增李斯特菌等的新型检测方法，并成功应用于实际样本的检测工作中；筛选得到了单增李斯特菌和志贺氏菌特异结合核酸适配体，已结合荧光生物标记技术成功应用于目标菌的高灵敏检测。发表多篇SCI论文，相关内容申报国家发明专利。<BR><BR>近期已发表与本项目有关的SCI收录的论文：<BR>1)&nbsp;<STRONG>Xiaoyuan Ma</STRONG>, Weiping Qian<SUP>*</SUP>. Phenolic acid induced growth of gold nanoshells precursor composites and their application in antioxidant capacity assay. Biosens. Bioelectron., 2010, 26 (3): 1049-1055. (IF 5.361)<BR>2)&nbsp;<STRONG>Xiaoyuan Ma</STRONG>, Hui Li, Jian Dong, Weiping Qian<SUP>*</SUP>. Determination of hydrogen peroxide scavenging activity of phenolic acids by employing gold nanoshells precursor composites as nanoprobes. Food Chem., 2011, 126 (2): 698-704. (IF 3.458)<BR>3)&nbsp;<STRONG>马小媛</STRONG>, 钱卫平<SUP>*</SUP>. 抗氧化能力评价方法综述.《化学进展》, 2011, 23 (8): 1737-1746. (IF 0.56)<BR>4)&nbsp;<STRONG>Xiaoyuan Ma</STRONG>, Liangliang Liu, Fangjing Liu, Weiping Qian<SUP>*</SUP>. Biocatalytically induced growth of gold nanoshells: using enzyme reaction for the controllable fabrication of nanomaterials. J. Nanosci. Nanotechno., (in press) (IF 1.351)<BR>5)&nbsp;Hui Li, <STRONG>Xiaoyuan Ma</STRONG>, Jian Dong, Weiping Qian<SUP>*</SUP>. Development of methodology based on the formation process of gold nanoshells for detecting hydrogen peroxide scavenging activity. Anal. Chem., 2009, 81 (21): 8916-8922. (<STRONG>共同第一作者</STRONG>) (IF 5.874)<BR>6)&nbsp;Beibei Xu, <STRONG>Xiaoyuan Ma</STRONG>, Yanying Rao, Jian Dong, Weiping Qian<SUP>*</SUP>. Plasmonic biosensors and nanoprobes based on gold nanoshells. Chin. Sci. Bull., 2011, 56, (31): 3234-3241. (IF 1.087)<BR>7)&nbsp;Qianqian Su, <STRONG>Xiaoyuan Ma</STRONG>, Jian Dong, Caiyun Jiang, Weiping Qian<SUP>*</SUP>. A reproducible SERS substrate based on electrostatically assisted APTES-functionalized surface-assembly of gold nanostars. ACS Appl. Mater. Inter., 2011, 3 (6): 1873-1879. (IF 2.925)<BR>8)&nbsp;Qingfeng Chen, Yanying Rao, <STRONG>Xiaoyuan Ma</STRONG>, Jian Dong, Weiping Qian<SUP>*</SUP>. Raman spectroscopy for hydrogen peroxide scavenging activity assay using gold nanoshell precursor nanocomposites as SERS probes. Analytical Methods, 2011, 3 (2): 274-279.<BR>9)&nbsp;Shijia Wu, Nuo Duan, Changqing Zhu, <STRONG>Xiaoyuan Ma</STRONG>, Miao Wang, <STRONG>Zhouping Wang<SUP>*</SUP></STRONG>. Magnetic nanobead-based immunoassay for the simultaneous detection of aflatoxin B1 and ochratoxin A using upconversion nanoparticles as multicolor labels. Biosens. Bioelectron., 2011, 30 (1): 35-42. (IF 5.361)<BR>10)&nbsp;Shijia Wu, Nuo Duan, <STRONG>Zhouping Wang<SUP>*</SUP></STRONG>, Hongxin Wang. Aptamer-functionalized magnetic nanoparticle-based bioassay for the detection of ochratoxin A using upconversion nanoparticles as labels. Analyst, 2011, 136 (11): 2306-2314. (IF 3.913)<BR>11)&nbsp;<STRONG>Zhouping Wang<SUP>*</SUP></STRONG>, Nuo Duan, Xu Hun, Shijia Wu. Electrochemiluminescent aptamer biosensor for the determination of Ochratoxin A at gold nanoparticles modified gold electrode using N-(aminobutyl)-N-ethylisoluminol as a luminescent label. Anal. Bioanal. Chem., 2010, 398 (5): 2125-2132. (IF 3.841)<BR>12)&nbsp;Nuo Duan, Shijia Wu, Changqing Zhu, <STRONG>Xiaoyuan Ma</STRONG>, <STRONG>Zhouping Wang<SUP>*</SUP></STRONG>, Ye Yu, Yuan Jiang. Dual-color upconversion fluorescence and aptamer-functionalized magnetic nanoparticles-based bioassay for the simultaneous detection of Salmonella Typhimurium and Staphylococcus aureus. Anal. Chim. Acta, 2012, doi:10.1016/j.aca.2012.02.011 (in press). (IF 4.31)<BR><BR>申请的相关专利<BR>1）钱卫平, <STRONG>马小媛</STRONG>, 李慧, 董健. 一种基于金纳米壳的抗氧化剂清除H<SUB>2</SUB>O<SUB>2</SUB>能力的测定方法. 专利号：ZL 2009 1 0036204.X<BR>2）<STRONG>王周平</STRONG>，吴世嘉，段诺. 一种适配体功能化磁性纳米材料磁分离-上转换荧光纳米材料标记检测赭曲霉毒素A的方法.专利号：ZL 2010 1 0295782.8<BR>3）<STRONG>王周平</STRONG>, 李井泉, 段诺, 吴世嘉.一种纳米金标记-黄曲霉毒素B1新型检测方法.（申请号：200910035334.1; 公开号：CN 101750484 A）<BR>4) <STRONG>王周平</STRONG>，段诺，李井泉. 一种基于纳米金标银增强信号放大技术的沙门氏菌检测方法.（申请号：20109026053X; 公开号：CN 101776688 A）</DIV>
+
+</font>
+<o:p></o:p></span></p>
+  <p class=MsoNormal >
+	<span lang=EN-US style='line-height:120%;
+  font-family:楷体_GB2312;mso-hansi-font-family:宋体'><o:p><font size="3">&nbsp;</font></o:p></span></p>
+  </td>
+ </tr>
+
+ <tr style='mso-yfti-irow:2'>
+  <td width=569 valign=top style='width:426.45pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:150%'><b style='mso-bidi-font-weight:
+  normal'><span lang=EN-US style='line-height:120%;font-family:
+  宋体'><font size="3">3</font></span></b><b style='mso-bidi-font-weight:normal'><font size="3"><span
+  style='line-height:120%;font-family:宋体'>、项目负责人以往承担国家、省级等各类科技计划项目完成情况</span></font><span
+  lang=EN-US><o:p></o:p></span></b></p>
+  <p class=MsoNormal >
+	<span lang=EN-US style="line-height:150%; font-family:宋体; font-size:12pt; "><font size="3">作为主要研究人员参与的课题项目：<BR>（1）国家自然科学基金重大研究计划培育类项目(90923010)，金纳米壳的生物制造和组装及其与蛋白质相互作用的研究，2010.1-2012.12；<BR>（2）863计划项目，超灵敏纳米多孔生物传感器的研发与应用(2007AA022007)，2007-2010；<BR>（3）江苏省高校科研成果产业化推进项目(JH09-34),金纳米壳的规模化制造技术及应用，2010.1-2011.12；<BR>（4）江苏省科技支持计划—社会发展项目(BE2011621)，磁分离富集结合上转换荧光纳米探针的真菌毒素新型检测技术、产品及装备研究，2012.1-2014.12. 
+
+</font>
+<o:p></o:p></span></p>
+  <p class=MsoNormal >
+	<span lang=EN-US style='line-height:120%;
+  font-family:楷体_GB2312;mso-hansi-font-family:宋体'><o:p><font size="3">&nbsp;</font></o:p></span></p>
+  </td>
+ </tr>
+
+ <tr style='mso-yfti-irow:3'>
+  <td width=569 valign=top style='width:426.45pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:150%'><b style='mso-bidi-font-weight:
+  normal'><span lang=EN-US style='line-height:120%;font-family:
+  宋体'><font size="3">4</font></span></b><b style='mso-bidi-font-weight:normal'><font size="3"><span
+  style='line-height:120%;font-family:宋体'>、项目实施具备的人才队伍、经费配套投入能力及科技服务管理能力；</span></font><span
+  lang=EN-US><o:p></o:p></span></b></p>
+  <p class=MsoNormal >
+	<span lang=EN-US style="line-height:150%; font-family:宋体; font-size:12pt; "><font size="3"><DIV>(1) 人才队伍<BR>&nbsp;&nbsp;&nbsp; 项目研究团队共有9人，其中正教授1名，副教授1名，高级工程师2名，博士生3名，硕士生2名。学科背景包括食品营养与安全、食品微生物检验、食品科学、纳米科学、分析化学、食品安全检测等多个领域，是一支富有活力的研究团队。<BR>&nbsp;&nbsp;&nbsp; <BR>&nbsp;&nbsp;&nbsp; 项目申请人：马小媛，女，1983年生，博士，副教授。2006年于南京理工大学化工学院生物工程专业本科毕业，获工学学士学位；2011年于东南大学化学化工学院应用化学专业获工学博士学位（硕博连读）；2011年9月至今于江南大学食品学院任教。<BR>&nbsp;&nbsp;&nbsp; 申请人具有多年生物学、纳米材料科学和光谱分析科研经历，主要从事纳米材料制备及LSPR分析技术研发工作，目前主要研究方向为纳米生物分析和食品营养安全分析。重点针对纳米材料的绿色合成技术进行研究，特别是金纳米材料的可控制备，利用自然界中广泛存在的温和的酶催化反应制备金纳米壳复合颗粒；构建用于LSPR生物传感检测生物催化反应和抗氧化物质的抗氧化能力等的新型纳米探针；探索利用LSPR谱变化检测生物体系中有重要生理意义的酶(如GOD)的活性和酶催化反应的底物和产物水平以及抗氧化物质的抗氧化能力等；将纳米技术、生物反应过程控制、食品质量与安全分析、氧化应激效应、活性氧物质的动态检测等有机融合。截至目前，先后参与国家自然科学基金重大研究计划培育类项目(90923010)、863计划项目（2007AA022007）江苏省高校科研成果产业化推进项目(JH09-34)、国家自然科学基金面上项目(20475009)等的研究工作，已发表和录用SCI收录论文10余篇，获中国发明专利授权1项。</DIV>
+<DIV><BR>&nbsp;&nbsp;&nbsp; 代表性SCI收录论文：<BR>1) <STRONG>Xiaoyuan Ma</STRONG>, Weiping Qian<SUP>*</SUP>. Phenolic acid induced growth of gold nanoshells precursor composites and their application in antioxidant capacity assay. Biosens. Bioelectron., 2010, 26 (3): 1049-1055. (IF 5.361)<BR>2) <STRONG>Xiaoyuan Ma</STRONG>, Hui Li, Jian Dong, Weiping Qian<SUP>*</SUP>. Determination of hydrogen peroxide scavenging activity of phenolic acids by employing gold nanoshells precursor composites as nanoprobes. Food Chem., 2011, 126 (2): 698-704. (IF 3.458)<BR>3) <STRONG>马小媛</STRONG>, 钱卫平<SUP>*</SUP>. 抗氧化能力评价方法综述.《化学进展》, 2011, 23 (8): 1737-1746. (IF 0.56)<BR>4) <STRONG>Xiaoyuan Ma</STRONG>, Liangliang Liu, Fangjing Liu, Weiping Qian<SUP>*</SUP>. Biocatalytically induced growth of gold nanoshells: using enzyme reaction for the controllable fabrication of nanomaterials. J. Nanosci. Nanotechno., (in press) (IF 1.351)<BR>5) Hui Li, <STRONG>Xiaoyuan Ma</STRONG>, Jian Dong, Weiping Qian<SUP>*</SUP>. Development of methodology based on the formation process of gold nanoshells for detecting hydrogen peroxide scavenging activity. Anal. Chem., 2009, 81 (21): 8916-8922. (<STRONG>共同第一作者</STRONG>) (IF 5.874)<BR>6) Qianqian Su, <STRONG>Xiaoyuan Ma</STRONG>, Jian Dong, Caiyun Jiang, Weiping Qian<SUP>*</SUP>. A reproducible SERS substrate based on electrostatically assisted APTES-functionalized surface-assembly of gold nanostars. ACS Appl. Mater. Inter., 2011, 3 (6): 1873-1879. (IF 2.925)<BR>7) Xueping Jia, <STRONG>Xiaoyuan Ma</STRONG>, Dongwei Wei, Jian Dong, Weiping Qian<SUP>*</SUP>. Direct formation of silver nanoparticles in cuttlebone-derived organic matrix for catalytic applications. Colloids Surf. A: Physicochemical and Engineering Aspects, 2008, 330 (2-3): 234-240. (IF 2.13)<BR>8) Beibei Xu, <STRONG>Xiaoyuan Ma</STRONG>, Yanying Rao, Jian Dong, Weiping Qian<SUP>*</SUP>. Plasmonic biosensors and nanoprobes based on gold nanoshells. Chin. Sci. Bull., 2011, 56, (31): 3234-3241. (IF 1.087)<BR>9) Qingfeng Chen, Yanying Rao, <STRONG>Xiaoyuan Ma</STRONG>, Jian Dong, Weiping Qian<SUP>*</SUP>. Raman spectroscopy for hydrogen peroxide scavenging activity assay using gold nanoshell precursor nanocomposites as SERS probes. Analytical Methods, 2011, 3 (2): 274-279.<BR>10) Guilan Xu, Hui Li, <STRONG>Xiaoyuan Ma</STRONG>, Xueping Jia, Jian Dong, Weiping Qian<SUP>*</SUP>. A cuttlebone-derived matrix substrate for hydrogen peroxide/glucose detection. Biosens. Bioelectron., 2009, 25 (2): 362-367. (IF 5.361)<BR>11) Aihua Jing, Jian Dong, <STRONG>Xiaoyuan Ma</STRONG>, Weiping Qian<SUP>*</SUP>. Direct electron transfer and electrocatalysis of hemoglobin adsorbed on coralloid gold nanostructures. J. Nanosci. Nanotechno., 2008, 8 (7): 3439-3446. (IF 1.351)<BR>12) Shijia Wu, Nuo Duan, Changqing Zhu, <STRONG>Xiaoyuan Ma</STRONG>, Miao Wang, Zhouping Wang<SUP>*</SUP>. Magnetic nanobead-based immunoassay for the simultaneous detection of aflatoxin B1 and ochratoxin A using upconversion nanoparticles as multicolor labels. Biosens. Bioelectron., 2011, 30 (1): 35-42. (IF 5.361)<BR>13)&nbsp;Nuo Duan, Shijia Wu, Changqing Zhu, <STRONG>Xiaoyuan Ma</STRONG>, Zhouping Wang<SUP>*</SUP>, Ye Yu, Yuan Jiang. Dual-color upconversion fluorescence and aptamer-functionalized magnetic nanoparticles-based bioassay for the simultaneous detection of Salmonella Typhimurium and Staphylococcus aureus. Anal. Chim. Acta, 2012, doi:10.1016/j.aca.2012.02.011 (in press). (IF 4.31)<BR>14) Caiyun Jiang, Hui Li, Xueping Jia, <STRONG>Xiaoyuan Ma</STRONG>, Yong Qian, Weiping Qian<SUP>*</SUP>. Fabrication and characterization of poly(N-isopropyl acrylamide)-gold nanoshell structures. J. Nanosci. Nanotechno., 2010, 10 (10): 6599-6605. (IF 1.351)<BR>15) Dongwei Wei<SUP>*</SUP>, Wuyong Sun, Weiping Qian, Yongzhong Ye, <STRONG>Xiaoyuan Ma</STRONG>. The synthesis of chitosan-based silver nanoparticles and their antibacterial activity. Carbohydr. Res., 2009, 344 (17): 2375-2382. (IF 1.898)</DIV>
+<DIV>&nbsp;&nbsp;&nbsp; <BR>&nbsp;&nbsp;&nbsp; 授权的相关专利<BR>钱卫平, <STRONG>马小媛</STRONG>, 李慧, 董健. 一种基于金纳米壳的抗氧化剂清除H<SUB>2</SUB>O<SUB>2</SUB>能力的测定方法. 专利号：ZL 2009 1 0036204.X</DIV>
+<DIV>&nbsp;&nbsp;&nbsp; <BR>&nbsp;&nbsp;&nbsp; 参与的课题项目：<BR>1) 国家自然科学基金重大研究计划培育类项目(90923010)，金纳米壳的生物制造和组装及其与蛋白质相互作用的研究，2010.1-2012.12；<BR>2) 863计划项目，超灵敏纳米多孔生物传感器的研发与应用(2007AA022007)，2007-2010；<BR>3) 教育部高等学校博士学科点专项科研基金(20090092110026)，蛋白质结构和功能的纳米材料调控作用机制研究，2010.1-2012.12；<BR>4) 江苏省高校科研成果产业化推进项目(JH09-34),金纳米壳的规模化制造技术及应用，2010.1-2011.12；<BR>5) 江苏省科技支持计划—社会发展项目(BE2011621)，磁分离富集结合上转换荧光纳米探针的真菌毒素新型检测技术、产品及装备研究，2012.1-2014.12. <BR>&nbsp;&nbsp;&nbsp; <BR>&nbsp;&nbsp;&nbsp; 项目组主要成员，王周平，男，1974年生，2004年在西南大学获分析化学博士学位，2004-2006年在清华大学化学系从事博士后研究工作，现为江南大学食品学院副院长、教授、博士生导师，系教育部“新世纪优秀人才支持计划”入选者，（法国）梅里埃科学基金获得者，教育部“长江学者与创新团队发展计划” 团队主要成员，江苏省食品科学与技术学会秘书长，江苏省食品安全标准审评专家，江苏省科技咨询专家，无锡出入境检验检疫局特约研究员。目前主要研究方向为食品营养与安全检测和纳米生物分析。先后主持国家“863”计划项目、国家自然科学基金项目、江苏省自然科学基金项目、江苏省科技支撑计划项目，教育部博士点基金项目、国家质检总局科技计划项目子课题、（法国）梅里埃科学研究基金项目（食品安全领域该基金全球第一个资助项目）等科研项目多项。迄今为止已在国内外重要学术刊物发表研究论文50多篇（其中SCI源刊收录论文47篇），国际刊物邀请综述1篇；申报国家发明专利10项(授权1项)，获中国分析测试协会科学技术一等奖1项。<BR>&nbsp;&nbsp;&nbsp; <BR>&nbsp;&nbsp;&nbsp; 代表性SCI收录论文：<BR>1)&nbsp;<STRONG>Zhouping Wang</STRONG>, Jinghong Li<SUP>*</SUP>. Nanostructure presented chemiluminescence and electrochemi-luminescence. Annu. Rev. Nano Res. vol.2, p63-101. World Scientific. 2008. (Invited review)<BR>2)&nbsp;Nuo Duan, Shijia Wu, Changqing Zhu, Xiaoyuan Ma, <STRONG>Zhouping Wang<SUP>*</SUP></STRONG>, Ye Yu, Yuan Jiang. Dual-color upconversion fluorescence and aptamer-functionalized magnetic nanoparticles-based bioassay for the simultaneous detection of Salmonella Typhimurium and Staphylococcus aureus. Anal. Chim. Acta, 2012, doi:10.1016/j.aca.2012.02.011. (IF 4.31)<BR>3)&nbsp;Nuo Duan, Shijia Wu, Xiaoyuan Ma, Xiujuan Chen, Yukun Huang, <STRONG>Zhouping Wang<SUP>*</SUP></STRONG>. Gold nanoparticle-based fluorescence resonance energy transfer aptasensor for ochratoxin A detection. Anal. Lett., (accepted, in press) (IF 0.92)<BR>4)&nbsp;Xu Hun, <STRONG>Zhouping Wang<SUP>*</SUP></STRONG>. L-Argininamide biosensor based on S1 nuclease hydrolysis signal amplification. Microchim. Acta, 2012, 176 (1-2): 209-216. (IF 2.578)<BR>5)&nbsp;Shijia Wu, Nuo Duan, Changqing Zhu, Xiaoyuan Ma, Miao Wang, <STRONG>Zhouping Wang<SUP>*</SUP></STRONG>. Magnetic nanobead-based immunoassay for the simultaneous detection of aflatoxin B1 and ochratoxin A using upconversion nanoparticles as multicolor labels. Biosens. Bioelectron., 2011, 30 (1): 35-42. (IF 5.361)<BR>6)&nbsp;Shijia Wu, Nuo Duan, <STRONG>Zhouping Wang<SUP>*</SUP></STRONG>, Hongxin Wang. Aptamer-functionalized magnetic nanoparticle-based bioassay for the detection of ochratoxin A using upconversion nanoparticles as labels. Analyst, 2011, 136 (11): 2306-2314. (IF 3.913)<BR>7)&nbsp;<STRONG>Zhouping Wang<SUP>*</SUP></STRONG>, Jingquan Li, Jiayin Zhao, Nuo Duan, Huachao Sun, Yonghui Shi. Ultrasensitive chemiluminescent detection of Salmonella with DNA hybridization and silver amplification of nanogold labels. Anal. Lett., 2011, 44 (6): 1063-1076. (IF 0.92)<BR>8)&nbsp;<STRONG>Zhouping Wang<SUP>*</SUP></STRONG>, Nuo Duan, Jingquan Li, Jing Ye, Shufeng Ma, Guowei Le. Ultrasensitive chemiluminescent immunoassay of Salmonella with silver enhancement of nanogold labels. Luminescence, 2011, 26 (2): 136-141. (IF 1.395)<BR>9)&nbsp;Nuo Duan, Shijia Wu, <STRONG>Zhouping Wang<SUP>*</SUP></STRONG>. An aptamer-based fluorescence assay for Ochratoxin A. Chinese J. Anal. Chem., 2011, 39 (3): 300-304. (IF 0.798)<BR>10)&nbsp;Tinging Miao, <STRONG>Zhouping Wang<SUP>*</SUP></STRONG>, Shuang Li, Xin Wang. Sensitive fluorescent detection of Staphylococcus aureus using nanogold linked CdTe nanocrystals as signal amplification labels. Microchim. Acta, 2011, 172 (3-4): 431-437. (IF 2.578)<BR>11)&nbsp;<STRONG>Zhouping Wang<SUP>*</SUP></STRONG>, Huan Xu, Jia Wu, Jing Ye, Zhen Yang. Sensitive detection of Salmonella with fluorescent bioconjugated nanoparticles probe. Food Chem., 2011, 125 (2): 779-784. (IF 3.458)<BR>12)&nbsp;<STRONG>Zhouping Wang<SUP>*</SUP></STRONG>, Nuo Duan, Xu Hun, Shijia Wu. Electrochemiluminescent aptamer biosensor for the determination of Ochratoxin A at gold nanoparticles modified gold electrode using N-(aminobutyl)-N-ethylisoluminol as a luminescent label. Anal. Bioanal. Chem., 2010, 398 (5): 2125-2132. (IF 3.841)<BR>13)&nbsp;<STRONG>Zhouping Wang<SUP>*</SUP></STRONG>, Tingting Miu, Huan Xu, Nuo Duan, Xiaoying Ding, Shuang Li. Sensitive immunoassay of Listeria monocytogenes with highly fluorescent bioconjugated silica nanoparticles probe. J. Microbiol. Methods, 2010, 83 (2): 179-184. (IF 2.018) <BR>14)&nbsp;<STRONG>Zhouping Wang<SUP>*</SUP></STRONG>, Huan Xu, Jia Qian, Jing Ye, Zhen Yang, Huachao Sun, Yonghui Shi. A flow-injection chemiluminescent method for the evaluation of the antioxidant activity of 5’-nucleotides. Luminescence, 2010, 25 (4): 300-306. (IF 1.395)<BR>15)&nbsp;<STRONG>Zhouping Wang<SUP>*</SUP></STRONG>, Huan Xu, Jia Wu, Jing Ye, Guowei Le. Homogenous detection of Listeria Monocytohenes DNA with molecule beacon and highly fluorescent bioconjugated nanoparticles probe. Acta Chimica Sinica, 2010, 68 (9): 909-916. (IF 0.611)<BR>16)&nbsp;<STRONG>Zhouping Wang<SUP>*</SUP></STRONG>, Zhen Yang, Jing Ye, Guiliang Tan, Huan Xu, Yifeng Liu. Capillary electrophoresis-electrochemiluminescence method for simultaneous detection of azithromycin, roxithromycin and erythromycin ethylsuccinate. Chem. Anal. (Warsaw), 2009, 54 (5): 883-894. (IF 0.428)<BR>17)&nbsp;<STRONG>Zhouping Wang</STRONG>, Jun Li, Bin Liu, Jinghong Li<SUP>*</SUP>. CdTe nanocrystals sensitized chemiluminescence and the analytical application. Talanta, 2009, 77 (3): 1050-1056. (IF 3.722)<BR>18)&nbsp;Xiaoli Peng, <STRONG>Zhouping Wang<SUP>*</SUP></STRONG>, Jingquan Li, Guowei Le, Yonghui Shi. Electrochemi-luminescence detection of clarithromycin in biological fluids after capillary electrophoresis separation. Anal. Lett., 2008, 41 (7): 1184-1199. (IF 0.92)<BR>19)&nbsp;Jianqiang Hu, <STRONG>Zhouping Wang</STRONG>, Jinghong Li<SUP>*</SUP>. Gold nanoparticles with special shapes: controlled synthesis, surface-enhanced raman scattering, and the application in biodetection. Sensors, 2007, 7 (12): 3299-3311. (IF 1.771)<BR>20)&nbsp;<STRONG>Zhouping Wang</STRONG>, Jianqiang Hu, Yan Jin, Xin Yao, Jinghong Li<SUP>*</SUP>. In situ amplified chemiluminescent detection of DNA and immunoassay of IgG using special-shaped nanogold as label. Clin. Chem., 2006, 52 (10): 1958-1961. (IF 6.886)<BR>21)&nbsp;Xianbo Lu, Jianqiang Hu, Xin Yao, <STRONG>Zhouping Wang</STRONG>, Jinghong Li<SUP>*</SUP>. Composite system based on chitosan and room temperature ionic liquid: direct electrochemistry and electrocatalysis of hemoglobin. Biomacromolecules, 2006, 7 (3): 975-980. (IF 5.325)<BR>22)&nbsp;<STRONG>Zhouping Wang</STRONG>, Jun Li, Bin Liu, Jianqiang Hu, Xin Yao, Jinghong Li<SUP>*</SUP>. Chemiluminescence of CdTe nanocrystals induced by direct chemical oxidation and its size-dependent and surfactant-sensitized effect. J. Phys. Chem. B, 2005, 109 (49): 23304-23311. (IF 3.603）<BR>23)&nbsp;<STRONG>Zhouping Wang</STRONG>, Zhujun Zhang<SUP>*</SUP>, Zhifeng Fu, Wanfen Luo, Xiao Zhang. Flow-injection chemiluminescence determination of aminomethylbenzoic acid and aminophylline based on N-bromosuccinimide-luminol reaction. Talanta, 2004, 62 (3): 611-617. (IF 3.722)<BR>24)&nbsp;<STRONG>Zhouping Wang</STRONG>, Zhujun Zhang<SUP>*</SUP>, Zhifeng Fu, Xiao Zhang. Sensitive flow-injection chemiluminescence determination of terbutaline sulfate based on the enhancement of luminol-permanganate reaction. Anal. Bioanal. Chem., 2004, 378 (3): 834-840. (IF 3.841)<BR>25)&nbsp;<STRONG>Zhouping Wang</STRONG>, Zhujun Zhang<SUP>*</SUP>, Xiao Zhang, Zhifeng Fu. Flow-injection inhibition chemiluminescence determination of indapamide based on luminol-ferricyanide reaction. J. Pharm. Biomed. Anal., 2004, 35 (1): 1-7. (IF 2.453)<BR>26)&nbsp;<STRONG>Zhouping Wang</STRONG>, Zhujun Zhang<SUP>*</SUP>, Zhifeng Fu, Luqiu Fang, Xiao Zhang. N-bromosuccinimide-fluorescein based sensitive flow-injection chemiluminescence determination of phenformin. Anal. Sci., 2004, 20 (2): 319-323. (IF 1.465)<BR>27)&nbsp;<STRONG>Zhouping Wang</STRONG>, Zhujun Zhang<SUP>*</SUP>, Zhifeng Fu, Luqiu Fang, Dinglong Chen, Xiao Zhang. Mushroom tissue-based flow-injection fluorescence system for the determination of noradrenaline and L-dopa. Acta Chimica Sinica, 2004, 62 (5): 508-513. (IF 0.611）<BR>28)&nbsp;<STRONG>Zhouping Wang</STRONG>, Zhujun Zhang<SUP>*</SUP>, Zhifeng Fu, Luqiu Fang, Wanfen Luo, Dinglong Chen, Xiao Zhang. Mushroom tissue-based flow-injection fluorescence system for the determination of isoprenaline. Anal. Chim. Acta, 2003, 494 (1-2): 63-70. (IF 4.31 )<BR>29)&nbsp;<STRONG>Zhouping Wang</STRONG>, Zhujun Zhang<SUP>*</SUP>, Zhifeng Fu, Yan Xiong, Xiao Zhang. A flow-injection ultrafiltration sampling chemiluminescence system for on-line determination of drug-protein interaction. Anal. Bioanal. Chem., 2003, 377 (4): 660-665. (IF 3.841)<BR>30)&nbsp;<STRONG>Zhouping Wang</STRONG>, Zhujun Zhang<SUP>*</SUP>, Zhifeng Fu, Dinglong Chen, Xiao Zhang. Flow-injection chemiluminescence detection for studying protein binding of terbutaline sulfate with on-line microdialysis sampling. J. Pharm. Biomed. Anal., 2003, 33 (4): 765-773. (IF 2.453)<BR>31)&nbsp;<STRONG>Zhouping Wang, </STRONG>Zhujun Zhang<SUP>*</SUP>, Zhifeng Fu, Wanfen Luo, Xiao Zhang. Sensitive flow-injection chemiluminescence determination of metformin based on N-bromosuccinimide-fluorescein system. Anal. Lett., 2003, 36 (12): 2683-2697. (IF 0.92)<BR><BR>&nbsp;&nbsp;&nbsp; 申请国家发明专利：<BR>1）王周平，吴世嘉，段诺. 一种适配体功能化磁性纳米材料磁分离-上转换荧光纳米材料标记检测赭曲霉毒素A的方法（专利号：ZL 2010 1 0295782.8）<BR>2）王周平, 李井泉, 段诺, 吴世嘉.一种纳米金标记-黄曲霉毒素B1新型检测方法（申请号：200910035334.1; 公开号：CN 101750484 A）<BR>3）王周平, 段诺, 杨震, 李双, 吴世嘉. 一种同时检测泰乐菌素、交沙霉素和螺旋霉素残留的毛细管电泳-纳米金敏化电化学发光法（申请号：200910035335.6；公开号：CN 101672822 A）<BR>4) 王周平，段诺，李井泉. 一种基于纳米金标银增强信号放大技术的沙门氏菌检测方法（申请号：20109026053X; 公开号：CN 101776688 A）<BR>5）王周平，段诺，混旭，吴世嘉. 一种电化学发光核配体传感器检测赭曲霉毒素A的方法（申请号：201010271247.9；公开号：CN 101936940 A）<BR>&nbsp;&nbsp;&nbsp;&nbsp;<BR>&nbsp;&nbsp;&nbsp; 承担主持的课题情况：<BR>1)&nbsp;国家“863”计划项目“基于纳米探针技术的真菌毒素快速检测技术研究”（No.2008AA10Z419），2008-2010。<BR>2)&nbsp;国家自然科学基金项目“基于功能化金纳米探针的食源性致病菌超灵敏快速检测方法与技术研究”（No.20805019），2009-2010。<BR>3)&nbsp;江苏省自然科学基金项目“基于功能化金纳米探针的真菌毒素新型检测方法研究”（No.BK2008101），2008-2010（验收评定为优秀）。<BR>4)&nbsp;国家科技支撑计划项目“食品非法添加物高通量筛查技术与装备研究”（2012BAK08B01），2012-2014，子课题负责人。<BR>5)&nbsp;教育部新世纪优秀人才支持计划“基于核酸适配体识别的食品安全检测新方法与新技术研究”（NCET-11-0663），2012-2014。<BR>6)&nbsp;（法国）梅里埃科学研究基金项目“新型纳米结构敏化超灵敏食品营养与安全生物分析系统”（该基金全球食品安全领域第一个资助项目），2010-2011。</DIV>
+<DIV>&nbsp;&nbsp;&nbsp; <BR>&nbsp;&nbsp;&nbsp; 项目组主要成员，祝长青，男，1973年生，南京农业大学食品科学与安全专业在读博士生，江苏出入境检验检疫局动植物与食品检测中心食品安全检测实验室高级工程师，生物学检验科副科长。近年来一直致力于食品微生物、毒素等检验工作，主持和参与科研、标准制订项目6个，获国家质检总局“科技兴检奖”二等奖一次，江苏局“科技兴检奖”两次。项目技术骨干，在本项目中主要负责方法的验证与评估。<BR>&nbsp;&nbsp;&nbsp; <BR>&nbsp;&nbsp;&nbsp; 近年取得的主要成果：<BR>1)&nbsp;《食品中常见病原微生物快速检测技术的研究》获国家质检总局“科技兴检奖”二等奖（证书编号：2004-33-2-R04，第四完成人）；<BR>2)&nbsp;《食品和水中空肠弯曲杆菌检测方法的研究》获江苏局“科技兴检奖”一等奖（证书编号：2004 №：07-02，第二完成人）；<BR>3)&nbsp;《转基因大豆检测方法的研究》获得江苏局科技兴检奖二等奖（证书编号：2002 №：06-02，第二完成人，该课题为获得2004年总局科技兴检奖一等奖的“国家转基因植物产品检测实验室及检测技术体系的建立”的子项目）；<BR>4)&nbsp;完成制定行业标准SN/T 1195-2003“大豆中转基因成分的定性PCR检测方法”（第二完成人）和国家标准GB/T 19495.4-2004 “转基因产品检测 核酸定性PCR检测方法”（第十完成人）；完成国家标准GB/T 4789.9-2003 “食品卫生微生物学检验空肠弯曲菌检验”的修订工作。</DIV>
+<DIV><BR>(2) 经费配套投入能力<BR>&nbsp;&nbsp;&nbsp; 课题组在前期研究中已经投入20万元左右用于检测光源购置、接口试制、原材料和生化试剂等购买，后续研究工作中还将通过市配套投入和单位自筹方式继续配套增加175万元经费投入，在实验仪器设备购置、技术产品化、产品市场化方面进行深入研究。<BR><BR>(3) 科技服务管理能力<BR>&nbsp;&nbsp;&nbsp; 本课题组将进一步结合本课题的特色，以及课题指南的规范和要求，针对本课题项目制定对应的策略，全面完成好本课题的各项预定目标，努力提升科技服务管理能力。 </DIV>
+
+
+</font>
+
+<o:p></o:p></span></p>
+  <p class=MsoNormal >
+	<span lang=EN-US style='line-height:120%;
+  font-family:楷体_GB2312;mso-hansi-font-family:宋体'><o:p><font size="3">&nbsp;</font></o:p></span></p>
+  </td>
+ </tr>
+  
+ <tr style='mso-yfti-irow:4;mso-yfti-lastrow:yes'>
+  <td width=569 valign=top style='width:426.45pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:150%'><b style='mso-bidi-font-weight:
+  normal'><span lang=EN-US style='line-height:120%;font-family:
+  宋体'><font size="3">5</font></span></b><b style='mso-bidi-font-weight:normal'><font size="3"><span
+  style='line-height:120%;font-family:宋体'>、本项目实施可能对环境的影响及预防治理方案。</span></font><span
+  lang=EN-US><o:p></o:p></span></b></p>
+  <p class=MsoNormal >
+	<span lang=EN-US style="line-height:150%; font-family:宋体; font-size:12pt; "><font size="3"><DIV>&nbsp;&nbsp;&nbsp; 本项目实施不涉及对环境造成影响。 </DIV>
+
+</font>
+<o:p></o:p></span></p>
+  <p class=MsoNormal >
+	<span lang=EN-US style='line-height:120%;
+  font-family:楷体_GB2312;mso-hansi-font-family:宋体'><o:p><font size="3">&nbsp;</font></o:p></span></p>
+  </td>
+ </tr>
+</table>
+
+<span lang=EN-US style='font-size:14.0pt;line-height:120%;font-family:仿宋_GB2312;
+mso-hansi-font-family:"Times New Roman";mso-bidi-font-family:"Times New Roman";
+mso-font-kerning:1.0pt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;
+mso-bidi-language:AR-SA'><br clear=all style='page-break-before:always'>
+</span>
+ 
+<p class=MsoNormal style='line-height:150%'><b style='mso-bidi-font-weight:
+normal'><span style='font-size:14.0pt;line-height:120%;font-family:仿宋_GB2312'>五、项目研究预期成果及效益<span
+lang=EN-US><o:p></o:p></span></span></b></p>
+
+<table class=MsoTableGrid border=1 cellspacing=0 cellpadding=0
+ style='border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-yfti-tbllook:480;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;mso-border-insideh:
+ .5pt solid windowtext;mso-border-insidev:.5pt solid windowtext'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes'>
+  <td width=569 valign=top style='width:426.45pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='text-indent:18.0pt;mso-char-indent-count:1.5;
+  line-height:150%'><span lang=EN-US style="line-height:150%; font-family:宋体; font-size:12pt; "><font size="3"><DIV>&nbsp;&nbsp;&nbsp; 建立新型纳米金阵列光学、电化学探针的制备方法，建立基于纳米金阵列探针相关的光学传感、电化学传感检测、金增强信号放大、免疫亲和识别几种先进技术有机结合的食源性致病菌和食品中抗氧化能力评价的新技术、新方法，实现简单、快速、高灵敏、特异性强的检测。解决实际检测问题，发展新型检测试剂，形成自主知识产权。最终实现检测过程在几分钟内即可完成，只需要简单的光学或电化学分析仪器. 预计发表高档次SCI收录论文3-5篇，申请国家发明专利3-4个，研制检测新产品3种，新型检测装备1种，参与制订或修改国家、行业标准1项以上，提交详细研究报告1份。<BR>&nbsp;&nbsp;&nbsp; 该技术方法及以此为基础发展的新型检测产品将在涉及食源性致病菌检测的质检、商检部门，尤其是检疫检验、海关、公安等部门得到广泛应用，在涉及食品营养功效评价的质量评估及改善人们日常饮食结构中发挥重要作用，在提升我国食品安全检测技术水平、保障国民健康方面产生良好的社会和经济效益。</DIV>
+<DIV>&nbsp;</DIV>
+</font><o:p></o:p></span></p>
+  <p class=MsoNormal style='text-indent:18.0pt;mso-char-indent-count:1.5;
+  line-height:150%'><span lang=EN-US style='font-size:9.0pt;line-height:120%;
+  font-family:楷体_GB2312'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+</table>
+
+<p class=MsoNormal style='line-height:150%'><b style='mso-bidi-font-weight:
+normal'><span lang=EN-US style='font-size:14.0pt;line-height:120%;font-family:
+仿宋_GB2312'><o:p>&nbsp;</o:p></span></b></p>
+
+<p class=MsoNormal style='line-height:150%'><b style='mso-bidi-font-weight:
+normal'><span lang=EN-US style='font-size:14.0pt;line-height:120%;font-family:
+仿宋_GB2312'><o:p>&nbsp;</o:p></span></b></p>
+
+<b style='mso-bidi-font-weight:normal'><span lang=EN-US style='font-size:14.0pt;
+line-height:120%;font-family:仿宋_GB2312;mso-hansi-font-family:"Times New Roman";
+mso-bidi-font-family:"Times New Roman";mso-font-kerning:1.0pt;mso-ansi-language:
+EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA'><br clear=all
+style='page-break-before:always'>
+</span></b>
+
+<p class=MsoNormal style='line-height:150%'><b style='mso-bidi-font-weight:
+normal'><span style='font-size:14.0pt;line-height:120%;font-family:仿宋_GB2312'>六、计划进度安排与考核指标<span
+lang=EN-US><o:p></o:p></span></span></b></p>
+
+<table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width=582
+ style='width:436.55pt;border-collapse:collapse;border:none;mso-border-alt:
+ solid windowtext .5pt;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;mso-border-insideh:
+ .5pt solid windowtext;mso-border-insidev:.5pt solid windowtext'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;height:1.0cm'>
+  <td width=224 style='width:168.15pt;border:solid windowtext 1.0pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='text-align:center'><font size="3">
+	<span
+  style='font-family:仿宋_GB2312'>工作进度</span></font><span lang=EN-US><o:p></o:p></span></p>
+  </td>
+  <td width=358 style='width:268.4pt;border:solid windowtext 1.0pt;border-left:
+  none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='text-align:center'><font size="3">
+	<span
+  style='font-family:仿宋_GB2312'>主要工作内容</span></font><span lang=EN-US><o:p></o:p></span></p>
+  </td>
+ </tr>
+ 
+	  
+	  
+ 
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;height:1.0cm'>
+  <td width=224 style='width:168.15pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='text-align:center'>
+	<span lang=EN-US
+  style='font-family:仿宋_GB2312'><font size="3">2012</font></span><font size="3"><span
+  style='font-family:仿宋_GB2312'>年<span lang=EN-US>10</span>月至<span
+  lang=EN-US>2013</span>年<span lang=EN-US>06</span>月</span></font><span lang=EN-US><o:p></o:p></span></p>
+  </td>
+  <td width=358 style='width:268.4pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal><span lang=EN-US style='font-family:楷体_GB2312'><font size="3">生物功能化纳米金阵列传感检测探针的制备及表征。</font><o:p></o:p></span></p>
+  </td>
+ </tr>
+ 
+ 
+
+ 
+  
+ 
+ 
+ 	 
+ 
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;height:1.0cm'>
+  <td width=224 style='width:168.15pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='text-align:center'>
+	<span lang=EN-US
+  style='font-family:仿宋_GB2312'><font size="3">2013</font></span><font size="3"><span
+  style='font-family:仿宋_GB2312'>年<span lang=EN-US>07</span>月至<span
+  lang=EN-US>2014</span>年<span lang=EN-US>04</span>月</span></font><span lang=EN-US><o:p></o:p></span></p>
+  </td>
+  <td width=358 style='width:268.4pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal><span lang=EN-US style='font-family:楷体_GB2312'><font size="3">利用食品中抗氧化物质的还原能力结合纳米金阵列基底的高度可调的光学、电化学特性，对食品中抗氧化剂的抗氧化能力进行评价，建立基于纳米金阵列基底的抗氧化水平快速有效的定量评价体系。</font><o:p></o:p></span></p>
+  </td>
+ </tr>
+ 
+ 
+
+ 
+  
+ 
+ 
+ 	 
+ 
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;height:1.0cm'>
+  <td width=224 style='width:168.15pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='text-align:center'>
+	<span lang=EN-US
+  style='font-family:仿宋_GB2312'><font size="3">2014</font></span><font size="3"><span
+  style='font-family:仿宋_GB2312'>年<span lang=EN-US>05</span>月至<span
+  lang=EN-US>2015</span>年<span lang=EN-US>02</span>月</span></font><span lang=EN-US><o:p></o:p></span></p>
+  </td>
+  <td width=358 style='width:268.4pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal><span lang=EN-US style='font-family:楷体_GB2312'><font size="3">基于纳米探针传感技术-免疫亲和识别/核酸适配体识别的食源性致病菌新型检测技术研究，实现食源性致病菌的高灵敏快速检测。</font><o:p></o:p></span></p>
+  </td>
+ </tr>
+ 
+ 
+
+ 
+  
+ 
+ 
+ 	 
+ 
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;height:1.0cm'>
+  <td width=224 style='width:168.15pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='text-align:center'>
+	<span lang=EN-US
+  style='font-family:仿宋_GB2312'><font size="3">2015</font></span><font size="3"><span
+  style='font-family:仿宋_GB2312'>年<span lang=EN-US>03</span>月至<span
+  lang=EN-US>2015</span>年<span lang=EN-US>10</span>月</span></font><span lang=EN-US><o:p></o:p></span></p>
+  </td>
+  <td width=358 style='width:268.4pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal><span lang=EN-US style='font-family:楷体_GB2312'><font size="3">样本测试，技术、产品的验证评估，提交详细研究报告，结题验收。</font><o:p></o:p></span></p>
+  </td>
+ </tr>
+ 
+ 
+
+ 
+  
+ 
+ 
+ 	 
+ 
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;height:1.0cm'>
+  <td width=224 style='width:168.15pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='text-align:center'>
+	<span
+  style='font-family:仿宋_GB2312'><font size="3">&nbsp;&nbsp;&nbsp;&nbsp;年&nbsp;&nbsp;月至</font></span><span
+  style='font-size:9.0pt;font-family:仿宋_GB2312'><span
+  style='font-family:仿宋_GB2312'><font size="3">&nbsp;&nbsp;&nbsp;&nbsp;年</font></span><font size="3"><span
+  style='font-family:仿宋_GB2312'>&nbsp;&nbsp;月</span></font><span lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+  <td width=358 style='width:268.4pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal><span lang=EN-US style='font-size:9.0pt;font-family:楷体_GB2312'><o:p></o:p></span></p>
+  </td>
+ </tr>
+
+ 
+ 
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;height:1.0cm'>
+  <td width=224 style='width:168.15pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='text-align:center'>
+	<span
+  style='font-family:仿宋_GB2312'><font size="3">&nbsp;&nbsp;&nbsp;&nbsp;年&nbsp;&nbsp;月至</font></span><span
+  style='font-size:9.0pt;font-family:仿宋_GB2312'><span
+  style='font-family:仿宋_GB2312'><font size="3">&nbsp;&nbsp;&nbsp;&nbsp;年</font></span><font size="3"><span
+  style='font-family:仿宋_GB2312'>&nbsp;&nbsp;月</span></font><span lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+  <td width=358 style='width:268.4pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal><span lang=EN-US style='font-size:9.0pt;font-family:楷体_GB2312'><o:p></o:p></span></p>
+  </td>
+ </tr>
+
+ 
+ 
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;height:1.0cm'>
+  <td width=224 style='width:168.15pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='text-align:center'>
+	<span
+  style='font-family:仿宋_GB2312'><font size="3">&nbsp;&nbsp;&nbsp;&nbsp;年&nbsp;&nbsp;月至</font></span><span
+  style='font-size:9.0pt;font-family:仿宋_GB2312'><span
+  style='font-family:仿宋_GB2312'><font size="3">&nbsp;&nbsp;&nbsp;&nbsp;年</font></span><font size="3"><span
+  style='font-family:仿宋_GB2312'>&nbsp;&nbsp;月</span></font><span lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+  <td width=358 style='width:268.4pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal><span lang=EN-US style='font-size:9.0pt;font-family:楷体_GB2312'><o:p></o:p></span></p>
+  </td>
+ </tr>
+
+ 
+ 	 
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes;
+  height:310.25pt'>
+  <td width=582 colspan=2 valign=top style='width:436.55pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:310.25pt'>
+  <p class=MsoNormal style='line-height:150%'><font size="3">
+	<span style='line-height:120%;font-family:仿宋_GB2312'>项目完成后主要考核指标： </span>
+	</font> <span lang=EN-US><o:p></o:p></span></p>
+  <p class=MsoNormal >
+	<span lang=EN-US style='line-height:120%;
+  font-family:楷体_GB2312'><font size="3">发表高档次SCI收录论文3-5篇，申请国家发明专利3-4个，研制检测新产品3种，新型检测装备1种，参与制订或修改国家、行业标准1项以上，提交详细研究报告1份。</font><o:p></o:p></span></p>
+  <p class=MsoNormal><span lang=EN-US style='font-family:仿宋_GB2312'><o:p>
+	<font size="3">&nbsp;</font></o:p></span></p>
+  </td>
+ </tr>
+</table>
+
+</div>
+
+<div class=Section3>
+
+<span lang=EN-US style='font-size:14.0pt;line-height:120%;font-family:仿宋_GB2312;
+mso-hansi-font-family:"Times New Roman";mso-bidi-font-family:"Times New Roman";
+mso-font-kerning:1.0pt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;
+mso-bidi-language:AR-SA'><br clear=all style='page-break-before:always'>
+</span>
+
+</span>
+<span style='font-size:14.0pt;
+line-height:120%;font-family:仿宋_GB2312;mso-hansi-font-family:"Times New Roman";
+mso-bidi-font-family:"Times New Roman";mso-font-kerning:1.0pt;mso-ansi-language:
+EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA'>
+
+<p class=MsoNormal style='line-height:150%'>
+<span style="font-family: 仿宋_GB2312; font-size: 14pt">七</span></span><span lang=EN-US style='font-size:14.0pt;
+line-height:120%;font-family:仿宋_GB2312;mso-hansi-font-family:"Times New Roman";
+mso-bidi-font-family:"Times New Roman";mso-font-kerning:1.0pt;mso-ansi-language:
+EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA'><b style='mso-bidi-font-weight:
+normal'><span style='font-size:14.0pt;line-height:120%;font-family:仿宋_GB2312'>、承担单位审查及承诺意见、盖章</span></b></p>
+
+<p class=MsoNormal style='line-height:150%'>　</p>
+<p class=MsoNormal style='line-height:150%'>
+<span
+style='mso-spacerun:yes; font-size:14.0pt; line-height:120%; font-family:仿宋_GB2312' lang="EN-US">&nbsp; </span><span style='font-size:14.0pt;
+line-height:120%;font-family:仿宋_GB2312'>承担单位<span lang=EN-US><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span>参加单位<span lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='line-height:150%'><span style='font-size:14.0pt;
+line-height:120%;font-family:仿宋_GB2312'>（法人签字）<span lang=EN-US><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span>（法人签字）<span lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='line-height:150%'><span lang=EN-US style='font-size:
+14.0pt;line-height:120%;font-family:仿宋_GB2312'><span
+style='mso-spacerun:yes'>&nbsp;&nbsp; </span></span><span style='font-size:
+14.0pt;line-height:120%;font-family:仿宋_GB2312'>盖章<span lang=EN-US><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span>盖章<span lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='line-height:150%'><span lang=EN-US style='font-size:
+14.0pt;line-height:120%;font-family:仿宋_GB2312'><span
+style='mso-spacerun:yes'>&nbsp; </span></span><span style='font-size:14.0pt;
+line-height:120%;font-family:仿宋_GB2312'>年<span lang=EN-US><span
+style='mso-spacerun:yes'>&nbsp; </span></span>月<span lang=EN-US><span
+style='mso-spacerun:yes'>&nbsp; </span></span>日<span lang=EN-US><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span>年<span lang=EN-US><span style='mso-spacerun:yes'>&nbsp; </span></span>月<span
+lang=EN-US><span style='mso-spacerun:yes'>&nbsp; </span></span>日</span></p>
+
+<p class=MsoNormal style='line-height:150%'>　</p>
+</span>
+<span style='font-size:14.0pt;
+line-height:120%;font-family:仿宋_GB2312;mso-hansi-font-family:"Times New Roman";
+mso-bidi-font-family:"Times New Roman";mso-font-kerning:1.0pt;mso-ansi-language:
+EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA'>
+<p class=MsoNormal style='line-height:150%'>
+<span style="font-family: 仿宋_GB2312; font-size: 14pt">八</span></span><span lang=EN-US style='font-size:14.0pt;
+line-height:120%;font-family:仿宋_GB2312;mso-hansi-font-family:"Times New Roman";
+mso-bidi-font-family:"Times New Roman";mso-font-kerning:1.0pt;mso-ansi-language:
+EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA'><b style='mso-bidi-font-weight:
+normal'><span style='font-size:14.0pt;line-height:120%;font-family:仿宋_GB2312'>、县（市）科技主管部门承诺意见、盖章</span></b></p>
+<p class=MsoNormal style='line-height:150%'>　</p>
+
+<p class=MsoNormal style='line-height:150%'><span lang=EN-US style='font-size:
+14.0pt;line-height:120%;font-family:仿宋_GB2312'><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span></span><span
+style='font-size:14.0pt;line-height:120%;font-family:仿宋_GB2312'>是否同意配套支持：是</span><span
+lang=EN-US style='font-size:14.0pt;line-height:120%;font-family:"Monotype Sorts";
+mso-ascii-font-family:仿宋_GB2312;mso-fareast-font-family:仿宋_GB2312;mso-hansi-font-family:
+"Times New Roman";mso-char-type:symbol;mso-symbol-font-family:"Monotype Sorts"'><span
+style='mso-char-type:symbol;mso-symbol-font-family:"Monotype Sorts"'>&#151;</span></span><span
+lang=EN-US style='font-size:14.0pt;line-height:120%;font-family:仿宋_GB2312'><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span
+style='font-size:14.0pt;line-height:120%;font-family:仿宋_GB2312'>配套支持经费：<span
+lang=EN-US><span style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span></span>万元<span
+lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='line-height:150%'><span lang=EN-US style='font-size:
+14.0pt;line-height:120%;font-family:仿宋_GB2312'><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span style='font-size:14.0pt;line-height:120%;font-family:仿宋_GB2312'>否</span><span
+lang=EN-US style='font-size:14.0pt;line-height:120%;font-family:"Monotype Sorts";
+mso-ascii-font-family:仿宋_GB2312;mso-fareast-font-family:仿宋_GB2312;mso-hansi-font-family:
+"Times New Roman";mso-char-type:symbol;mso-symbol-font-family:"Monotype Sorts"'><span
+style='mso-char-type:symbol;mso-symbol-font-family:"Monotype Sorts"'>&#151;</span></span><span
+lang=EN-US style='font-size:14.0pt;line-height:120%;font-family:仿宋_GB2312'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='line-height:150%'><span lang=EN-US style='font-size:
+14.0pt;line-height:120%;font-family:仿宋_GB2312'><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span></span><span
+style='font-size:14.0pt;line-height:120%;font-family:仿宋_GB2312'>（负责人签字）<span
+lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='line-height:150%'><span lang=EN-US style='font-size:
+14.0pt;line-height:120%;font-family:仿宋_GB2312'><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-indent:217.0pt;mso-char-indent-count:15.5;
+line-height:150%'><span style='font-size:14.0pt;line-height:120%;font-family:
+仿宋_GB2312'>单位盖章<span lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='line-height:150%'><span lang=EN-US style='font-size:
+14.0pt;line-height:120%;font-family:仿宋_GB2312'><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span style='font-size:14.0pt;line-height:120%;font-family:仿宋_GB2312'>年<span
+lang=EN-US><span style='mso-spacerun:yes'>&nbsp; </span></span>月<span
+lang=EN-US><span style='mso-spacerun:yes'>&nbsp;&nbsp; </span></span>日</span></p>
+<p class=MsoNormal style='line-height:150%'>　</p>
+</span>
+<span style='font-size:14.0pt;
+line-height:120%;font-family:仿宋_GB2312;mso-hansi-font-family:"Times New Roman";
+mso-bidi-font-family:"Times New Roman";mso-font-kerning:1.0pt;mso-ansi-language:
+EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA'>
+<p class=MsoNormal style='line-height:150%'>
+<span style="font-family: 仿宋_GB2312; font-size: 14pt">九</span></span><span lang=EN-US style='font-size:14.0pt;
+line-height:120%;font-family:仿宋_GB2312;mso-hansi-font-family:"Times New Roman";
+mso-bidi-font-family:"Times New Roman";mso-font-kerning:1.0pt;mso-ansi-language:
+EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA'><b style='mso-bidi-font-weight:
+normal'><span style='font-size:14.0pt;line-height:120%;font-family:仿宋_GB2312'>、省辖市科技主管部门、省有关厅局审查承诺意见、盖章</span></b></p>
+<p class=MsoNormal style='line-height:150%'>　</p>
+
+<p class=MsoNormal style='line-height:150%'><span lang=EN-US style='font-size:
+14.0pt;line-height:120%;font-family:仿宋_GB2312'><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span></span><span
+style='font-size:14.0pt;line-height:120%;font-family:仿宋_GB2312'>是否同意配套支持：是</span><b style='mso-bidi-font-weight:normal'><span
+style='mso-char-type:symbol;mso-symbol-font-family:"Monotype Sorts"; font-size:14.0pt; line-height:120%; font-family:Monotype Sorts; mso-ascii-font-family:仿宋_GB2312; mso-fareast-font-family:仿宋_GB2312; mso-hansi-font-family:Times New Roman; mso-bidi-font-family:Times New Roman; mso-font-kerning:1.0pt; mso-ansi-language:EN-US; mso-fareast-language:ZH-CN; mso-bidi-language:AR-SA' lang="EN-US">&#151;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>
+</b><span
+style='font-size:14.0pt;line-height:120%;font-family:仿宋_GB2312'>配套支持经费：<span
+lang=EN-US><span style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span></span>万元<span
+lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='line-height:150%'><span lang=EN-US style='font-size:
+14.0pt;line-height:120%;font-family:仿宋_GB2312'><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span style='font-size:14.0pt;line-height:120%;font-family:仿宋_GB2312'>否</span><b style='mso-bidi-font-weight:normal'><span
+style='mso-char-type:symbol;mso-symbol-font-family:"Monotype Sorts"; font-size:14.0pt; line-height:120%; font-family:Monotype Sorts; mso-ascii-font-family:仿宋_GB2312; mso-fareast-font-family:仿宋_GB2312; mso-hansi-font-family:Times New Roman; mso-bidi-font-family:Times New Roman; mso-font-kerning:1.0pt; mso-ansi-language:EN-US; mso-fareast-language:ZH-CN; mso-bidi-language:AR-SA' lang="EN-US">&#151;</span></b></p>
+<p class=MsoNormal style='line-height:150%'>
+<span
+style='mso-spacerun:yes; font-size:14.0pt; line-height:120%; font-family:仿宋_GB2312' lang="EN-US">&nbsp;&nbsp;&nbsp; </span><span
+style='font-size:14.0pt;line-height:120%;font-family:仿宋_GB2312'>（负责人签字）<span
+lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='line-height:150%'><span lang=EN-US style='font-size:
+14.0pt;line-height:120%;font-family:仿宋_GB2312'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='line-height:150%'><span lang=EN-US style='font-size:
+14.0pt;line-height:120%;font-family:仿宋_GB2312'><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span style='font-size:14.0pt;line-height:120%;font-family:仿宋_GB2312'>单位盖章<span
+lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='line-height:150%'><span lang=EN-US style='font-size:
+14.0pt;line-height:120%;font-family:仿宋_GB2312'><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span style='font-size:14.0pt;line-height:120%;font-family:仿宋_GB2312'>年<span
+lang=EN-US><span style='mso-spacerun:yes'>&nbsp;&nbsp; </span></span>月<span
+lang=EN-US><span style='mso-spacerun:yes'>&nbsp;&nbsp; </span></span>日<span
+lang=EN-US><o:p></o:p></span></span></p>
+
+<span lang=EN-US style='font-size:14.0pt;line-height:120%;font-family:仿宋_GB2312;
+mso-hansi-font-family:"Times New Roman";mso-bidi-font-family:"Times New Roman";
+mso-font-kerning:1.0pt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;
+mso-bidi-language:AR-SA'><br clear=all style='page-break-before:always'>
+</span>
+
+<p class=MsoNormal style='line-height:150%'><b style='mso-bidi-font-weight:
+normal'><span style='font-size:14.0pt;line-height:120%;font-family:仿宋_GB2312'>本项目任务书所附的附件清单<span
+lang=EN-US><o:p></o:p></span></span></b></p>
+
+<table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width=560
+ style='width:420.15pt;border-collapse:collapse;border:none;mso-border-alt:
+ solid windowtext .5pt;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;mso-border-insideh:
+ .5pt solid windowtext;mso-border-insidev:.5pt solid windowtext'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td width=560 valign=top style='width:420.15pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:150%'><span style='font-size:14.0pt;
+  line-height:120%;font-family:仿宋_GB2312'>附件名称（复印件）<span lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+ </tr>
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td width=560 valign=top style='width:420.15pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:150%'><span lang=EN-US
+  style='font-size:14.0pt;line-height:120%;font-family:仿宋_GB2312'>1.</span><span
+  style='font-size:14.0pt;line-height:120%;font-family:仿宋_GB2312'>相关专利1<span
+  lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+ </tr>
+  
+   
+ 
+ 
+ 
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td width=560 valign=top style='width:420.15pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:150%'><span lang=EN-US
+  style='font-size:14.0pt;line-height:120%;font-family:仿宋_GB2312'>2.</span><span
+  style='font-size:14.0pt;line-height:120%;font-family:仿宋_GB2312'>相关专利2<span
+  lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+ </tr>
+  
+   
+ 
+ 
+ 
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td width=560 valign=top style='width:420.15pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:150%'><span lang=EN-US
+  style='font-size:14.0pt;line-height:120%;font-family:仿宋_GB2312'>3.</span><span
+  style='font-size:14.0pt;line-height:120%;font-family:仿宋_GB2312'>相关论文1<span
+  lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+ </tr>
+  
+   
+ 
+ 
+ 
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td width=560 valign=top style='width:420.15pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:150%'><span lang=EN-US
+  style='font-size:14.0pt;line-height:120%;font-family:仿宋_GB2312'>4.</span><span
+  style='font-size:14.0pt;line-height:120%;font-family:仿宋_GB2312'>相关论文2<span
+  lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+ </tr>
+  
+   
+ 
+ 
+ 
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td width=560 valign=top style='width:420.15pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:150%'><span lang=EN-US
+  style='font-size:14.0pt;line-height:120%;font-family:仿宋_GB2312'>5.</span><span
+  style='font-size:14.0pt;line-height:120%;font-family:仿宋_GB2312'>相关论文3<span
+  lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+ </tr>
+  
+   
+ 
+ 
+ 
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td width=560 valign=top style='width:420.15pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:150%'><span lang=EN-US
+  style='font-size:14.0pt;line-height:120%;font-family:仿宋_GB2312'>6.</span><span
+  style='font-size:14.0pt;line-height:120%;font-family:仿宋_GB2312'>相关论文4<span
+  lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+ </tr>
+  
+   
+ 
+ 
+ 
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td width=560 valign=top style='width:420.15pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:150%'><span lang=EN-US
+  style='font-size:14.0pt;line-height:120%;font-family:仿宋_GB2312'>7.</span><span
+  style='font-size:14.0pt;line-height:120%;font-family:仿宋_GB2312'>相关论文5<span
+  lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+ </tr>
+  
+   
+ 
+ 
+ 
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td width=560 valign=top style='width:420.15pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:150%'><span lang=EN-US
+  style='font-size:14.0pt;line-height:120%;font-family:仿宋_GB2312'>8.</span><span
+  style='font-size:14.0pt;line-height:120%;font-family:仿宋_GB2312'>相关论文6<span
+  lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+ </tr>
+  
+   
+
+</table>
+
+<p class=MsoNormal style='line-height:150%'><span lang=EN-US><o:p>&nbsp;</o:p></span></p>
+
+</div>
+
+</body>
+
+</html>
