@@ -1,0 +1,3200 @@
+
+
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=gbk">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 11">
+<meta name=Originator content="Microsoft Word 11">
+
+<link rel="File-List" href="All_SBS_1_Print.files/filelist.xml">
+
+
+<!--[if !mso]>
+<style>
+v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style>
+<![endif]-->
+<title>                                         密级：</title>
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>JonMMx 2000</o:Author>
+  <o:LastAuthor>CYP</o:LastAuthor>
+  <o:Revision>2</o:Revision>
+  <o:TotalTime>120</o:TotalTime>
+  <o:LastPrinted>2003-01-28T01:52:00Z</o:LastPrinted>
+  <o:Created>2007-12-07T09:18:00Z</o:Created>
+  <o:LastSaved>2007-12-07T09:18:00Z</o:LastSaved>
+  <o:Pages>1</o:Pages>
+  <o:Words>331</o:Words>
+  <o:Characters>1888</o:Characters>
+  <o:Company>jsstc</o:Company>
+  <o:Lines>15</o:Lines>
+  <o:Paragraphs>4</o:Paragraphs>
+  <o:CharactersWithSpaces>2215</o:CharactersWithSpaces>
+  <o:Version>11.5606</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+   <w:View>Print</w:View>
+  <w:SpellingState>Clean</w:SpellingState>
+  <w:GrammarState>Clean</w:GrammarState>  
+  <w:DocumentProtection>Forms</w:DocumentProtection>
+  <w:UnprotectPassword>DDE3EAC0</w:UnprotectPassword>  
+  <w:StyleLock/>
+  <w:StyleLockEnforced/>
+  <w:PunctuationKerning/>
+  <w:DrawingGridHorizontalSpacing>5.25 磅</w:DrawingGridHorizontalSpacing>
+  <w:DrawingGridVerticalSpacing>7.25 磅</w:DrawingGridVerticalSpacing>
+  <w:DisplayHorizontalDrawingGridEvery>0</w:DisplayHorizontalDrawingGridEvery>
+  <w:DisplayVerticalDrawingGridEvery>2</w:DisplayVerticalDrawingGridEvery>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:Compatibility>
+   <w:SpaceForUL/>
+   <w:BalanceSingleByteDoubleByteWidth/>
+   <w:DoNotLeaveBackslashAlone/>
+   <w:ULTrailSpace/>
+   <w:DoNotExpandShiftReturn/>
+   <w:FootnoteLayoutLikeWW8/>
+   <w:ShapeLayoutLikeWW8/>
+   <w:AlignTablesRowByRow/>
+   <w:ForgetLastTabAlignment/>
+   <w:LayoutRawTableWidth/>
+   <w:LayoutTableRowsApart/>
+   <w:UseWord97LineBreakingRules/>
+   <w:SelectEntireFieldWithStartOrEnd/>
+   <w:UseWord2002TableStyleRules/>
+   <w:UseFELayout/>
+  </w:Compatibility>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+ </w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" LatentStyleCount="156">
+ </w:LatentStyles>
+</xml><![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:宋体;
+	panose-1:2 1 6 0 3 1 1 1 1 1;
+	mso-font-alt:SimSun;
+	mso-font-charset:134;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:3 135135232 16 0 262145 0;}
+@font-face
+	{font-family:黑体;
+	panose-1:2 1 6 0 3 1 1 1 1 1;
+	mso-font-alt:SimHei;
+	mso-font-charset:134;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:1 135135232 16 0 262144 0;}
+@font-face
+	{font-family:仿宋_GB2312;
+	panose-1:2 1 6 9 3 1 1 1 1 1;
+	mso-font-charset:134;
+	mso-generic-font-family:modern;
+	mso-font-pitch:fixed;
+	mso-font-signature:1 135135232 16 0 262144 0;}
+@font-face
+	{font-family:楷体_GB2312;
+	panose-1:2 1 6 9 3 1 1 1 1 1;
+	mso-font-charset:134;
+	mso-generic-font-family:modern;
+	mso-font-pitch:fixed;
+	mso-font-signature:1 135135232 16 0 262144 0;}
+@font-face
+	{font-family:"\@宋体";
+	panose-1:2 1 6 0 3 1 1 1 1 1;
+	mso-font-charset:134;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:3 135135232 16 0 262145 0;}
+@font-face
+	{font-family:"\@黑体";
+	panose-1:2 1 6 0 3 1 1 1 1 1;
+	mso-font-charset:134;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:1 135135232 16 0 262144 0;}
+@font-face
+	{font-family:"\@楷体_GB2312";
+	panose-1:2 1 6 9 3 1 1 1 1 1;
+	mso-font-charset:134;
+	mso-generic-font-family:modern;
+	mso-font-pitch:fixed;
+	mso-font-signature:1 135135232 16 0 262144 0;}
+@font-face
+	{font-family:"\@仿宋_GB2312";
+	panose-1:2 1 6 9 3 1 1 1 1 1;
+	mso-font-charset:134;
+	mso-generic-font-family:modern;
+	mso-font-pitch:fixed;
+	mso-font-signature:1 135135232 16 0 262144 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	mso-pagination:none;
+	font-size:10.5pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:宋体;
+	mso-font-kerning:1.0pt;}
+p.MsoHeader, li.MsoHeader, div.MsoHeader
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:center;
+	mso-pagination:none;
+	tab-stops:center 207.65pt right 415.3pt;
+	layout-grid-mode:char;
+	border:none;
+	mso-border-bottom-alt:solid windowtext .75pt;
+	padding:0cm;
+	mso-padding-alt:0cm 0cm 1.0pt 0cm;
+	font-size:9.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:宋体;
+	mso-font-kerning:1.0pt;}
+p.MsoFooter, li.MsoFooter, div.MsoFooter
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	mso-pagination:none;
+	tab-stops:center 207.65pt right 415.3pt;
+	layout-grid-mode:char;
+	font-size:9.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:宋体;
+	mso-font-kerning:1.0pt;}
+p.MsoBodyText, li.MsoBodyText, div.MsoBodyText
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	mso-pagination:none;
+	font-size:14.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:仿宋_GB2312;
+	mso-hansi-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";
+	mso-font-kerning:1.0pt;
+	font-weight:bold;
+	mso-bidi-font-weight:normal;}
+ /* Page Definitions */
+ @page
+	{mso-page-border-surround-header:no;}
+@page Section1
+	{size:21.0cm 842.0pt;
+	margin:72.0pt 89.85pt 72.0pt 89.85pt;
+	mso-header-margin:42.55pt;
+	mso-footer-margin:49.6pt;
+	
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+@page Section2
+	{size:842.0pt 21.0cm;
+	mso-page-orientation:landscape;
+	margin:89.85pt 72.0pt 89.85pt 72.0pt;
+	mso-header-margin:42.55pt;
+	mso-footer-margin:49.6pt;
+	
+	mso-paper-source:0;}
+div.Section2
+	{page:Section2;}
+@page Section3
+	{size:21.0cm 842.0pt;
+	margin:72.0pt 89.85pt 72.0pt 89.85pt;
+	mso-header-margin:42.55pt;
+	mso-footer-margin:49.6pt;
+	mso-paper-source:0;}
+div.Section3
+	{page:Section3;}
+ /* List Definitions */
+ @list l0
+	{mso-list-id:204740;
+	mso-list-type:simple;
+	mso-list-template-ids:-1481365112;}
+@list l0:level1
+	{mso-level-text:%1、;
+	mso-level-tab-stop:24.0pt;
+	mso-level-number-position:left;
+	margin-left:24.0pt;
+	text-indent:-24.0pt;}
+@list l1
+	{mso-list-id:88241662;
+	mso-list-type:simple;
+	mso-list-template-ids:-926643370;}
+@list l1:level1
+	{mso-level-number-format:japanese-counting;
+	mso-level-text:第%1条;
+	mso-level-tab-stop:86.25pt;
+	mso-level-number-position:left;
+	margin-left:86.25pt;
+	text-indent:-54.0pt;}
+@list l2
+	{mso-list-id:93210360;
+	mso-list-type:simple;
+	mso-list-template-ids:-671557242;}
+@list l2:level1
+	{mso-level-start-at:10;
+	mso-level-number-format:japanese-counting;
+	mso-level-text:%1、;
+	mso-level-tab-stop:36.0pt;
+	mso-level-number-position:left;
+	text-indent:-36.0pt;}
+@list l3
+	{mso-list-id:162018693;
+	mso-list-type:simple;
+	mso-list-template-ids:-1134012298;}
+@list l3:level1
+	{mso-level-text:%1、;
+	mso-level-tab-stop:68.25pt;
+	mso-level-number-position:left;
+	margin-left:68.25pt;
+	text-indent:-36.0pt;}
+@list l4
+	{mso-list-id:170880209;
+	mso-list-type:simple;
+	mso-list-template-ids:-1499551460;}
+@list l4:level1
+	{mso-level-number-format:japanese-counting;
+	mso-level-text:%1、;
+	mso-level-tab-stop:32.25pt;
+	mso-level-number-position:left;
+	margin-left:32.25pt;
+	text-indent:-32.25pt;}
+@list l5
+	{mso-list-id:221333872;
+	mso-list-type:simple;
+	mso-list-template-ids:17607314;}
+@list l5:level1
+	{mso-level-text:%1、;
+	mso-level-tab-stop:18.0pt;
+	mso-level-number-position:left;
+	margin-left:18.0pt;
+	text-indent:-18.0pt;}
+@list l6
+	{mso-list-id:302274800;
+	mso-list-type:simple;
+	mso-list-template-ids:-1891325540;}
+@list l6:level1
+	{mso-level-start-at:2;
+	mso-level-text:%1、;
+	mso-level-tab-stop:36.0pt;
+	mso-level-number-position:left;
+	text-indent:-36.0pt;}
+@list l7
+	{mso-list-id:362898502;
+	mso-list-type:simple;
+	mso-list-template-ids:920545212;}
+@list l7:level1
+	{mso-level-start-at:6;
+	mso-level-number-format:japanese-counting;
+	mso-level-text:%1、;
+	mso-level-tab-stop:36.0pt;
+	mso-level-number-position:left;
+	text-indent:-36.0pt;}
+@list l8
+	{mso-list-id:370107206;
+	mso-list-type:simple;
+	mso-list-template-ids:-1684646148;}
+@list l8:level1
+	{mso-level-text:%1、;
+	mso-level-tab-stop:68.25pt;
+	mso-level-number-position:left;
+	margin-left:68.25pt;
+	text-indent:-36.0pt;}
+@list l9
+	{mso-list-id:452090853;
+	mso-list-type:simple;
+	mso-list-template-ids:1914355420;}
+@list l9:level1
+	{mso-level-text:%1、;
+	mso-level-tab-stop:36.0pt;
+	mso-level-number-position:left;
+	text-indent:-36.0pt;}
+@list l10
+	{mso-list-id:492570912;
+	mso-list-type:simple;
+	mso-list-template-ids:985295542;}
+@list l10:level1
+	{mso-level-text:%1、;
+	mso-level-tab-stop:68.25pt;
+	mso-level-number-position:left;
+	margin-left:68.25pt;
+	text-indent:-36.0pt;}
+@list l11
+	{mso-list-id:546528166;
+	mso-list-type:simple;
+	mso-list-template-ids:-1963849714;}
+@list l11:level1
+	{mso-level-text:%1、;
+	mso-level-tab-stop:68.25pt;
+	mso-level-number-position:left;
+	margin-left:68.25pt;
+	text-indent:-36.0pt;}
+@list l12
+	{mso-list-id:570966614;
+	mso-list-type:simple;
+	mso-list-template-ids:664988006;}
+@list l12:level1
+	{mso-level-text:%1、;
+	mso-level-tab-stop:24.0pt;
+	mso-level-number-position:left;
+	margin-left:24.0pt;
+	text-indent:-24.0pt;}
+@list l13
+	{mso-list-id:579173750;
+	mso-list-type:simple;
+	mso-list-template-ids:-906057658;}
+@list l13:level1
+	{mso-level-start-at:3;
+	mso-level-text:%1、;
+	mso-level-tab-stop:36.0pt;
+	mso-level-number-position:left;
+	text-indent:-36.0pt;}
+@list l14
+	{mso-list-id:591472689;
+	mso-list-type:simple;
+	mso-list-template-ids:1131216068;}
+@list l14:level1
+	{mso-level-start-at:10;
+	mso-level-number-format:japanese-counting;
+	mso-level-text:%1、;
+	mso-level-tab-stop:36.0pt;
+	mso-level-number-position:left;
+	text-indent:-36.0pt;}
+@list l15
+	{mso-list-id:604112910;
+	mso-list-type:simple;
+	mso-list-template-ids:1287172022;}
+@list l15:level1
+	{mso-level-text:%1、;
+	mso-level-tab-stop:36.0pt;
+	mso-level-number-position:left;
+	text-indent:-36.0pt;}
+@list l16
+	{mso-list-id:611058031;
+	mso-list-type:simple;
+	mso-list-template-ids:1644329458;}
+@list l16:level1
+	{mso-level-text:%1、;
+	mso-level-tab-stop:68.25pt;
+	mso-level-number-position:left;
+	margin-left:68.25pt;
+	text-indent:-36.0pt;}
+@list l17
+	{mso-list-id:781724144;
+	mso-list-type:simple;
+	mso-list-template-ids:985295542;}
+@list l17:level1
+	{mso-level-text:%1、;
+	mso-level-tab-stop:68.25pt;
+	mso-level-number-position:left;
+	margin-left:68.25pt;
+	text-indent:-36.0pt;}
+@list l18
+	{mso-list-id:836843116;
+	mso-list-type:simple;
+	mso-list-template-ids:682402314;}
+@list l18:level1
+	{mso-level-text:%1、;
+	mso-level-tab-stop:24.75pt;
+	mso-level-number-position:left;
+	margin-left:24.75pt;
+	text-indent:-24.75pt;}
+@list l19
+	{mso-list-id:964581930;
+	mso-list-type:simple;
+	mso-list-template-ids:-1541797724;}
+@list l19:level1
+	{mso-level-text:%1、;
+	mso-level-tab-stop:24.0pt;
+	mso-level-number-position:left;
+	margin-left:24.0pt;
+	text-indent:-24.0pt;}
+@list l20
+	{mso-list-id:1058045325;
+	mso-list-type:simple;
+	mso-list-template-ids:985295542;}
+@list l20:level1
+	{mso-level-text:%1、;
+	mso-level-tab-stop:68.25pt;
+	mso-level-number-position:left;
+	margin-left:68.25pt;
+	text-indent:-36.0pt;}
+@list l21
+	{mso-list-id:1064764933;
+	mso-list-type:simple;
+	mso-list-template-ids:1256638742;}
+@list l21:level1
+	{mso-level-start-at:2;
+	mso-level-number-format:japanese-counting;
+	mso-level-text:第%1条;
+	mso-level-tab-stop:54.0pt;
+	mso-level-number-position:left;
+	margin-left:54.0pt;
+	text-indent:-54.0pt;}
+@list l22
+	{mso-list-id:1084107392;
+	mso-list-type:simple;
+	mso-list-template-ids:1799803702;}
+@list l22:level1
+	{mso-level-start-at:5;
+	mso-level-number-format:japanese-counting;
+	mso-level-text:%1、;
+	mso-level-tab-stop:36.0pt;
+	mso-level-number-position:left;
+	text-indent:-36.0pt;}
+@list l23
+	{mso-list-id:1084447896;
+	mso-list-type:simple;
+	mso-list-template-ids:985295542;}
+@list l23:level1
+	{mso-level-text:%1、;
+	mso-level-tab-stop:68.25pt;
+	mso-level-number-position:left;
+	margin-left:68.25pt;
+	text-indent:-36.0pt;}
+@list l24
+	{mso-list-id:1113672882;
+	mso-list-type:simple;
+	mso-list-template-ids:508735346;}
+@list l24:level1
+	{mso-level-start-at:6;
+	mso-level-number-format:japanese-counting;
+	mso-level-text:第%1条;
+	mso-level-tab-stop:102.0pt;
+	mso-level-number-position:left;
+	margin-left:102.0pt;
+	text-indent:-70.5pt;}
+@list l25
+	{mso-list-id:1159425512;
+	mso-list-type:simple;
+	mso-list-template-ids:1674322214;}
+@list l25:level1
+	{mso-level-text:%1、;
+	mso-level-tab-stop:24.0pt;
+	mso-level-number-position:left;
+	margin-left:24.0pt;
+	text-indent:-24.0pt;}
+@list l26
+	{mso-list-id:1316060155;
+	mso-list-type:simple;
+	mso-list-template-ids:985295542;}
+@list l26:level1
+	{mso-level-text:%1、;
+	mso-level-tab-stop:68.25pt;
+	mso-level-number-position:left;
+	margin-left:68.25pt;
+	text-indent:-36.0pt;}
+@list l27
+	{mso-list-id:1408727606;
+	mso-list-type:simple;
+	mso-list-template-ids:1517740556;}
+@list l27:level1
+	{mso-level-text:%1、;
+	mso-level-tab-stop:68.5pt;
+	mso-level-number-position:left;
+	margin-left:68.5pt;
+	text-indent:-36.0pt;}
+@list l28
+	{mso-list-id:1624462491;
+	mso-list-type:simple;
+	mso-list-template-ids:534796060;}
+@list l28:level1
+	{mso-level-text:%1、;
+	mso-level-tab-stop:68.25pt;
+	mso-level-number-position:left;
+	margin-left:68.25pt;
+	text-indent:-36.0pt;}
+@list l29
+	{mso-list-id:1703281149;
+	mso-list-type:simple;
+	mso-list-template-ids:-420942296;}
+@list l29:level1
+	{mso-level-text:%1、;
+	mso-level-tab-stop:24.0pt;
+	mso-level-number-position:left;
+	margin-left:24.0pt;
+	text-indent:-24.0pt;}
+@list l30
+	{mso-list-id:1704210929;
+	mso-list-type:simple;
+	mso-list-template-ids:1625585500;}
+@list l30:level1
+	{mso-level-text:%1、;
+	mso-level-tab-stop:24.0pt;
+	mso-level-number-position:left;
+	margin-left:24.0pt;
+	text-indent:-24.0pt;}
+@list l31
+	{mso-list-id:1745834409;
+	mso-list-type:simple;
+	mso-list-template-ids:431792982;}
+@list l31:level1
+	{mso-level-tab-stop:15.0pt;
+	mso-level-number-position:left;
+	margin-left:15.0pt;
+	text-indent:-9.0pt;}
+@list l32
+	{mso-list-id:1985154715;
+	mso-list-type:simple;
+	mso-list-template-ids:388016674;}
+@list l32:level1
+	{mso-level-start-at:5;
+	mso-level-number-format:japanese-counting;
+	mso-level-text:第%1条;
+	mso-level-tab-stop:97.5pt;
+	mso-level-number-position:left;
+	margin-left:97.5pt;
+	text-indent:-65.25pt;}
+@list l33
+	{mso-list-id:2008317000;
+	mso-list-type:simple;
+	mso-list-template-ids:985295542;}
+@list l33:level1
+	{mso-level-text:%1、;
+	mso-level-tab-stop:68.25pt;
+	mso-level-number-position:left;
+	margin-left:68.25pt;
+	text-indent:-36.0pt;}
+ol
+	{margin-bottom:0cm;}
+ul
+	{margin-bottom:0cm;}
+-->
+</style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:普通表格;
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-parent:"";
+	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
+	mso-para-margin:0cm;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-ansi-language:#0400;
+	mso-fareast-language:#0400;
+	mso-bidi-language:#0400;}
+table.MsoTableGrid
+	{mso-style-name:网格型;
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	border:solid windowtext 1.0pt;
+	mso-border-alt:solid windowtext .5pt;
+	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
+	mso-border-insideh:.5pt solid windowtext;
+	mso-border-insidev:.5pt solid windowtext;
+	mso-para-margin:0cm;
+	mso-para-margin-bottom:.0001pt;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	mso-pagination:none;
+	font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-ansi-language:#0400;
+	mso-fareast-language:#0400;
+	mso-bidi-language:#0400;}
+</style>
+<![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="1"/>
+ </o:shapelayout></xml><![endif]-->
+<!--[if gte mso 9]>
+<xml><o:shapedefaults v:ext="edit" spidmax="1027"/>
+</xml><![endif]-->
+</head>
+
+<body lang=ZH-CN style='tab-interval:21.25pt;text-justify-trim:punctuation'>
+
+<div class=Section1>
+
+
+
+
+
+<p class=MsoNormal style='line-height:120%'><!--[if gte vml 1]><v:shapetype id="_x0000_t202"
+ coordsize="21600,21600" o:spt="202" path="m,l,21600r21600,l21600,xe">
+ <v:stroke joinstyle="miter"/>
+ <v:path gradientshapeok="t" o:connecttype="rect"/>
+</v:shapetype><v:shape id="_x0000_s1028" type="#_x0000_t202" style='position:absolute;
+ margin-left:304.5pt;margin-top:0;width:147pt;height:108.75pt;z-index:1'
+ stroked="f">
+ <v:textbox>
+
+<p class="MsoNormal" style="text-indent:12.0pt;mso-char-indent-count:1.0">
+<span lang="EN-US" style="font-size:12.0pt;font-family:仿宋_GB2312">
+□创新学者攀登项目
+</span></p>
+
+<p class="MsoNormal" style="text-indent:12.0pt;mso-char-indent-count:1.0">
+<span lang="EN-US" style="font-size:12.0pt;font-family:仿宋_GB2312">
+□企业博士创新项目
+</span></p>
+
+<p class="MsoNormal" style="text-indent:12.0pt;mso-char-indent-count:1.0">
+<span lang="EN-US" style="font-size:12.0pt;font-family:仿宋_GB2312">
+√面上项目
+</span></p>
+</v:textbox>
+</v:shape><![endif]--><![if !vml]><span style='mso-ignore:vglayout;position:
+absolute;z-index:1;left:416px;top:15px;width:200px;height:149px'><img
+width=200 height=149 src="All_SBS_1_Print.files/image001.gif" alt="文本框:  &#13;&#10;&#13;&#10;"
+v:shapes="_x0000_s1028"></span><![endif]><![if !mso]><![endif]><![if !mso]><![endif]><p><![if !mso & !vml]>&nbsp;<![endif]></p>
+<span style='font-size:14.0pt;line-height:120%;font-family:
+仿宋_GB2312'>计划类别：<u> <span lang=EN-US>基础研究计划（自然科学基金） </span></u><span lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='line-height:120%'><span style='font-size:14.0pt;
+line-height:120%;font-family:仿宋_GB2312'>指南代码：<u> <span lang=EN-US>3007 </span></u><span
+lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='line-height:120%'><span style='font-size:14.0pt;
+line-height:120%;font-family:仿宋_GB2312'>申报<span lang=EN-US>ID</span>号：<u> <span
+lang=EN-US>SBK20081603 </span></u><span lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='line-height:120%'><span lang=EN-US style='font-size:
+14.0pt;line-height:120%;font-family:仿宋_GB2312'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='line-height:120%'><span lang=EN-US style='font-size:
+14.0pt;line-height:120%;font-family:仿宋_GB2312'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='line-height:120%'><span lang=EN-US style='font-size:
+14.0pt;line-height:120%;font-family:仿宋_GB2312'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal align=center style='text-align:center;line-height:120%'><b
+style='mso-bidi-font-weight:normal'><span style='font-size:28.0pt;line-height:
+150%;font-family:黑体'>江苏省科技计划项目申报书<span lang=EN-US><o:p></o:p></span></span></b></p>
+
+<p class=MsoNormal align=center style='text-align:center;line-height:120%'><span
+style='font-size:16.0pt;line-height:120%;font-family:仿宋_GB2312'>（省自然科学基金）<span
+lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='line-height:120%'><span lang=EN-US style='font-size:
+14.0pt;line-height:120%;font-family:仿宋_GB2312'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='line-height:200%'><span style='font-size:14.0pt;
+line-height:200%;font-family:仿宋_GB2312'>项目名称：<u> <span lang=EN-US>基于功能化金纳米探针的真菌毒素新型检测方法研究<span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><span style='mso-spacerun:yes'>&nbsp;&nbsp;</span></span></u><span
+lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='line-height:200%'><span style='font-size:14.0pt;
+line-height:200%;font-family:仿宋_GB2312'>承担单位：<u> <span lang=EN-US>江南大学<span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><span style='mso-spacerun:yes'>&nbsp;&nbsp;</span></span></u><span
+lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='line-height:200%'><span style='font-size:14.0pt;
+line-height:200%;font-family:仿宋_GB2312'>所在地区：<u> <span lang=EN-US>无锡市滨湖区<span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><span style='mso-spacerun:yes'>&nbsp;&nbsp;</span></span></u><span
+lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='line-height:200%'><span style='font-size:14.0pt;
+line-height:200%;font-family:仿宋_GB2312'>单位地址：<u> <span lang=EN-US>无锡蠡湖大道1800号 </span></u>邮编：<u>
+<span lang=EN-US>214122<span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;</span></span></u><span lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='line-height:200%'><span style='font-size:14.0pt;
+line-height:200%;font-family:仿宋_GB2312'>项目负责人：<u> <span lang=EN-US>王周平 </span></u>电话：<u>
+<span lang=EN-US>15951581339<span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></u><span lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='line-height:200%'><span style='font-size:14.0pt;
+line-height:200%;font-family:仿宋_GB2312'>单位负责人：<u><span lang=EN-US> 陈坚 </span></u>电话：<u>
+<span lang=EN-US>0510-85913660<span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></u><span lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='line-height:200%'><span style='font-size:14.0pt;
+line-height:200%;font-family:仿宋_GB2312'>主管部门：<u> <span lang=EN-US>无锡市科学技术局<span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><span style='mso-spacerun:yes'>&nbsp;</span><i style='mso-bidi-font-style:
+normal'><span style='mso-spacerun:yes'>&nbsp;</span></i></span></u><span
+lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='line-height:200%'><span style='font-size:14.0pt;
+line-height:200%;font-family:仿宋_GB2312'>电子信箱：<u><span lang=EN-US> wangzp1974@163.com<span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span
+style='mso-spacerun:yes'>&nbsp;</span></span></u><span lang=EN-US><o:p></o:p></span></span></p>
+
+
+
+<p class=MsoNormal style='line-height:120%'><span lang=EN-US style='font-size:
+14.0pt;line-height:120%;font-family:仿宋_GB2312'><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span><span
+style='font-size:14.0pt;line-height:120%;font-family:仿宋_GB2312'>申报日期：
+
+<span
+lang=EN-US>2008</span>年<span lang=EN-US>03</span>月<span lang=EN-US>20</span>日<span
+lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='line-height:120%'><span lang=EN-US style='font-size:
+14.0pt;line-height:120%;font-family:仿宋_GB2312'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal align=center style='text-align:center;line-height:120%'><span
+style='font-size:15.0pt;line-height:120%;font-family:仿宋_GB2312'>江苏省科学技术厅<span
+lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal align=center style='text-align:center;line-height:120%'><span
+style='font-size:15.0pt;line-height:120%;font-family:仿宋_GB2312'>二○○八年</span><span
+style='font-size:12.0pt;mso-bidi-font-size:10.0pt;line-height:120%'> </span><span
+lang=EN-US style='font-size:15.0pt;line-height:120%;font-family:仿宋_GB2312'><o:p></o:p></span></p>
+
+
+
+
+
+
+<b style='mso-bidi-font-weight:normal'><span lang=EN-US style='font-size:10.5pt;
+mso-bidi-font-size:10.0pt;line-height:120%;font-family:"Times New Roman";
+mso-fareast-font-family:宋体;mso-font-kerning:1.0pt;mso-ansi-language:EN-US;
+mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA'><br clear=all
+style='page-break-before:always'>
+</span></b>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p class=MsoNormal style='line-height:120%'><b style='mso-bidi-font-weight:
+normal'><span style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>一、立项依据和目标：</span><span lang=EN-US><o:p></o:p></span></b></p>
+
+<table class=MsoTableGrid border=1 cellspacing=0 cellpadding=0
+ style='border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-yfti-tbllook:480;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;mso-border-insideh:
+ .5pt solid windowtext;mso-border-insidev:.5pt solid windowtext'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td width=569 valign=top style='width:426.45pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:120%'><b style='mso-bidi-font-weight:
+  normal'><span lang=EN-US>1</span></b><b style='mso-bidi-font-weight:normal'><span
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>、本课题研究意义及同类研究工作国内外研究现状、知识产权状况与存在问题，并列出主要参考文献</span><span
+  lang=EN-US><o:p></o:p></span></b></p>
+  <p class=MsoNormal style='line-height:120%'><span lang=EN-US
+  style='font-family:楷体_GB2312'><span
+  style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span>  
+  &nbsp;&nbsp;&nbsp;&nbsp;毒素是目前极为重要的安全问题。真菌毒素，有时也俗称霉菌毒素，是由曲霉菌属、青霉属、镰刀菌属中的一些真菌产生的代谢产物。真菌存在于大多数的农产品中，真菌毒素直接或间接进入食物链导致动植物食品受到毒素污染。由于其能污染食品、引起人和动物发生各种病害，因此已经受到世界各国的普遍关注。目前我国加大对粮油食品的监督抽查力度，同时食品中玉米、花生及其制品中真菌毒素含量也已成为世界各国及我国检疫检验的重点之一[1]。为适应国内和国际形势要求，选择适当可行的方法检验重要真菌毒素已成为当务之急。<br>&nbsp;&nbsp;&nbsp;&nbsp;黄曲霉毒素(Aflatoxin, AF)是迄今发现污染农产品毒素最强的一类生物毒素，也是强致癌物。它是由黄曲霉菌(Asperillus f lavus)和寄生曲霉菌(A1parasiticus)等多种真菌产生的一类代谢产物，一群结构相似的化合物[2]。最为常见的有AFB1、B2、G1、G2，其中AFB1的存在量与毒性都是最大的。作为一种天然生物毒素，其广泛存在于粮油食品中，其中以花生、玉米和大米的污染最为严重[3]。研究表明，人们食用这些被污染的食品后会导致急性中毒，引起肝坏死；慢性中毒则可引发人的肝癌、胃癌、肾癌或食道癌等严重的疾病[4-6]。<br>&nbsp;&nbsp;&nbsp;&nbsp;由于黄曲霉毒素具有极强的毒性和致癌性，而引起了世界各国的重视。FAO/WHO在1993年提出的指导性标准为：食品中黄曲霉毒素M1不超过0.05μg/kg，奶牛饲料中的黄曲霉毒素B1不超过5μg/kg。1995年，世界卫生组织制定的食品中黄曲霉毒素最高允许浓度为15μg/kg。目前，我国只建立了对食品中AF B1的最高允许含量的标准(大米≤10μg/kg; 花生及花生制品≤20μg/kg)，缺乏如AF B2、G1、G2的相关依据。欧美对于食品中黄曲霉毒素的最高允许含量就更为严格: (1)美国联邦政府有关法律规定人类消费食品和奶牛饲料中的黄曲霉毒素含量(指B1+B2+G1+G2的总量)不能超过15μg/kg。人类消费的牛奶中的黄曲霉毒素总含量不能超过0.5μg/kg，其他动物饲料中的总含量不能超过300μg/kg。(2)欧盟的要求为：人类生活消费品中的黄曲霉毒素B1 的含量不能超过0.05μg/kg[7, 8]。<br>&nbsp;&nbsp;&nbsp;&nbsp;目前已经报道的黄曲霉毒素的检测方法，其中单组分AFB1的检测方法主要包括薄层层析法、色谱法、酶联免疫吸附法(ELISA)、电化学免疫传感器等；总黄曲霉毒素的检测方法主要有薄层层析法、色谱法等。[2-4, 9-23]我国执行的食品中总黄曲霉毒素B1 + B2 + G1 + G2 的国家标准测定方法是薄层色谱法和微柱筛选法，均为目测半定量法, 最低检出浓度为5μg/ kg。这些方法因受本身的限制，精确度低、敏感性差；样品前处理过程复杂费时；或需要价格昂贵的仪器，检测成本高，难以推广应用，影响了粮油食品中黄曲霉毒素的有效监测。ELISA是在免疫学和细胞工程学基础上发展的一种微量检测技术，特别适合于对黄曲霉毒素污染监控中大量样本的筛检，但在标记探针寿命和稳定性方面仍存在缺陷。近来发展的金标免疫试纸盒技术则主要用于快速筛检，不能精确定量。<br>&nbsp;&nbsp;&nbsp;&nbsp;为应对国际挑战和保护消费者利益，先进准确灵敏的快速检测方法必须建立。所谓快速检测方法首先是能缩短检测时间，以及在样品制备、实验准备、操作过程简化和自动化上简化方法，可以从三个方面来体现：一是实验准备简化，使用的试剂较少，如培养基的改进，而且容易得到，配好后的试剂保存期较长，能够制成稳定的混合试剂或培养基或辅基；二是样品经简单前处理后即可测试，或采用先进快速的样品处理方式，如重金属检测中的微波消解、黄曲霉毒素的亲和层析法，以及快速先进的滤膜或滤柱技术等：三是简单、快速和准确的分析方法，能对处理好的样品在很短的时间内测试得出结果，如硝酸盐试纸、酶联免疫试剂盒等[24]。<br>&nbsp;&nbsp;&nbsp;&nbsp;新世纪世界性科技革命正在形成，各国都在加速技术创新和科技进步。从定性和定量检测技术两方面出发，准确、可靠、方便、快速、经济、安全检测方法是食品安全检测的发展方向，尽可能使快速检测技术的灵敏度及准确度要能达到标准限量要求，至少要与标准方法检测结果相当，能在较短时间内检测大量的样本，还必须具有实际推广价值。同时，《中国食品安全战略研究》指出[25]，我国食品安全快速检测技术今后发展方向是：对食品安全的关键技术攻关，研究开发当前急需的食源性危害快速检测、监测、控制及评价技术。随着我国加入世界贸易组织后面临着食品安全性的严峻形势，迫切的任务是要与国际接轨，一方面国际先进的快速检测手段完善食品安全体系，另一方面要迎头赶上，研制具有我国知识产权的先进检测设备和方法，用现代的检测技术装备我国的食品安全管理体系。这就为我们的相关研究工作指明了方向，也提出了新的更高的要求。<br>分析国内外已经报道的有关真菌毒素的检测技术和授权专利，可以发现这些技术主要包括酶联免疫吸附分析、Eu3+标记时间分辨免疫荧光分析、免疫薄层层析、色谱法、免疫亲和柱-荧光分析、免疫亲和柱-HPLC等。这些技术的应用，使得真菌毒素的检测水平有了很大程度的提高，但各有其优缺点。对于标记免疫分析方法，标记物通常为酶、有机荧光分子、稀土元素（Eu3+等）螯合物等，生物酶标记在稳定性和保藏条件上仍有不少缺陷，荧光分子标记则对光不稳定、标记操作复杂，稀土元素（Eu3+等）螯合物在标记时操作步骤也相对繁琐。同时，其它方法要么样品前处理繁琐费时，检测灵敏度低；要么试剂消耗量大，易形成污染；要么分析成本高，灵敏度提升空间不大，不能很好应对当前世界各国食品准入制度中对真菌毒素限量要求越来越严格的挑战。<br>&nbsp;&nbsp;&nbsp;&nbsp;总体来看，目前制约真菌毒素快速检测的瓶颈问题中特异性和检测灵敏度是两个重点。当特异性和灵敏度很高的时候，对于样品量的需求就会自然减少，在免疫分析中相应的抗体需要量也会减少，这样将能够极大缩短样品前处理时间和免疫亲和反应时间，从而使得检测更趋 “快速”。如何提高检测效率、达到快速检测的目的，新技术、新方法的引入显得尤为重要。本研究课题正是致力于这一问题的解决，拟将金纳米探针、基于金纳米探针的超灵敏化学发光分析等新型技术引入到真菌毒素快速检测工作中来，以黄曲霉毒素为模式物，力求建立更高效、准确、灵敏、快速的检测方法，发展共性快速检测技术，形成具有自主知识产权和国际竞争力的检测技术与产品。<br>&nbsp;&nbsp;&nbsp;&nbsp;纳米科学是21世纪世界各国争相发展的前沿科学领域。近年来，纳米材料与纳米技术在生物医学领域的重大应用前景已经吸引了人们的广泛关注，纳米材料与生物技术的结合一方面推动了纳米材料的发展，同时也为生物技术的发展提供了新的机遇[26]。纳米技术是指在纳米水平上对原子或分子进行操作并控制其构造，从而发现物质的新性质，进而开发其新功能的技术。从这个角度看，纳米材料的开发及应用无疑在纳米科技中处于核心地位。目前纳米材料在生物医学等领域的应用研究已经被许多国家列为纳米科技发展的重点，除了加大基础研究的投入外，还强调利用纳米技术改造传统产业工艺和形成新兴产业，并通过具有独享性的专利技术占领国内外市场，从而在新世纪的高科技产业中占据制高点。然而，对于食品安全检测领域而言，该方面技术的应用以及相关高端产品在国内外还相当缺乏。<br>&nbsp;&nbsp;&nbsp;&nbsp;金纳米粒子具有特殊的表面效应、体积效应、量子尺寸效应和宏观量子隧道效应,使得金纳米粒子与生物体有着特殊的相互作用。由于金纳米粒子可以和多种生物分子(核酸、蛋白质和生物分子等) 结合，易于标记，对人体无害，而且具有标记后被标记物活性基本不发生改变、不同直径的金纳米可以用于多重标记、在检测中样品用量极少、实验结果可以长期保存等特点被应用于生物标记检测。金纳米粒子作为特殊标记物进行生化分析的研究开始于20 世纪60 年代。1962年Feldherr等[27]开始用金纳米标记细胞进行电子显微镜研究，1971年Taylor[28]又将金纳米粒子引入电镜免疫技术中，开始将金纳米粒子用于免疫标记技术。目前,随着纳米技术的发展，金纳米粒子因其具有制备简单、粒径均匀可控、性质稳定等特点已成为纳米分析化学研究的热点[29-32]，并已经发展成为第四大免疫标记新技术。<br>&nbsp;&nbsp;&nbsp;&nbsp;金标银增强技术是将金纳米粒子在标记中的优势与银的光学性质相结合通过将检测信号放大的一种新的标记技术[33,34]。其基本原理是纳米金颗粒起着一种催化剂作用，可将银粒子还原。所以在纳米金处理过的样本中加入银增强液后，沉积在目标物质位置的纳米金颗粒可把银离子还原成银原子。被还原的银原子于是围绕金颗粒表面形成一个色泽更深的黑色层，黑色层本身亦具有催化作用，从而使更多银离子还原并促使黑色层越来越大，最终目标物质位置得到清楚放大。赵立凡[35]等报导了金标银染色技术可以将信号即可放大105 倍，并可以通过肉眼直接观察。该方法检测单链核酸的灵敏度为0.1 fmol/L，双链为10 fmol/L。申请人进一步对纳米金银增强技术进行了改进，优化了银增强试剂组成，使得整个银增强过程只需2min左右，大大提高了分析速度，与Xu等[36]的报道基本一致。Winller等[37]最近又报道了金标金增强信号放大技术，通过在生物功能化纳米金表面原位成比例生长金，可以增强光度检测信号达2个数量级。金标银增强/金增强后的结果在定量时多为目测法或使用分光光度计的光电比色法[33-37]，虽然其灵敏度获得了极大提高，但如果能结合更灵敏的化学发光检测，将使得检测灵敏度进一步大幅度提高。而溶出化学发光法为我们提供了这种可能。但在食品真菌毒素检测方面，纳米探针技术的应用只涉及一些初级应用，充分利用纳米材料特殊的光电效应、催化效应等实现对真菌毒素的准确灵敏快速检测国内外报道还很少，相关专利授权也非常少。<br>&nbsp;&nbsp;&nbsp;&nbsp;化学发光法是利用化学反应产生化学能诱导产生发光信号的一种分析方法，因为其具有灵敏度高、线性范围宽、不需激发光源没有背景光干扰、仪器设备简单等优点近年来在生物医学、临床诊断、环境分析、食品安全检测等领域得到了广泛应用[38]。近期，Cui等[39]报道球形纳米金可以强烈催化luminol化学发光；申请人的研究[40]则表明特殊形貌纳米金催化luminol化学发光效率更高，相对于球形纳米金化学发光强度可增强1000倍以上，并将该特殊形貌纳米金生物功能化作为标记物，采用原位纳米金催化化学发光检测，成功应用到高灵敏免疫分析和特定序列DNA杂交分析，检测灵敏度达13 pmol/L。截至目前，在食源性致病菌检测领域该类技术还鲜见报道。溶出化学发光法最早是将电化学溶出反应与化学发光分析相结合而发展的一项高灵敏分析技术，主要针对金属离子的分析检测，因为结合了电化学富集和化学发光的优点，因此具有很高分析灵敏度和强的选择性[41]。近来，Li等[42,43]和Lu等[44]分别将溶出化学发光分析技术应用到了基于金属纳米粒子标记的DNA杂交分析和免疫分析研究中，实现了“超灵敏” 和高灵敏检测，检测下限分别达5 fmol/L 和3.1 pmol/L。他们先将金属纳米粒子作为标记物构建纳米生物探针，结合特异DNA杂交或免疫反应捕获目标生物分子，然后将纳米粒子溶出成为金属离子，再结合金属离子化学发光体系实现了DNA和免疫球蛋白的高（超）灵敏检测。那么，该技术的分析灵敏度还有没有提升的空间呢？申请人研究小组的实验结果说明了问题――灵敏度还有很大的提升空间。当申请人把金标银增强信号放大技术与溶出化学发光检测有机结合的时候，获得了更高的检测灵敏度，相比较纳米银标记-溶出化学发光检测目标DNA[42]提高3个数量级以上，相比较银增强-光密度检测[36]提高2个数量级以上(~0.001 fmol/L)。目前，还未见该类技术的相关报道涉及食品真菌毒素检测。如果将该技术应用到真菌毒素的检测当中，很大程度上可以实现“超灵敏”检测的目标，大大减少样本的需要量。<br>&nbsp;&nbsp;&nbsp;&nbsp;近来，Geddes等[45-48]的研究表明，采用一定功率微波辅助可以有效缩短免疫亲和反应时间，而不引起生物分子结构与构像变化。目前，还未见该技术在真菌毒素检测领域的任何报道，而该技术的应用将使得真菌毒素的检测更“快速”。将该技术与上述超灵敏化学发光检测技术结合，将能够在很大程度上实现真菌毒素检测的“超灵敏”与“快速”。<br>&nbsp;&nbsp;&nbsp;&nbsp;综上所述，目前国内外重要真菌毒素快速检测方法和技术方面还有很大提升空间，尚缺少基于纳米探针技术以及基于上述先进技术的真菌毒素快速检测方法和相关产品。本研究课题正是着眼于此，旨在将纳米探针、超灵敏纳米标记免疫化学发光分析等先进技术引入到食品安全检测，特别是重要真菌毒素检测领域，力求各种先进方法优势结合，充分发挥这些技术更高效、更准确、更灵敏、更快速等特点，建立重要真菌毒素快速检测新方法、新技术，弥补相关检测方法和技术的不足，形成一批具有自主知识产权和国际竞争力的快速检测新技术和产品；这样不仅能够很好地解决食品安全检测，尤其是重要真菌毒素快速检测的实际问题，完善我国食品安全管理体系，保障消费者权益，使我国在食品贸易等国际事务中拥有更大的话语权；同时也能够极大丰富纳米科学研究的内涵，使我国在高端纳米技术应用方面紧随世界步伐，形成自己的产品和新的应用领域，甚至占领部分国际市场。<br><br>主要参考文献：<br>1.许牡丹, 毛跟年编著. 食品安全性与分析检测. 化学工业出版社. 2003.<br>2.王海花, 汪德刚, 张晓峰. 食品研究与开发, 2006, 27 (4) : 176 - 1781<br>3.贾玉珠, 骆和东, 林健,等. 海峡预防医学杂志, 2005, 11 (3) : 7- 91<br>4.J Jaimez, CA Fente, BI Vazquez. J ChromatogrA, 2000, 882 (1-2) : 1-101<br>5.GN Wogan. Aflatoxin as a human carcinogen. Hepatology, 1999, 30(2) : 573 - 5751<br>6.XH Zhang, TX Xie, SS Li. Biomed Environ Sci, 1998, 11 (2) : 140 - 1461<br>7.欧盟制定曲霉毒素限量新标准. 北京农业, 2004, 121<br>8.夏红民, 岳宁, 张鹏. 检验检疫科学, 2000, 10 (5) : 56-591<br>9.林祥. 黄曲霉毒素快速检测装置及其制造方法. 中国国家发明专利. CN1410771<br>10.陈福生，李根久. 一种食品及饲料中真菌毒素特别是黄曲霉毒素B1的快速检测方法. 中国国家发明专利. CN1254843<br>11.黎双华，陈宇光. 黄曲霉毒素的检测方法. 中国国家发明专利. CN1588068<br>12.李培武，张文，丁小霞，杨金娥，谢立华，杨湄，李光明. 一种黄曲霉毒素B1的速测方法. 中国国家发明专利. CN1673746<br>13.陶文沂，金坚，黄飚，赵晓联，张莲芬，时瑾. 一种检测黄曲霉毒素B1的试剂盒及其检测方法. 中国国家发明专利. CN1673747<br>14.赵晓联，龚燕，陆茂林，孙蔚榕，赵春城，孙秀兰，汤坚，蔡建荣，张东升，蔡正森. 一种黄曲霉毒素B1金标检测试纸盒及其制备方法. 中国国家发明专利. CN1673748<br>15.赖卫华，熊勇华，陈高明，李林，曾祥敏. 无毒体系免疫层析检测黄曲霉毒素的试纸及其制备方法. 中国国家发明专利. CN1687784<br>16.赖卫华，熊勇华，陈高明，李林，曾祥敏. 一种无毒体系免疫层析检测黄曲霉毒素的试纸. 中国国家发明专利. CN2804866<br>17.姚冬生，刘大岭，文圣梅，谢春芳，郑文杰. 用于检测黄曲霉毒素及杂色曲霉素的生物传感器电极及其制备方法. 中国国家发明专利. CN1719243<br>18.XS Tang. Kit for measuring total of main aflatoxin, and measuring method. China patent. CN1696696<br>19.Wang MH, CY Wu. Testing kit of radioimmunoassay for detecting aflatoxin-albumin adduct and the uses thereof. Taiwan Patent. TW585923B <br>20.N Minoura, K Hashimoto. Method and reagent for detecting aflatoxin. Japan Patent. JP9178722<br>21.M Matsui, O Kitsuwa. Analyzing method of aflatoxin. Japan Patent. JP1219666<br>22.Dixon D, Hart L. Method and test kit for detecting an aflatoxin B1 and G1 using novel monoclonal antibodies. USA Patent. US4835100<br>23.Schade JE, King JA. Method for detecting aflatoxin in almonds. USA Patent. US4535248<br>24.Cedoux DR, Brown TP, Weibking TS, Rottinghaus GE. J Vet Diagn Invest, 1992,(4): 330-333.<br>25.陈锡文，邓楠主编. 中国食品安全战略研究. 2004. 化学工业出版社－安全科学与工程出版中心.<br>26.杨文胜,高明远,白玉白等编. 纳米材料与生物技术. 2005. 化学工业出版社－材料科学与工程出版中心.<br>27.C M Feldherr, J M Marshall. The use of colloidal gold for studies of intracellular exchanges in the ameba chaos chaos. The Journal of Cell Biol, 1962, 12 (3): 640-645.<br>28.W P Faulk, G M Taylor. An immunocolloid method for the electron microscope. Immunochemistry, 1971, 8: 1081-1083.<br>29.R Liu, R Liew, J Zhou, B Xing. A Simple and Specific Assay for Real-Time Colorimetric Visualization of Lactamase Activity by Using Gold Nanoparticles. Angew. Chem. Inter. Ed., 2007, 46(46): 8799-8803.<br>30.C-C Huang, Z Yang, K-H Lee, H-T Chang. Synthesis of Highly Fluorescent Gold Nanoparticles for Sensing Mercury (II). Angew. Chem. Inter. Ed., 2007, 46(36): 6824-6828.<br>31.J-S Lee, M S Han, C A Mirkin. Colorimetric Detection of Mercuric Ion (Hg2+) in Aqueous Media using DNA -Functionalized Gold Nanoparticles. Angew. Chem. Inter. Ed., 2007, 46(22): 4093-4096.<br>32.R Kannan, V Rahing, C Cutler, R Pandrapragada, K K Katti, V Kattumuri, J D Robertson, S J Casteel, S Jurisson, C Smith, E Boote, K V Katti. Nanocompatible chemistry toward fabrication of target specific gold nanoparticles. J. Am. Chem. Soc., 2006,128 (78): 11342-11343.<br>33.聂立波,陈洪,谭美君,何农跃. 金标银染基因检测方法中杂交信号的提高. 东南大学学报,2004,4 (20)4622-466.<br>34.Y Cao, R Jin, C A Mirkin. Nanopectroscopic Fingerprints for DNA and RNA Detection. Science, 2002, 297(5586):1536-1540.<br>35.赵立凡,李柏生,黑笑涵, 李晓波, 李媛媛,徐顺清. 银染增强的纳米金探针技术检测微量核酸. 中国生物化学与分子生物学报, 2006, 22(11):919-923.<br>36.Y-Y Li, C Zhang, B-S Li, L-F Zhao, X Li, W Yang, S-Q Xu. Ultrasensitive Densitometry Detection of Cytokines with Nanoparticle -Modified Aptamers. Clin. Chem. 2007, 53(6)1061–1066.<br>37.V Pavlov, Y Xiao, B Shlyahovsky, I Willner. Aptamer-Functionalized Au Nanoparticles for the Amplified Optical Detection of Thrombin. J. Am. Chem. Soc. 2004, 126, 11768-11769.<br>38.A M Garc-Campa, W R G Baeyens. Chemiluminescence in analytical chemistry, Marcel Dekker, New York. (2001).<br>39.Z Zhang, H Cui, C Lai, L Liu. Gold Nanoparticle-Catalyzed Luminol Chemiluminescence and Its Analytical Applications. Anal. Chem. 2005, 77, 3324-3329.<br>40.Z Wang, J Hu, Y Jin, X Yao, J Li. In Situ Amplified Chemiluminescent Detection of DNA and Immunoassay of IgG Using Special-Shaped Gold Nanoparticles as Label. Clin. Chem. 2006, 52(10): 1958-1962.<br>41.W Qin, Z Zhang, H Liu. Chemiluminescence Flow-Through Sensor for Copper Based on an Anodic Stripping Voltammetric Flow Cell and an Ion-Exchange Column with Immobilized Reagents. Anal. Chem. 1998, 70(17):3579-3584. <br>42.C Liu, Z Li, B Du, X Duan, Y Wang. Silver Nanoparticle-Based Ultrasensitive Chemiluminescent Detection of DNA Hybridization and Single-Nucleotide Polymorphisms. Anal. Chem. 2006, 78, 3738-3744.<br>43.Z Li, Y Wang, C Liu, Y Li. Development of Chemiluminescence Detection of Gold Nanoparticles in Biological Conjugates for Immunoassay. Anal. Chim. Acta 2005, 551: 85–91.<br>44.A Fan, C Lau, J Lu. Magnetic Bead-Based Chemiluminescent Metal Immunoassay with a Colloidal Gold Label. Anal. Chem. 2005, 77, 3238-3242.<br>45.M J R Previte, K Aslan, C D Geddes. Spatial and Temporal Control of Microwave Triggered Chemiluminescence: A Protein Detection Platform. Anal. Chem. 2007, 79(18):7042-7052. <br>46.M J R Previte, K Aslan, S N Malyn, C D Geddes. Microwave Triggered Metal Enhanced Chemiluminescence: Quantitative Protein Determination. Anal. Chem. 2006, 78(23): 8020-8027.<br>47.M J R Previte, C D Geddes. Microwave-Triggered Surface Plasmon Coupled Chemiluminescence.&nbsp;&nbsp;J. Am. Chem. Soc. 2007, 129(32): 9850-9851. <br>48.K Aslan, S N Malyn, C D Geddes. Multicolor Microwave-Triggered Metal-Enhanced Chemiluminescence.&nbsp;&nbsp;J. Am. Chem. Soc. 2006, 128(41): 13372-13373.<br>
+  <o:p></o:p></span></p>
+  <p class=MsoNormal style='line-height:120%'><span lang=EN-US><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ 
+ <tr style='mso-yfti-irow:1'>
+  <td width=569 valign=top style='width:426.45pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:120%'><b style='mso-bidi-font-weight:
+  normal'><span lang=EN-US>2</span></b><b style='mso-bidi-font-weight:normal'><span
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>、本课题的研究内容、研究目标和拟解决的关键问题</span><span lang=EN-US><o:p></o:p></span></b></p>
+  <p class=MsoNormal style='line-height:120%'><span lang=EN-US
+  style='font-family:楷体_GB2312'><span
+  style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span>
+  2.1 研究内容：<br>1）真菌毒素特异结合抗体、人工抗原制备<br>&nbsp;&nbsp;&nbsp;&nbsp;以黄曲霉毒素B1（AFB1）为模式物，通过抗体工程制备其特异结合抗体、通过BSA修饰等制备其人工抗原（前期工作已准备）。<br>2）特殊形貌的纳米金合成、生物功能化研究<br>&nbsp;&nbsp;&nbsp;&nbsp;合成具有特殊形貌的纳米金颗粒，采用TEM、SEM、XRD、UV-vis等手段进行表征，筛选出对luminol化学发光催化性能最优异的纳米金颗粒，用AFB1人工抗原对其进行功能化，制备生物功能化金纳米探针。<br>3) 竞争免疫反应<br>&nbsp;&nbsp;&nbsp;&nbsp;在固相基质表面固定化AFB1抗体，首先与标准AFB1免疫亲和，再与人工抗原AFB1功能化金纳米探针结合。<br>4) 新型化学发光方法体系建立：<br>&nbsp;&nbsp;&nbsp;&nbsp;a. 原位纳米金催化化学发光法&nbsp;&nbsp;利用特殊形貌纳米金高效催化luminol化学发光的特性，采用原位放大化学发光检测技术，原位收集发光信号，实现对AFB1的高灵敏度检测。<br>&nbsp;&nbsp;&nbsp;&nbsp;b. 银增强/金增强-光密度检测法&nbsp;&nbsp;以组装好的金纳米颗粒为核，原位沉积生长银或金，实现银增强、金增强信号放大，采用直接光密度检测，实现对AFB1的高灵敏度检测；优化银增强、金增强反应条件及时间。<br>&nbsp;&nbsp;&nbsp;&nbsp;c. 银增强/金增强-化学发光检测法&nbsp;&nbsp;采用强酸或溴水等将以金纳米颗粒为核沉积生长的银/金溶出成为Ag+/Au3+，结合Ag+/Au3+催化luminol化学发光体系，进行二次信号放大，实现对AFB1的超灵敏检测。<br>5）共性检测技术建立<br>&nbsp;&nbsp;&nbsp;&nbsp;在微波辅助加速抗原－抗体免疫亲和反应的基础上，对纳米金催化原位化学发光、金标银增强/金增强－原位光密度检测、金标银增强/金增强－溶出化学发光检测进行方法比较，优化出适合AFB1的超灵敏快速检测的最佳方法体系，建立共性检测技术，拓展到其他检测工作当中。<br><br>2.2 研究目标：<br>1）合成特殊形貌纳米金颗粒，筛选化学发光催化性能优异者作为标记物；<br>2）制备AFB1人工抗原;<br>3）制备AFB1人工抗原功能化纳米金探针；<br>4）优化出微波辅助加速抗原－抗体免疫亲和反应的最佳条件；<br>5）建立基于生物功能化纳米金探针、微波辅助加速生物识别的AFB1超灵敏快速检测新方法体系，包括：<br>&nbsp;&nbsp;&nbsp;&nbsp;a.原位纳米金催化化学发光检测技术；<br>&nbsp;&nbsp;&nbsp;&nbsp;b.银增强/金增强－光密度检测技术；<br>&nbsp;&nbsp;&nbsp;&nbsp;c.银增强/金增强－溶出化学发光检测技术；<br>6）进行方法比较，优化方法条件，建立共性检测技术，拓展研究工作。<br><br>2.3 拟解决的关键科学问题：<br>1）在保证识别特异性的基础上，大幅度提高检测灵敏度，实现真菌毒素的超灵敏快速检测；<br>2）建立基于生物功能化纳米金技术的适用于真菌毒素的超灵敏、快速、低成本检测共性技术。<br>
+  
+<o:p></o:p></span></p>
+  <p class=MsoNormal style='line-height:120%'><span lang=EN-US><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+
+ <tr style='mso-yfti-irow:2'>
+  <td width=569 valign=top style='width:426.45pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:120%'><b style='mso-bidi-font-weight:
+  normal'><span lang=EN-US>3</span></b><b style='mso-bidi-font-weight:normal'><span
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>、本课题的特色和创新之处（与国内外类似研究比较）</span><span lang=EN-US><o:p></o:p></span></b></p>
+  <p class=MsoNormal style='line-height:120%'><span lang=EN-US
+  style='font-family:楷体_GB2312'><span
+  style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span>
+    1）本课题项目是集现代发光分析、纳米科学、免疫科学与食品科学于一体的多学科交叉研究课题；<br>2）将特殊形貌纳米金生物功能化与高效纳米金催化化学发光有效结合；<br>3）首次将金标银增强/金增强技术与溶出化学发光检测有机结合实现信号二次放大；<br>4）首次采用微波辅助手段有效缩短真菌毒素检测中免疫亲和反应用时。<br>
+  
+<o:p></o:p></span></p>
+  <p class=MsoNormal style='line-height:120%'><span lang=EN-US><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:3;mso-yfti-lastrow:yes'>
+  <td width=569 valign=top style='width:426.45pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:120%'><b style='mso-bidi-font-weight:
+  normal'><span lang=EN-US>4</span></b><b style='mso-bidi-font-weight:normal'><span
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>、研究工作的预期结果、成果提交方式及专利产生状况。</span><span lang=EN-US><o:p></o:p></span></b></p>
+  <p class=MsoNormal style='line-height:120%'><span lang=EN-US><span
+  style='mso-spacerun:yes'>&nbsp;</span></span><span lang=EN-US
+  style='font-family:楷体_GB2312'><span style='mso-spacerun:yes'>&nbsp;&nbsp;
+  </span>
+  1）建立功能化纳米金生物探针制备方法；<br>2）建立基于生物功能化纳米金探针和化学发光分析技术的真菌毒素特异性超灵敏快速检测方法；<br>3）优化出微波辅助免疫亲和反应条件，有效缩短分析检测时间；<br>4）通过方法比较，优化方法体系，建立共性检测技术，拓展到其他食品安全检测工作中；<br>5）发表高质量SCI源刊收录研究论文2-6篇，并在国内外学术会议上交流研究成果；培养3名以上硕士研究生。<br>
+  
+<o:p></o:p></span></p>
+  <p class=MsoNormal style='line-height:120%'><span lang=EN-US><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+</table>
+
+<p class=MsoNormal style='line-height:120%'><span lang=EN-US style='font-size:
+12.0pt;line-height:120%;font-family:仿宋_GB2312;mso-bidi-font-family:宋体'><o:p>&nbsp;</o:p></span></p>
+
+<span lang=EN-US style='font-size:10.5pt;mso-bidi-font-size:10.0pt;line-height:
+150%;font-family:"Times New Roman";mso-fareast-font-family:宋体;mso-font-kerning:
+1.0pt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:
+AR-SA'><br clear=all style='page-break-before:always'>
+</span>
+
+<p class=MsoNormal style='line-height:120%'><b style='mso-bidi-font-weight:
+normal'><span style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>二、研究方法和技术路线：</span><span lang=EN-US><o:p></o:p></span></b></p>
+
+<table class=MsoTableGrid border=1 cellspacing=0 cellpadding=0
+ style='border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-yfti-tbllook:480;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;mso-border-insideh:
+ .5pt solid windowtext;mso-border-insidev:.5pt solid windowtext'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td width=569 valign=top style='width:426.45pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:120%'><b style='mso-bidi-font-weight:
+  normal'><span lang=EN-US>1</span></b><b style='mso-bidi-font-weight:normal'><span
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>、拟采取的研究实验方法、步骤、技术路线及可行性、可靠性论证</span><span lang=EN-US><o:p></o:p></span></b></p>
+  <p class=MsoNormal style='line-height:120%'><span lang=EN-US
+  style='font-family:楷体_GB2312'><span
+  style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span>
+  1.1 研究方案<br> 1）制备特殊形貌纳米金，采用TEM、SEM、XRD、UV-vis光谱等对其进行表征，通过化学发光反应筛选出催化性能优异者，作为标记物待用。<br> 2）以AFB1为模式分析物，制备其特异结合抗体和人工抗原（前期工作已准备）。<br> 3）以AFB1人工抗原功能化筛选出的金纳米颗粒，制备生物功能化金纳米探针。<br> 4）结合微波辅助手段，进行抗原－抗体亲和反应，优化微波辐照时间和功率等条件，实现生物功能化金纳米探针的快速组装。<br> 5）建立新型化学发光方法体系：<br>&nbsp;&nbsp;&nbsp;&nbsp;a. 原位放大化学发光检测法&nbsp;&nbsp; 利用特殊形貌纳米金对luminol-H2O2发光体系的高效催化作用，进行原位放大化学发光检测，考察方法灵敏度、检测用时；<br>&nbsp;&nbsp;&nbsp;&nbsp;b. 银增强/金增强－化学发光检测法&nbsp;&nbsp; 加入银增强/金增强反应试剂，以纳米金为核还原生长银/金，进行第一次信号放大，反应一定时间后中止反应，①光密度检测采集信号；②将沉积生长的银/金用强酸溶出成Ag+/Au3+，采用化学发光法检测溶出的Ag+ /Au3+的量，进行第二次信号放大；实现对目标物质的超灵敏快速检测。<br> 6）对上述建立的新型方法进行比较，进一步优化条件，建立适用于AFB1超灵敏快速检测的新型方法体系，发共性检测技术，拓展应用到其他食品安全检测当中。<br><br>1.2 技术路线（图1，见辅助说明） <br><br>1.3 可行性分析<br>&nbsp;&nbsp;&nbsp;&nbsp;项目申请人具有多年从事发光分析的经历，同时本研究课题在一定程度上是博士后研究工作的延续，具有很好的前期工作基础。已经完成了特殊形貌纳米金的合成与表征、化学发光催化性能优化及筛选工作，并已通过对其生物功能化实现了对特定序列DNA分子和免疫球蛋白的高灵敏检测，建立了纳米金催化原位放大化学发光检测方法体系。<br>&nbsp;&nbsp;&nbsp;&nbsp;为了解决溶出金属离子静态注射化学发光法测定重现性差的问题，本课题组已经采用微流控芯片技术，实现了少量（通常为100-200微升）溶出金属离子的在线混合化学发光检测，重现性得到了有力保障，且每次测定只需几秒钟时间。<br>&nbsp;&nbsp;&nbsp;&nbsp;采用本课题研究所述的新型分析检测技术，针对沙门氏菌的超灵敏快速检测方法体系已部分建立完成，在相关关键技术环节已经取得了突破，打下了良好的实验基础。<br>&nbsp;&nbsp;&nbsp;&nbsp;课题申请人大学和硕士背景均为生物学，课题组成员均为食品安全专业教研第一线的教师和研究生，熟悉食品安全检测技术，在抗体工程方面积累了丰富的经验、具备了良好的技能，可以完全保证研究工作中免疫学方面的需求。<br>&nbsp;&nbsp;&nbsp;&nbsp;此外，申请人所在的江南大学食品学院拥有食品科学与技术国家重点实验室，在食品安全检测研究领域已经成功完成了多项国家级和省部级课题项目，拥有雄厚的师资力量和实验技术基础，建有完善的食品安全检测评价平台和实验动物平台，仪器设备资源充足；本课题组也拥有完备的食品安全检测研究仪器设备平台，并且建立了一支充满活力的研究队伍，可以保证课题项目的高质量顺利完成。<br>
+  <br><center><img src='http://210.73.128.90:80/prj_product/XMSB/All_SBS_ShowPic.jsp?SN=18888'></center>
+
+<o:p></o:p></span></p>
+  <p class=MsoNormal style='line-height:120%'><span lang=EN-US><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:1;mso-yfti-lastrow:yes'>
+  <td width=569 valign=top style='width:426.45pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:120%'><b style='mso-bidi-font-weight:
+  normal'><span lang=EN-US>2</span></b><b style='mso-bidi-font-weight:normal'><span
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>、研究工作的总体安排及进度</span><span lang=EN-US><o:p></o:p></span></b></p>
+  <p class=MsoNormal style='line-height:120%'><span lang=EN-US
+  style='font-family:楷体_GB2312'><span
+  style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span>
+  2008年10-12月 完成主要调研工作和实验设备加工改装工作，开始预备实验。<br>2009年01-12月 进行AFB1特异性结合抗体、人工抗原的制备和效价表征；生物功能化纳米金探针制备；微波辅助免疫亲和反应条件研究；基于真菌毒素人工抗原功能化纳米金探针的免疫亲和分析、纳米金催化原位化学发光检测方法研究。<br>2010年01-11月 基于真菌毒素人工抗原功能化纳米金探针的银增强/金增强-光密度检测方法与银增强/金增强-溶出化学发光法方法研究；共性检测技术研究。<br>2010年12月 结题。<br>
+  
+<o:p></o:p></span></p>
+  <p class=MsoNormal style='line-height:120%'><span lang=EN-US><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+</table>
+
+<p class=MsoNormal style='line-height:120%'><span lang=EN-US style='font-size:
+12.0pt;line-height:120%;font-family:仿宋_GB2312;mso-bidi-font-family:宋体'><o:p>&nbsp;</o:p></span></p>
+
+<span lang=EN-US style='font-size:10.5pt;mso-bidi-font-size:10.0pt;line-height:
+150%;font-family:"Times New Roman";mso-fareast-font-family:宋体;mso-font-kerning:
+1.0pt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:
+AR-SA'><br clear=all style='page-break-before:always'>
+</span>
+
+<p class=MsoNormal style='line-height:120%'><b style='mso-bidi-font-weight:
+normal'><span style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>三、实现本课题预期目标已具备的基础和条件：</span><span
+lang=EN-US><o:p></o:p></span></b></p>
+
+<table class=MsoTableGrid border=1 cellspacing=0 cellpadding=0
+ style='border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-yfti-tbllook:480;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;mso-border-insideh:
+ .5pt solid windowtext;mso-border-insidev:.5pt solid windowtext'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td width=569 valign=top style='width:426.45pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:120%'><b style='mso-bidi-font-weight:
+  normal'><span lang=EN-US>1</span></b><b style='mso-bidi-font-weight:normal'><span
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>、与本课题有关的研究工作基础</span><span lang=EN-US><o:p></o:p></span></b></p>
+  <p class=MsoNormal style='line-height:120%'><span lang=EN-US
+  style='font-family:楷体_GB2312'><span
+  style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span>
+  &nbsp;&nbsp;&nbsp;&nbsp;在前期工作中，课题申请人已经采用新法合成了多种具有特殊形貌的纳米金颗粒，并对其物理化学特性进行了系统研究，研究发现相对于常规球形纳米金颗粒，合成的特殊形貌纳米金颗粒具有更强的化学发光催化性能，尤其是骨形或靴形等不规则形貌的纳米金颗粒，其催化化学发光效率较球形纳米金颗粒提高了1000多倍（见附件辅助说明）。基于此，采用巯基化特定序列寡核苷酸探针和免疫抗体功能化该新型纳米金颗粒，结合原位放大化学发光分析技术，实现了对特定序列DNA和免疫球蛋白的高选择性、高灵敏检测；同时也合成了发光量子点、金属氧化物等其他新型纳米粒子，对其物理化学特性进行了详细研究，筛选出了多种具有新颖发光特性、适合分析检测目的的纳米粒子，掌握了丰富的纳米粒子表面修饰技术和纳米探针制备技术，建立了理想的模式分析体系，相关研究结果已经在美国临床化学会刊物Clin. Chem.（2006, 52(10): 1958-1961）、美国化学会刊物J. Phy. Chem. B（2005, 109(49): 23304-23311）及Sensors （2007, 7, 3299-3311)上发表。<br>&nbsp;&nbsp;&nbsp;&nbsp;采用类似方法，申请人研究小组已开展了一系列研究工作。采用巯基化沙门氏菌特异寡核苷酸探针功能化纳米金作为显示探针，采用生物素化沙门氏菌特异寡核苷酸探针作为捕获探针，通过夹心型DNA 互补杂交捕获目标沙门氏菌特异DNA结构将功能化纳米金组装到96孔板上，通过纳米金原位催化化学发光检测目标DNA，检测限可达10pM级；随后以纳米金为核原位还原沉积银实现银增强信号放大，通过酶标仪光密度检测，目标DNA检测限可达0.1 fM级；进一步将银溶出，采用灵敏度更高的化学发光法检测溶出的银离子，实现第二次信号放大，目标DNA检测限可达0.001 fmol/l甚至更低。该研究工作已经投往美国化学会刊物J. Agr. Food. Chem.。采用相同技术实现了对凝血酶的核酸适体识别超灵敏检测，相关研究工作已投往Biosens. Bioelectr.。<br>&nbsp;&nbsp;&nbsp;&nbsp;同时，研究小组成员已在黄曲霉毒素抗原、抗体（及其他抗体）制备方面做了大量工作，有了扎实的前期工作基础。发表的主要研究论文如下：<br>1）张银志,李帅,孙秀兰.食品中罂粟碱金标快速检测试剂条的研究.分析测试学报. 2008, 7(1): 6-9.<br>2）孙秀兰, 张银志.黄曲霉毒素B1抗体和纳米金颗粒的相互作用机理. 高等学校化学学报, 2007, 28 (8 ): 1449-1453<br>3）孙秀兰, 张银志, 汤坚, 赵晓联. 黄曲霉毒素B1金标检测体系建立过程中的影响因素. 食品与生物技术学报, 2006, 25 (6):37-41<br>4) 孙秀兰, 张银志, 汤坚, 朱瑜. 黄曲霉毒素B1完全抗原构建中结合位点研究.食品与生物技术学报, 2007, 26, 99-103.<br><br> <br><br>
+  <br><center><img src='http://210.73.128.90:80/prj_product/XMSB/All_SBS_ShowPic.jsp?SN=18930'></center>
+
+<o:p></o:p></span></p>
+  <p class=MsoNormal style='line-height:120%'><span lang=EN-US><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:1'>
+  <td width=569 valign=top style='width:426.45pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:120%'><b style='mso-bidi-font-weight:
+  normal'><span lang=EN-US>2</span></b><b style='mso-bidi-font-weight:normal'><span
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>、申请者和课题组主要成员的主要学历和研究工作简历，近期发表的与本课题有关的主要论著目录和科研成果名称、获奖、申请和获得专利情况，提供证明材料复印件</span><span
+  lang=EN-US><o:p></o:p></span></b></p>
+  <p class=MsoNormal style='line-height:120%'><span lang=EN-US
+  style='font-family:楷体_GB2312'><span
+  style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span>
+  （1）项目申请人：<br>&nbsp;&nbsp;&nbsp;&nbsp;王周平，男，1974年出生，分析化学博士，2004-2006年在清华大学化学系从事博士后研究工作，现为江南大学食品学院教授、食品科学与技术国家重点实验室研究人员，教育部“长江学者与创新团队发展计划” 团队主要成员。<br>&nbsp;&nbsp;&nbsp;&nbsp;申请人具有多年生物学和发光分析科研经历，熟悉发光分析技术、纳米探针技术、生化分析技术及微生物培养筛选工作，目前主要研究方向为纳米生物分析和食品安全分析。已在相关领域取得了一定成果，主持中国博士后科学基金、教育部博士点基金新教师项目各一项，参与“973”、国家自然基金重点和面上项目、国家“十一五”科技支撑计划项目多项；迄今为止已在国内外重要学术刊物发表研究论文30余篇，其中SCI源刊收录论文18篇，邀请综述1篇；获中国分析测试协会科学技术一等奖1项。协助指导博士研究生2名，指导硕士研究生4名。<br>已发表（或投稿）与本项目有关的研究论文：<br>1) Jianqiang Hu, Zhouping Wang, Jinghong Li. Gold nanoparticles with special shapes: controlled synthesis, surface-enhanced Raman scattering, and the application in biodetection. Sensors 2007, 7, 3299-3311 <br>2）Zhouping Wang, Jianqiang Hu, Yan Jin, Xin Yao, Jinghong Li. In situ amplified chemiluminescent detection of DNA and immunoassay of IgG using special-shaped nanogold as label. Clin. Chem. 2006, 52(10): 1958-1961 (SCI: 089CP)<br>3）Zhouping Wang, Jun Li, Bin Liu, Jianqiang Hu, Xin Yao, Jinghong Li. Chemiluminescence of CdTe nanocrystals induced from direct chemical oxidation and its size-dependent and surfactant sensitized effect. J. Phys. Chem. B 2005, 109(49):23304-23311 (SCI: 992DJ, EI:06039651594)<br>4) Jingquan Li, Zhouping Wang*, Xiaoli Peng. Ultrasensitive chemiluminescent DNA hybridization analysis based on nanogold labeling and silver enhancement. (submitted to J. Agr. Food. Chem.)<br>5) Xiaoli Peng, Zhouping Wang*, Jingquan Li. Nanogold-labeling and silver-enhancement based stripping chemiluminescence method for ultrasensitive determination of thrombin. (submitted to Biosens. Bioelectron.)<br>其它相关研究论文：<br>6）Zhouping wang, Jinghong Li. Nanostructure presented chemiluminescence and electrochemiluminescence. Annu. Rev. Nano Res. vol.2, p1-40. World Scientific. 2007. (Invited review)<br>7) Zhouping Wang, Zhujun Zhang, Zhifeng Fu, Wanfen Luo and Xiao Zhang. Flow-injection chemiluminescence determination of aminomethylbenzoic acid and aminophylline based on N-bromosuccinimide-luminol reaction. Talanta 2004, 62: 611-617 (SCI:770CL; EI: 04098033789) <br>8) Zhouping Wang, Zhujun Zhang, Zhifeng Fu, and Xiao Zhang. Sensitive flow-injection chemiluminescence determination of terbutaline sulfate based on the enhancement of luminol-permanganate reaction. Anal. Bioanal. Chem. 2004, 378(3): 834-840 (SCI:770UJ) <br>9) Zhouping Wang, Zhujun Zhang, Xiao Zhang，Zhifeng Fu. Flow-injection inhibition chemiluminescence determination of indapamide based on luminol-ferricyanide reaction. J. Pharm. Biomed. Anal. 2004, 35(1): 1-7 (SCI: 810JC) <br>10) Zhouping Wang, Zhujun Zhang, Zhifeng Fu, Wanfen Luo, and Xiao Zhang. Sensitive Flow-injection Chemiluminescence Determination of Metformin Based on N-bromosuccinimide-Fluorescein System. Anal. Lett. 2003,36,12: 2683-2697 (SCI: 727PU)<br>11) Zhouping Wang, Zhujun Zhang, Zhifeng Fu, Luqiu Fang and Xiao Zhang. N-bromosuccinimide -fluorescein based sensitive flow-injection chemiluminescence determination of phenformin. Anal. Sci. 2004, 20 (2): 319-323(SCI: 807KK) <br><br>主持及参与的课题项目：<br>1）新型纳米粒子在化学发光和毛细管电泳分离分析中的应用研究(No. 2005038302)&nbsp;&nbsp; 中国博士后科学基金项目&nbsp;&nbsp;主持<br>2)&nbsp;&nbsp;基于纳米探针技术的食品营养与安全分析（No.20070295014）教育部博士点基金新教师项目 2008-2010 主持<br>3）微纳生物医学传感器及超敏感探测相关基础研究，子课题：生物分子识别直接转换为电信号的机制（No.2007CB310501）国家重点基础研究发展计划（973计划）2008-2012助研<br>4)&nbsp;&nbsp;纳米生物传感技术的分析化学基础研究(No.20435010) 国家自然科学基金重点项目 2005-2008&nbsp;&nbsp;助研<br><br>获奖情况：<br>李景虹，李军，王周平。半导体纳米晶复合材料在分析化学和生物分析中的应用. 中国分析测试协会科学技术一等奖(CAIA奖). 2007<br><br>（2）项目组主要成员：<br>&nbsp;&nbsp;&nbsp;&nbsp;张银志，男，1975年出生，食品科学专业硕士，讲师，江南大学食品科学与技术国家重点实验室教师。于1998年和2004年分别获得食品科学专业学士和硕士学位，1998年7月-2005年5月在陕西省汉中市质检所从事食品安全检测工作，熟悉气相色谱、液相色谱、荧光光谱的使用。2006年至今，在食品科学与技术国家重点实验室从事食品安全研究工作，主要研究方向为食品安全快速检测，近年来发表论文20余篇。在本项目中主要负责抗原、抗体制备研究工作。<br>近期发表的相关研究论文：<br>1）张银志,李帅,孙秀兰.食品中罂粟碱金标快速检测试剂条的研究.分析测试学报. 2008, 7(1): 6～9.<br>2）孙秀兰, 张银志.黄曲霉毒素B1抗体和纳米金颗粒的相互作用机理. 高等学校化学学报, 2007, 28 (8 ): 1449~1453<br>3）孙秀兰, 张银志, 汤坚, 赵晓联. 黄曲霉毒素B1金标检测体系建立过程中的影响因素. 食品与生物技术学报, 2006, 25 (6):37-41<br>4) 孙秀兰, 张银志, 汤坚, 朱瑜. 黄曲霉毒素B1完全抗原构建中结合位点研究.食品与生物技术学报, 2007, 26, 99-103.<br>
+  
+<o:p></o:p></span></p>
+  <p class=MsoNormal style='line-height:120%'><span lang=EN-US><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:2'>
+  <td width=569 valign=top style='width:426.45pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:120%'><b style='mso-bidi-font-weight:
+  normal'><span lang=EN-US>3</span></b><b style='mso-bidi-font-weight:normal'><span
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>、实现本项研究已有的主要仪器设备，尚缺的仪器设备及解决途径</span><span lang=EN-US><o:p></o:p></span></b></p>
+  <p class=MsoNormal style='line-height:120%'><span lang=EN-US
+  style='font-family:楷体_GB2312'><span
+  style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span>
+  &nbsp;&nbsp;&nbsp;&nbsp;申请人所在的食品营养与安全研究所拥有MPI-B型多参数化学发光分析测试系统、发光成像系统、全自动酶标仪、PCR仪、紫外－可见分光光度计、荧光分光光度计、层析制备系统、半制备HPLC等仪器设备，拥有完善的细胞生物学、分子生物学实验室和实验动物房。江南大学医药学院建有10万级的超净工作室，可以满足研究工作中部分特殊培养工作的需要。研究工作所依托的江南大学为教育部直属“211工程”重点高校，江南大学食品学院拥有“食品科学与工程一级国家重点学科”和“食品科学与技术国家重点实验室”，拥有强大的师资及大型实验设备（包括SEM，TEM，XRD，Zetal电位仪，圆二色谱仪，Beckman毛细管电泳仪, HPLC, GC, GC-MS, LC-MS）和众多基础设备，可以完全保证研究工作的顺利进行。<br>&nbsp;&nbsp;&nbsp;&nbsp;申请人研究小组与清华大学分析中心李景虹教授研究小组、张新荣教授研究小组建立了长期协作关系，相关表征测定工作也可在清华大学分析中心进行。
+  
+<o:p></o:p></span></p>
+  <p class=MsoNormal style='line-height:120%'><span lang=EN-US><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:3'>
+  <td width=569 valign=top style='width:426.45pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:120%'><b style='mso-bidi-font-weight:
+  normal'><span lang=EN-US>4</span></b><b style='mso-bidi-font-weight:normal'><span
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>、申请人正在承担的其他项目名称、任务来源、起止时间、负责或参加以及与本项目的关系</span><span
+  lang=EN-US><o:p></o:p></span></b></p>
+  <p class=MsoNormal style='line-height:120%'><span lang=EN-US
+  style='font-family:楷体_GB2312'><span
+  style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span>
+  1)&nbsp;&nbsp;基于纳米探针技术的食品营养与安全分析（No.20070295014）教育部博士点基金新教师项目 2008-2010&nbsp;&nbsp;主持&nbsp;&nbsp;与本课题项目有少部分联系<br>2）微纳生物医学传感器及超敏感探测相关基础研究，子课题：生物分子识别直接转换为电信号的机制（No.2007CB310501）国家重点基础研究发展计划（973计划）2008-2012 助研（无排名） 与本课题项目没有关系<br>3) 纳米生物传感技术的分析化学基础研究(No.20435010) 国家自然科学基金重点项目 2005-2008&nbsp;&nbsp;助研（无排名） 与本课题项目有少部分联系<br>
+  
+<o:p></o:p></span></p>
+  <p class=MsoNormal style='line-height:120%'><span lang=EN-US><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:4;mso-yfti-lastrow:yes'>
+  <td width=569 valign=top style='width:426.45pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:120%'><b style='mso-bidi-font-weight:
+  normal'><span lang=EN-US>5</span></b><b style='mso-bidi-font-weight:normal'><span
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>、申请人已完成和在研的省自然科学基金资助课题（含参加）的完成情况、结题评议等级或进展情况。（发表的主要论著、获奖成果、完成省基金项目评议结果须附相关证明材料，凡涉及应用实验动物及相关产品进行科学研究和实验的项目须提供下列附件：单位实验动物使用许可证复印件；项目组中动物实验主要成员上岗资格证书复印件。）</span><span
+  lang=EN-US><o:p></o:p></span></b></p>
+  <p class=MsoNormal style='line-height:120%'><span lang=EN-US
+  style='font-family:楷体_GB2312'><span
+  style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span>
+  无
+  
+<o:p></o:p></span></p>
+  <p class=MsoNormal style='line-height:120%'><span lang=EN-US><o:p>&nbsp;</o:p></span></p>
+  <p class=MsoNormal style='line-height:120%'><span lang=EN-US><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+</table>
+
+</div>
+
+<span lang=EN-US style='font-size:12.0pt;line-height:120%;font-family:仿宋_GB2312;
+mso-hansi-font-family:"Times New Roman";mso-bidi-font-family:宋体;mso-font-kerning:
+1.0pt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:
+AR-SA'><br clear=all style='page-break-before:always;mso-break-type:section-break'>
+</span>
+
+<div class=Section2>
+
+<p class=MsoNormal style='line-height:120%'><b style='mso-bidi-font-weight:
+normal'><span lang=EN-US>6</span></b><b style='mso-bidi-font-weight:normal'><span
+style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman"'>、项目主要研究人员</span><span lang=EN-US><o:p></o:p></span></b></p>
+
+<table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0
+ style='border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-padding-alt:0cm 5.4pt 0cm 5.4pt;mso-border-insideh:.5pt solid windowtext;
+ mso-border-insidev:.5pt solid windowtext'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;page-break-inside:avoid'>
+  <td width=938 colspan=12 valign=top style='width:703.65pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:120%'><b style='mso-bidi-font-weight:
+  normal'><span style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>课题负责人</span><span lang=EN-US><o:p></o:p></span></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:1'>
+  <td width=70 style='width:52.65pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b
+  style='mso-bidi-font-weight:normal'><span style='font-family:宋体;mso-ascii-font-family:
+  "Times New Roman";mso-hansi-font-family:"Times New Roman"'>姓名</span><span
+  lang=EN-US><o:p></o:p></span></b></p>
+  </td>
+  <td width=35 style='width:26.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b
+  style='mso-bidi-font-weight:normal'><span style='font-family:宋体;mso-ascii-font-family:
+  "Times New Roman";mso-hansi-font-family:"Times New Roman"'>性别</span><span
+  lang=EN-US><o:p></o:p></span></b></p>
+  </td>
+  <td width=35 style='width:26.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b
+  style='mso-bidi-font-weight:normal'><span style='font-family:宋体;mso-ascii-font-family:
+  "Times New Roman";mso-hansi-font-family:"Times New Roman"'>年龄</span><span
+  lang=EN-US><o:p></o:p></span></b></p>
+  </td>
+  <td width=56 style='width:42.0pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b
+  style='mso-bidi-font-weight:normal'><span style='font-family:宋体;mso-ascii-font-family:
+  "Times New Roman";mso-hansi-font-family:"Times New Roman"'>职称</span><span
+  lang=EN-US><o:p></o:p></span></b></p>
+  </td>
+  <td width=56 style='width:42.0pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b
+  style='mso-bidi-font-weight:normal'><span style='font-family:宋体;mso-ascii-font-family:
+  "Times New Roman";mso-hansi-font-family:"Times New Roman"'>学位</span><span
+  lang=EN-US><o:p></o:p></span></b></p>
+  </td>
+  <td width=56 colspan=2 style='width:42.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b
+  style='mso-bidi-font-weight:normal'><span style='font-family:宋体;mso-ascii-font-family:
+  "Times New Roman";mso-hansi-font-family:"Times New Roman"'>专业</span><span
+  lang=EN-US><o:p></o:p></span></b></p>
+  </td>
+  <td width=98 style='width:73.5pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b
+  style='mso-bidi-font-weight:normal'><span style='font-family:宋体;mso-ascii-font-family:
+  "Times New Roman";mso-hansi-font-family:"Times New Roman"'>为本项目工作时间</span><span
+  lang=EN-US>(%)<o:p></o:p></span></b></p>
+  </td>
+  <td width=224 style='width:168.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b
+  style='mso-bidi-font-weight:normal'><span style='font-family:宋体;mso-ascii-font-family:
+  "Times New Roman";mso-hansi-font-family:"Times New Roman"'>所在</span><span
+  lang=EN-US><o:p></o:p></span></b></p>
+  <p class=MsoNormal align=center style='text-align:center'><b
+  style='mso-bidi-font-weight:normal'><span style='font-family:宋体;mso-ascii-font-family:
+  "Times New Roman";mso-hansi-font-family:"Times New Roman"'>单位</span><span
+  lang=EN-US><o:p></o:p></span></b></p>
+  </td>
+  <td width=70 style='width:52.5pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b
+  style='mso-bidi-font-weight:normal'><span style='font-family:宋体;mso-ascii-font-family:
+  "Times New Roman";mso-hansi-font-family:"Times New Roman"'>项目</span><span
+  lang=EN-US><o:p></o:p></span></b></p>
+  <p class=MsoNormal align=center style='text-align:center'><b
+  style='mso-bidi-font-weight:normal'><span style='font-family:宋体;mso-ascii-font-family:
+  "Times New Roman";mso-hansi-font-family:"Times New Roman"'>分工</span><span
+  lang=EN-US><o:p></o:p></span></b></p>
+  </td>
+  <td width=174 style='width:130.5pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b
+  style='mso-bidi-font-weight:normal'><span style='font-family:宋体;mso-ascii-font-family:
+  "Times New Roman";mso-hansi-font-family:"Times New Roman"'>身份证件号码</span><span
+  lang=EN-US><o:p></o:p></span></b></p>
+  </td>
+  <td width=64 style='width:48.0pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b
+  style='mso-bidi-font-weight:normal'><span style='font-family:宋体;mso-ascii-font-family:
+  "Times New Roman";mso-hansi-font-family:"Times New Roman"'>签字</span><span
+  lang=EN-US><o:p></o:p></span></b></p>
+  </td>
+ </tr>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ <tr style='mso-yfti-irow:2;height:1.0cm'>
+  <td width=70 style='width:52.65pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal style='line-height:120%'><span lang=EN-US
+  style='mso-bidi-font-size:10.5pt;line-height:120%;font-family:楷体_GB2312;
+  mso-hansi-font-family:宋体'>王周平<o:p></o:p></span></p>
+  </td>
+  <td width=35 style='width:26.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:120%'><span
+  lang=EN-US style='mso-bidi-font-size:10.5pt;line-height:120%;font-family:
+  楷体_GB2312;mso-hansi-font-family:宋体'>男<o:p></o:p></span></p>
+  </td>
+  <td width=35 style='width:26.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:120%'><span
+  lang=EN-US style='mso-bidi-font-size:10.5pt;line-height:120%;font-family:
+  楷体_GB2312;mso-hansi-font-family:宋体'>34<o:p></o:p></span></p>
+  </td>
+  <td width=56 style='width:42.0pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:120%'><span
+  lang=EN-US style='mso-bidi-font-size:10.5pt;line-height:120%;font-family:
+  楷体_GB2312;mso-hansi-font-family:宋体'>
+正高
+
+<o:p></o:p></span></p>
+  </td>
+  <td width=56 style='width:42.0pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:120%'><span
+  lang=EN-US style='mso-bidi-font-size:10.5pt;line-height:120%;font-family:
+  楷体_GB2312;mso-hansi-font-family:宋体'>
+博士
+
+<o:p></o:p></span></p>
+  </td>
+  <td width=56 colspan=2 style='width:42.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:120%'><span
+  lang=EN-US style='mso-bidi-font-size:10.5pt;line-height:120%;font-family:
+  楷体_GB2312;mso-hansi-font-family:宋体'>分析化学<o:p></o:p></span></p>
+  </td>
+  <td width=98 style='width:73.5pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:120%'><span
+  lang=EN-US style='mso-bidi-font-size:10.5pt;line-height:120%;font-family:
+  楷体_GB2312;mso-hansi-font-family:宋体'>60<o:p></o:p></span></p>
+  </td>
+  <td width=224 style='width:168.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal style='line-height:120%'><span lang=EN-US
+  style='mso-bidi-font-size:10.5pt;line-height:120%;font-family:楷体_GB2312;
+  mso-hansi-font-family:宋体'>江南大学<o:p></o:p></span></p>
+  </td>
+  <td width=70 style='width:52.5pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal style='line-height:120%'><span lang=EN-US
+  style='mso-bidi-font-size:10.5pt;line-height:120%;font-family:楷体_GB2312;
+  mso-hansi-font-family:宋体'>组织协调材料合成<o:p></o:p></span></p>
+  </td>
+  <td width=174 style='width:130.5pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal style='line-height:120%'><span lang=EN-US
+  style='mso-bidi-font-size:10.5pt;line-height:120%;font-family:楷体_GB2312;
+  mso-hansi-font-family:宋体'>610322197404011110<o:p></o:p></span></p>
+  </td>
+  <td width=64 valign=top style='width:48.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal style='line-height:120%'><span lang=EN-US><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ 
+ 
+ 
+ 
+ 
+ <tr style='mso-yfti-irow:3;height:1.0cm'>
+  <td width=70 style='width:52.65pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal style='line-height:120%'><span lang=EN-US
+  style='mso-bidi-font-size:10.5pt;line-height:120%;font-family:楷体_GB2312;
+  mso-hansi-font-family:宋体'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td width=35 style='width:26.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:120%'><span
+  lang=EN-US style='mso-bidi-font-size:10.5pt;line-height:120%;font-family:
+  楷体_GB2312;mso-hansi-font-family:宋体'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td width=35 style='width:26.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:120%'><span
+  lang=EN-US style='mso-bidi-font-size:10.5pt;line-height:120%;font-family:
+  楷体_GB2312;mso-hansi-font-family:宋体'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td width=56 style='width:42.0pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:120%'><span
+  lang=EN-US style='mso-bidi-font-size:10.5pt;line-height:120%;font-family:
+  楷体_GB2312;mso-hansi-font-family:宋体'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td width=56 style='width:42.0pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:120%'><span
+  lang=EN-US style='mso-bidi-font-size:10.5pt;line-height:120%;font-family:
+  楷体_GB2312;mso-hansi-font-family:宋体'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td width=56 colspan=2 style='width:42.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:120%'><span
+  lang=EN-US style='mso-bidi-font-size:10.5pt;line-height:120%;font-family:
+  楷体_GB2312;mso-hansi-font-family:宋体'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td width=98 style='width:73.5pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:120%'><span
+  lang=EN-US style='mso-bidi-font-size:10.5pt;line-height:120%;font-family:
+  楷体_GB2312;mso-hansi-font-family:宋体'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td width=224 style='width:168.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal style='line-height:120%'><span lang=EN-US
+  style='mso-bidi-font-size:10.5pt;line-height:120%;font-family:楷体_GB2312;
+  mso-hansi-font-family:宋体'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td width=70 style='width:52.5pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal style='line-height:120%'><span lang=EN-US
+  style='mso-bidi-font-size:10.5pt;line-height:120%;font-family:楷体_GB2312;
+  mso-hansi-font-family:宋体'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td width=174 style='width:130.5pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal style='line-height:120%'><span lang=EN-US
+  style='mso-bidi-font-size:10.5pt;line-height:120%;font-family:楷体_GB2312;
+  mso-hansi-font-family:宋体'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td width=64 valign=top style='width:48.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal style='line-height:120%'><span lang=EN-US><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ 
+ 
+ <tr style='mso-yfti-irow:4;page-break-inside:avoid'>
+  <td width=938 colspan=12 valign=top style='width:703.65pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:120%'><b style='mso-bidi-font-weight:
+  normal'><span style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman"'>主要研究人员</span><span lang=EN-US><o:p></o:p></span></b></p>
+  </td>
+ </tr>
+ 
+   
+ <tr style='mso-yfti-irow:2;height:1.0cm'>
+  <td width=70 style='width:52.65pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal style='line-height:120%'><span lang=EN-US
+  style='mso-bidi-font-size:10.5pt;line-height:120%;font-family:楷体_GB2312;
+  mso-hansi-font-family:宋体'>张银志<o:p></o:p></span></p>
+  </td>
+  <td width=35 style='width:26.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:120%'><span
+  lang=EN-US style='mso-bidi-font-size:10.5pt;line-height:120%;font-family:
+  楷体_GB2312;mso-hansi-font-family:宋体'>男<o:p></o:p></span></p>
+  </td>
+  <td width=35 style='width:26.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:120%'><span
+  lang=EN-US style='mso-bidi-font-size:10.5pt;line-height:120%;font-family:
+  楷体_GB2312;mso-hansi-font-family:宋体'>33<o:p></o:p></span></p>
+  </td>
+  <td width=56 style='width:42.0pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:120%'><span
+  lang=EN-US style='mso-bidi-font-size:10.5pt;line-height:120%;font-family:
+  楷体_GB2312;mso-hansi-font-family:宋体'>
+中级
+
+<o:p></o:p></span></p>
+  </td>
+  <td width=56 style='width:42.0pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:120%'><span
+  lang=EN-US style='mso-bidi-font-size:10.5pt;line-height:120%;font-family:
+  楷体_GB2312;mso-hansi-font-family:宋体'>
+硕士
+
+<o:p></o:p></span></p>
+  </td>
+  <td width=56 colspan=2 style='width:42.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:120%'><span
+  lang=EN-US style='mso-bidi-font-size:10.5pt;line-height:120%;font-family:
+  楷体_GB2312;mso-hansi-font-family:宋体'>食品安全<o:p></o:p></span></p>
+  </td>
+  <td width=98 style='width:73.5pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:120%'><span
+  lang=EN-US style='mso-bidi-font-size:10.5pt;line-height:120%;font-family:
+  楷体_GB2312;mso-hansi-font-family:宋体'>60<o:p></o:p></span></p>
+  </td>
+  <td width=224 style='width:168.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal style='line-height:120%'><span lang=EN-US
+  style='mso-bidi-font-size:10.5pt;line-height:120%;font-family:楷体_GB2312;
+  mso-hansi-font-family:宋体'>江南大学<o:p></o:p></span></p>
+  </td>
+  <td width=70 style='width:52.5pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal style='line-height:120%'><span lang=EN-US
+  style='mso-bidi-font-size:10.5pt;line-height:120%;font-family:楷体_GB2312;
+  mso-hansi-font-family:宋体'>抗原抗体制备<o:p></o:p></span></p>
+  </td>
+  <td width=174 style='width:130.5pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal style='line-height:120%'><span lang=EN-US
+  style='mso-bidi-font-size:10.5pt;line-height:120%;font-family:楷体_GB2312;
+  mso-hansi-font-family:宋体'>610403197510130056<o:p></o:p></span></p>
+  </td>
+  <td width=64 valign=top style='width:48.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal style='line-height:120%'><span lang=EN-US><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ 
+ 
+  
+ <tr style='mso-yfti-irow:2;height:1.0cm'>
+  <td width=70 style='width:52.65pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal style='line-height:120%'><span lang=EN-US
+  style='mso-bidi-font-size:10.5pt;line-height:120%;font-family:楷体_GB2312;
+  mso-hansi-font-family:宋体'>代卉<o:p></o:p></span></p>
+  </td>
+  <td width=35 style='width:26.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:120%'><span
+  lang=EN-US style='mso-bidi-font-size:10.5pt;line-height:120%;font-family:
+  楷体_GB2312;mso-hansi-font-family:宋体'>女<o:p></o:p></span></p>
+  </td>
+  <td width=35 style='width:26.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:120%'><span
+  lang=EN-US style='mso-bidi-font-size:10.5pt;line-height:120%;font-family:
+  楷体_GB2312;mso-hansi-font-family:宋体'>28<o:p></o:p></span></p>
+  </td>
+  <td width=56 style='width:42.0pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:120%'><span
+  lang=EN-US style='mso-bidi-font-size:10.5pt;line-height:120%;font-family:
+  楷体_GB2312;mso-hansi-font-family:宋体'>
+其他
+
+<o:p></o:p></span></p>
+  </td>
+  <td width=56 style='width:42.0pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:120%'><span
+  lang=EN-US style='mso-bidi-font-size:10.5pt;line-height:120%;font-family:
+  楷体_GB2312;mso-hansi-font-family:宋体'>
+学士
+
+<o:p></o:p></span></p>
+  </td>
+  <td width=56 colspan=2 style='width:42.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:120%'><span
+  lang=EN-US style='mso-bidi-font-size:10.5pt;line-height:120%;font-family:
+  楷体_GB2312;mso-hansi-font-family:宋体'>食品安全<o:p></o:p></span></p>
+  </td>
+  <td width=98 style='width:73.5pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:120%'><span
+  lang=EN-US style='mso-bidi-font-size:10.5pt;line-height:120%;font-family:
+  楷体_GB2312;mso-hansi-font-family:宋体'>60<o:p></o:p></span></p>
+  </td>
+  <td width=224 style='width:168.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal style='line-height:120%'><span lang=EN-US
+  style='mso-bidi-font-size:10.5pt;line-height:120%;font-family:楷体_GB2312;
+  mso-hansi-font-family:宋体'>江南大学<o:p></o:p></span></p>
+  </td>
+  <td width=70 style='width:52.5pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal style='line-height:120%'><span lang=EN-US
+  style='mso-bidi-font-size:10.5pt;line-height:120%;font-family:楷体_GB2312;
+  mso-hansi-font-family:宋体'>分析方法<o:p></o:p></span></p>
+  </td>
+  <td width=174 style='width:130.5pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal style='line-height:120%'><span lang=EN-US
+  style='mso-bidi-font-size:10.5pt;line-height:120%;font-family:楷体_GB2312;
+  mso-hansi-font-family:宋体'>230822198011066429<o:p></o:p></span></p>
+  </td>
+  <td width=64 valign=top style='width:48.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal style='line-height:120%'><span lang=EN-US><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ 
+ 
+  
+ <tr style='mso-yfti-irow:2;height:1.0cm'>
+  <td width=70 style='width:52.65pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal style='line-height:120%'><span lang=EN-US
+  style='mso-bidi-font-size:10.5pt;line-height:120%;font-family:楷体_GB2312;
+  mso-hansi-font-family:宋体'>谷春梅<o:p></o:p></span></p>
+  </td>
+  <td width=35 style='width:26.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:120%'><span
+  lang=EN-US style='mso-bidi-font-size:10.5pt;line-height:120%;font-family:
+  楷体_GB2312;mso-hansi-font-family:宋体'>女<o:p></o:p></span></p>
+  </td>
+  <td width=35 style='width:26.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:120%'><span
+  lang=EN-US style='mso-bidi-font-size:10.5pt;line-height:120%;font-family:
+  楷体_GB2312;mso-hansi-font-family:宋体'>32<o:p></o:p></span></p>
+  </td>
+  <td width=56 style='width:42.0pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:120%'><span
+  lang=EN-US style='mso-bidi-font-size:10.5pt;line-height:120%;font-family:
+  楷体_GB2312;mso-hansi-font-family:宋体'>
+其他
+
+<o:p></o:p></span></p>
+  </td>
+  <td width=56 style='width:42.0pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:120%'><span
+  lang=EN-US style='mso-bidi-font-size:10.5pt;line-height:120%;font-family:
+  楷体_GB2312;mso-hansi-font-family:宋体'>
+硕士
+
+<o:p></o:p></span></p>
+  </td>
+  <td width=56 colspan=2 style='width:42.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:120%'><span
+  lang=EN-US style='mso-bidi-font-size:10.5pt;line-height:120%;font-family:
+  楷体_GB2312;mso-hansi-font-family:宋体'>食品安全<o:p></o:p></span></p>
+  </td>
+  <td width=98 style='width:73.5pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:120%'><span
+  lang=EN-US style='mso-bidi-font-size:10.5pt;line-height:120%;font-family:
+  楷体_GB2312;mso-hansi-font-family:宋体'>60<o:p></o:p></span></p>
+  </td>
+  <td width=224 style='width:168.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal style='line-height:120%'><span lang=EN-US
+  style='mso-bidi-font-size:10.5pt;line-height:120%;font-family:楷体_GB2312;
+  mso-hansi-font-family:宋体'>江南大学<o:p></o:p></span></p>
+  </td>
+  <td width=70 style='width:52.5pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal style='line-height:120%'><span lang=EN-US
+  style='mso-bidi-font-size:10.5pt;line-height:120%;font-family:楷体_GB2312;
+  mso-hansi-font-family:宋体'>探针制备<o:p></o:p></span></p>
+  </td>
+  <td width=174 style='width:130.5pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal style='line-height:120%'><span lang=EN-US
+  style='mso-bidi-font-size:10.5pt;line-height:120%;font-family:楷体_GB2312;
+  mso-hansi-font-family:宋体'>220302197601250040<o:p></o:p></span></p>
+  </td>
+  <td width=64 valign=top style='width:48.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal style='line-height:120%'><span lang=EN-US><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ 
+ 
+  
+ <tr style='mso-yfti-irow:2;height:1.0cm'>
+  <td width=70 style='width:52.65pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal style='line-height:120%'><span lang=EN-US
+  style='mso-bidi-font-size:10.5pt;line-height:120%;font-family:楷体_GB2312;
+  mso-hansi-font-family:宋体'>杨震<o:p></o:p></span></p>
+  </td>
+  <td width=35 style='width:26.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:120%'><span
+  lang=EN-US style='mso-bidi-font-size:10.5pt;line-height:120%;font-family:
+  楷体_GB2312;mso-hansi-font-family:宋体'>男<o:p></o:p></span></p>
+  </td>
+  <td width=35 style='width:26.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:120%'><span
+  lang=EN-US style='mso-bidi-font-size:10.5pt;line-height:120%;font-family:
+  楷体_GB2312;mso-hansi-font-family:宋体'>24<o:p></o:p></span></p>
+  </td>
+  <td width=56 style='width:42.0pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:120%'><span
+  lang=EN-US style='mso-bidi-font-size:10.5pt;line-height:120%;font-family:
+  楷体_GB2312;mso-hansi-font-family:宋体'>
+其他
+
+<o:p></o:p></span></p>
+  </td>
+  <td width=56 style='width:42.0pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:120%'><span
+  lang=EN-US style='mso-bidi-font-size:10.5pt;line-height:120%;font-family:
+  楷体_GB2312;mso-hansi-font-family:宋体'>
+学士
+
+<o:p></o:p></span></p>
+  </td>
+  <td width=56 colspan=2 style='width:42.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:120%'><span
+  lang=EN-US style='mso-bidi-font-size:10.5pt;line-height:120%;font-family:
+  楷体_GB2312;mso-hansi-font-family:宋体'>食品安全<o:p></o:p></span></p>
+  </td>
+  <td width=98 style='width:73.5pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:120%'><span
+  lang=EN-US style='mso-bidi-font-size:10.5pt;line-height:120%;font-family:
+  楷体_GB2312;mso-hansi-font-family:宋体'>60<o:p></o:p></span></p>
+  </td>
+  <td width=224 style='width:168.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal style='line-height:120%'><span lang=EN-US
+  style='mso-bidi-font-size:10.5pt;line-height:120%;font-family:楷体_GB2312;
+  mso-hansi-font-family:宋体'>江南大学<o:p></o:p></span></p>
+  </td>
+  <td width=70 style='width:52.5pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal style='line-height:120%'><span lang=EN-US
+  style='mso-bidi-font-size:10.5pt;line-height:120%;font-family:楷体_GB2312;
+  mso-hansi-font-family:宋体'>分析方法<o:p></o:p></span></p>
+  </td>
+  <td width=174 style='width:130.5pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal style='line-height:120%'><span lang=EN-US
+  style='mso-bidi-font-size:10.5pt;line-height:120%;font-family:楷体_GB2312;
+  mso-hansi-font-family:宋体'>220582198401230018<o:p></o:p></span></p>
+  </td>
+  <td width=64 valign=top style='width:48.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal style='line-height:120%'><span lang=EN-US><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ 
+ 
+  
+ <tr style='mso-yfti-irow:2;height:1.0cm'>
+  <td width=70 style='width:52.65pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal style='line-height:120%'><span lang=EN-US
+  style='mso-bidi-font-size:10.5pt;line-height:120%;font-family:楷体_GB2312;
+  mso-hansi-font-family:宋体'>徐欢<o:p></o:p></span></p>
+  </td>
+  <td width=35 style='width:26.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:120%'><span
+  lang=EN-US style='mso-bidi-font-size:10.5pt;line-height:120%;font-family:
+  楷体_GB2312;mso-hansi-font-family:宋体'>女<o:p></o:p></span></p>
+  </td>
+  <td width=35 style='width:26.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:120%'><span
+  lang=EN-US style='mso-bidi-font-size:10.5pt;line-height:120%;font-family:
+  楷体_GB2312;mso-hansi-font-family:宋体'>24<o:p></o:p></span></p>
+  </td>
+  <td width=56 style='width:42.0pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:120%'><span
+  lang=EN-US style='mso-bidi-font-size:10.5pt;line-height:120%;font-family:
+  楷体_GB2312;mso-hansi-font-family:宋体'>
+其他
+
+<o:p></o:p></span></p>
+  </td>
+  <td width=56 style='width:42.0pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:120%'><span
+  lang=EN-US style='mso-bidi-font-size:10.5pt;line-height:120%;font-family:
+  楷体_GB2312;mso-hansi-font-family:宋体'>
+学士
+
+<o:p></o:p></span></p>
+  </td>
+  <td width=56 colspan=2 style='width:42.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:120%'><span
+  lang=EN-US style='mso-bidi-font-size:10.5pt;line-height:120%;font-family:
+  楷体_GB2312;mso-hansi-font-family:宋体'>食品安全<o:p></o:p></span></p>
+  </td>
+  <td width=98 style='width:73.5pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:120%'><span
+  lang=EN-US style='mso-bidi-font-size:10.5pt;line-height:120%;font-family:
+  楷体_GB2312;mso-hansi-font-family:宋体'>60<o:p></o:p></span></p>
+  </td>
+  <td width=224 style='width:168.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal style='line-height:120%'><span lang=EN-US
+  style='mso-bidi-font-size:10.5pt;line-height:120%;font-family:楷体_GB2312;
+  mso-hansi-font-family:宋体'>江南大学<o:p></o:p></span></p>
+  </td>
+  <td width=70 style='width:52.5pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal style='line-height:120%'><span lang=EN-US
+  style='mso-bidi-font-size:10.5pt;line-height:120%;font-family:楷体_GB2312;
+  mso-hansi-font-family:宋体'>分析方法<o:p></o:p></span></p>
+  </td>
+  <td width=174 style='width:130.5pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal style='line-height:120%'><span lang=EN-US
+  style='mso-bidi-font-size:10.5pt;line-height:120%;font-family:楷体_GB2312;
+  mso-hansi-font-family:宋体'>320482198410064400<o:p></o:p></span></p>
+  </td>
+  <td width=64 valign=top style='width:48.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal style='line-height:120%'><span lang=EN-US><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ 
+ 
+  
+ <tr style='mso-yfti-irow:3;height:1.0cm'>
+  <td width=70 style='width:52.65pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal style='line-height:120%'><span lang=EN-US
+  style='mso-bidi-font-size:10.5pt;line-height:120%;font-family:楷体_GB2312;
+  mso-hansi-font-family:宋体'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td width=35 style='width:26.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:120%'><span
+  lang=EN-US style='mso-bidi-font-size:10.5pt;line-height:120%;font-family:
+  楷体_GB2312;mso-hansi-font-family:宋体'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td width=35 style='width:26.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:120%'><span
+  lang=EN-US style='mso-bidi-font-size:10.5pt;line-height:120%;font-family:
+  楷体_GB2312;mso-hansi-font-family:宋体'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td width=56 style='width:42.0pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:120%'><span
+  lang=EN-US style='mso-bidi-font-size:10.5pt;line-height:120%;font-family:
+  楷体_GB2312;mso-hansi-font-family:宋体'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td width=56 style='width:42.0pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:120%'><span
+  lang=EN-US style='mso-bidi-font-size:10.5pt;line-height:120%;font-family:
+  楷体_GB2312;mso-hansi-font-family:宋体'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td width=56 colspan=2 style='width:42.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:120%'><span
+  lang=EN-US style='mso-bidi-font-size:10.5pt;line-height:120%;font-family:
+  楷体_GB2312;mso-hansi-font-family:宋体'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td width=98 style='width:73.5pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:120%'><span
+  lang=EN-US style='mso-bidi-font-size:10.5pt;line-height:120%;font-family:
+  楷体_GB2312;mso-hansi-font-family:宋体'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td width=224 style='width:168.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal style='line-height:120%'><span lang=EN-US
+  style='mso-bidi-font-size:10.5pt;line-height:120%;font-family:楷体_GB2312;
+  mso-hansi-font-family:宋体'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td width=70 style='width:52.5pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal style='line-height:120%'><span lang=EN-US
+  style='mso-bidi-font-size:10.5pt;line-height:120%;font-family:楷体_GB2312;
+  mso-hansi-font-family:宋体'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td width=174 style='width:130.5pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal style='line-height:120%'><span lang=EN-US
+  style='mso-bidi-font-size:10.5pt;line-height:120%;font-family:楷体_GB2312;
+  mso-hansi-font-family:宋体'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td width=64 valign=top style='width:48.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal style='line-height:120%'><span lang=EN-US><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ 
+ <tr style='mso-yfti-irow:3;height:1.0cm'>
+  <td width=70 style='width:52.65pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal style='line-height:120%'><span lang=EN-US
+  style='mso-bidi-font-size:10.5pt;line-height:120%;font-family:楷体_GB2312;
+  mso-hansi-font-family:宋体'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td width=35 style='width:26.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:120%'><span
+  lang=EN-US style='mso-bidi-font-size:10.5pt;line-height:120%;font-family:
+  楷体_GB2312;mso-hansi-font-family:宋体'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td width=35 style='width:26.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:120%'><span
+  lang=EN-US style='mso-bidi-font-size:10.5pt;line-height:120%;font-family:
+  楷体_GB2312;mso-hansi-font-family:宋体'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td width=56 style='width:42.0pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:120%'><span
+  lang=EN-US style='mso-bidi-font-size:10.5pt;line-height:120%;font-family:
+  楷体_GB2312;mso-hansi-font-family:宋体'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td width=56 style='width:42.0pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:120%'><span
+  lang=EN-US style='mso-bidi-font-size:10.5pt;line-height:120%;font-family:
+  楷体_GB2312;mso-hansi-font-family:宋体'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td width=56 colspan=2 style='width:42.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:120%'><span
+  lang=EN-US style='mso-bidi-font-size:10.5pt;line-height:120%;font-family:
+  楷体_GB2312;mso-hansi-font-family:宋体'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td width=98 style='width:73.5pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:120%'><span
+  lang=EN-US style='mso-bidi-font-size:10.5pt;line-height:120%;font-family:
+  楷体_GB2312;mso-hansi-font-family:宋体'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td width=224 style='width:168.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal style='line-height:120%'><span lang=EN-US
+  style='mso-bidi-font-size:10.5pt;line-height:120%;font-family:楷体_GB2312;
+  mso-hansi-font-family:宋体'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td width=70 style='width:52.5pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal style='line-height:120%'><span lang=EN-US
+  style='mso-bidi-font-size:10.5pt;line-height:120%;font-family:楷体_GB2312;
+  mso-hansi-font-family:宋体'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td width=174 style='width:130.5pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal style='line-height:120%'><span lang=EN-US
+  style='mso-bidi-font-size:10.5pt;line-height:120%;font-family:楷体_GB2312;
+  mso-hansi-font-family:宋体'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td width=64 valign=top style='width:48.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal style='line-height:120%'><span lang=EN-US><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ 
+ <tr style='mso-yfti-irow:3;height:1.0cm'>
+  <td width=70 style='width:52.65pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal style='line-height:120%'><span lang=EN-US
+  style='mso-bidi-font-size:10.5pt;line-height:120%;font-family:楷体_GB2312;
+  mso-hansi-font-family:宋体'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td width=35 style='width:26.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:120%'><span
+  lang=EN-US style='mso-bidi-font-size:10.5pt;line-height:120%;font-family:
+  楷体_GB2312;mso-hansi-font-family:宋体'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td width=35 style='width:26.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:120%'><span
+  lang=EN-US style='mso-bidi-font-size:10.5pt;line-height:120%;font-family:
+  楷体_GB2312;mso-hansi-font-family:宋体'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td width=56 style='width:42.0pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:120%'><span
+  lang=EN-US style='mso-bidi-font-size:10.5pt;line-height:120%;font-family:
+  楷体_GB2312;mso-hansi-font-family:宋体'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td width=56 style='width:42.0pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:120%'><span
+  lang=EN-US style='mso-bidi-font-size:10.5pt;line-height:120%;font-family:
+  楷体_GB2312;mso-hansi-font-family:宋体'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td width=56 colspan=2 style='width:42.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:120%'><span
+  lang=EN-US style='mso-bidi-font-size:10.5pt;line-height:120%;font-family:
+  楷体_GB2312;mso-hansi-font-family:宋体'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td width=98 style='width:73.5pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:120%'><span
+  lang=EN-US style='mso-bidi-font-size:10.5pt;line-height:120%;font-family:
+  楷体_GB2312;mso-hansi-font-family:宋体'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td width=224 style='width:168.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal style='line-height:120%'><span lang=EN-US
+  style='mso-bidi-font-size:10.5pt;line-height:120%;font-family:楷体_GB2312;
+  mso-hansi-font-family:宋体'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td width=70 style='width:52.5pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal style='line-height:120%'><span lang=EN-US
+  style='mso-bidi-font-size:10.5pt;line-height:120%;font-family:楷体_GB2312;
+  mso-hansi-font-family:宋体'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td width=174 style='width:130.5pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal style='line-height:120%'><span lang=EN-US
+  style='mso-bidi-font-size:10.5pt;line-height:120%;font-family:楷体_GB2312;
+  mso-hansi-font-family:宋体'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td width=64 valign=top style='width:48.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal style='line-height:120%'><span lang=EN-US><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ 
+ <tr style='mso-yfti-irow:3;height:1.0cm'>
+  <td width=70 style='width:52.65pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal style='line-height:120%'><span lang=EN-US
+  style='mso-bidi-font-size:10.5pt;line-height:120%;font-family:楷体_GB2312;
+  mso-hansi-font-family:宋体'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td width=35 style='width:26.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:120%'><span
+  lang=EN-US style='mso-bidi-font-size:10.5pt;line-height:120%;font-family:
+  楷体_GB2312;mso-hansi-font-family:宋体'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td width=35 style='width:26.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:120%'><span
+  lang=EN-US style='mso-bidi-font-size:10.5pt;line-height:120%;font-family:
+  楷体_GB2312;mso-hansi-font-family:宋体'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td width=56 style='width:42.0pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:120%'><span
+  lang=EN-US style='mso-bidi-font-size:10.5pt;line-height:120%;font-family:
+  楷体_GB2312;mso-hansi-font-family:宋体'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td width=56 style='width:42.0pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:120%'><span
+  lang=EN-US style='mso-bidi-font-size:10.5pt;line-height:120%;font-family:
+  楷体_GB2312;mso-hansi-font-family:宋体'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td width=56 colspan=2 style='width:42.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:120%'><span
+  lang=EN-US style='mso-bidi-font-size:10.5pt;line-height:120%;font-family:
+  楷体_GB2312;mso-hansi-font-family:宋体'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td width=98 style='width:73.5pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:120%'><span
+  lang=EN-US style='mso-bidi-font-size:10.5pt;line-height:120%;font-family:
+  楷体_GB2312;mso-hansi-font-family:宋体'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td width=224 style='width:168.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal style='line-height:120%'><span lang=EN-US
+  style='mso-bidi-font-size:10.5pt;line-height:120%;font-family:楷体_GB2312;
+  mso-hansi-font-family:宋体'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td width=70 style='width:52.5pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal style='line-height:120%'><span lang=EN-US
+  style='mso-bidi-font-size:10.5pt;line-height:120%;font-family:楷体_GB2312;
+  mso-hansi-font-family:宋体'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td width=174 style='width:130.5pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal style='line-height:120%'><span lang=EN-US
+  style='mso-bidi-font-size:10.5pt;line-height:120%;font-family:楷体_GB2312;
+  mso-hansi-font-family:宋体'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td width=64 valign=top style='width:48.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal style='line-height:120%'><span lang=EN-US><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ 
+ 
+ 
+ 
+ 
+ 
+ <![if !supportMisalignedColumns]>
+ <tr height=0>
+  <td width=70 style='border:none'></td>
+  <td width=35 style='border:none'></td>
+  <td width=35 style='border:none'></td>
+  <td width=56 style='border:none'></td>
+  <td width=56 style='border:none'></td>
+  <td width=0 style='border:none'></td>
+  <td width=56 style='border:none'></td>
+  <td width=98 style='border:none'></td>
+  <td width=224 style='border:none'></td>
+  <td width=70 style='border:none'></td>
+  <td width=174 style='border:none'></td>
+  <td width=64 style='border:none'></td>
+ </tr>
+ <![endif]>
+</table>
+
+
+
+</div>
+
+<br clear=all style='page-break-before:always;mso-break-type:section-break'>
+
+<div class=Section3>
+
+<p class=MsoNormal style='line-height:120%'><b style='mso-bidi-font-weight:
+normal'><span style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>四、申请课题经费预算，包括：预算支出科目；金额（万元）；</span><span
+lang=EN-US><br>
+</span></b><b style='mso-bidi-font-weight:normal'><span style='font-family:
+宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>预算根据与理由及年度使用计划。</span><span
+lang=EN-US><o:p></o:p></span></b></p>
+
+<table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width=595
+ style='width:446.4pt;border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-padding-alt:0cm 5.4pt 0cm 5.4pt;mso-border-insideh:.5pt solid windowtext;
+ mso-border-insidev:.5pt solid windowtext'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;height:25.5pt'>
+  <td width=63 rowspan=2 style='width:47.4pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:25.5pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:120%'><span
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>序号</span></p>
+  </td>
+  <td width=203 style='width:152.35pt;border:solid windowtext 1.0pt;border-left:
+  none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:25.5pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:120%'><span
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>科目名称</span></p>
+  </td>
+  <td width=159 style='width:118.95pt;border:solid windowtext 1.0pt;border-left:
+  none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:25.5pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:120%'><span
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>总预算</span></p>
+  </td>
+  <td width=170 style='width:127.7pt;border:solid windowtext 1.0pt;border-left:
+  none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:25.5pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:120%'><span
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>其中</span><span lang=EN-US>:</span><span style="font-family: 宋体">省拨款</span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:1;height:25.5pt'>
+  <td width=203 style='width:152.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:25.5pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:120%'><span
+  lang=EN-US>(1)</span></p>
+  </td>
+  <td width=159 style='width:118.95pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:25.5pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:120%'><span
+  lang=EN-US>(2)</span></p>
+  </td>
+  <td width=170 style='width:127.7pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:25.5pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:120%'><span
+  lang=EN-US>(3)</span></p>
+  </td>
+ </tr>
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ <tr style='mso-yfti-irow:2;height:25.5pt'>
+  <td width=63 style='width:47.4pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:25.5pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:120%'><span
+  lang=EN-US>1</span></p>
+  </td>
+  <td width=203 style='width:152.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:25.5pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:120%'><span
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>
+
+			    一、经费支出	
+</span></p>
+  </td>
+  <td width=159 style='width:118.95pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:25.5pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:120%'><span
+  lang=EN-US style='font-family:楷体_GB2312'>10<o:p></o:p></span></p>
+  </td>
+  <td width=170 style='width:127.7pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:25.5pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:120%'><span
+  lang=EN-US style='font-family:楷体_GB2312'>10<o:p></o:p></span></p>
+  </td>
+ </tr>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ <tr style='mso-yfti-irow:2;height:25.5pt'>
+  <td width=63 style='width:47.4pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:25.5pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:120%'><span
+  lang=EN-US>2</span></p>
+  </td>
+  <td width=203 style='width:152.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:25.5pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:120%'><span
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>
+
+			    1、设备费	
+</span></p>
+  </td>
+  <td width=159 style='width:118.95pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:25.5pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:120%'><span
+  lang=EN-US style='font-family:楷体_GB2312'>1.5<o:p></o:p></span></p>
+  </td>
+  <td width=170 style='width:127.7pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:25.5pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:120%'><span
+  lang=EN-US style='font-family:楷体_GB2312'>1.5<o:p></o:p></span></p>
+  </td>
+ </tr>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ <tr style='mso-yfti-irow:2;height:25.5pt'>
+  <td width=63 style='width:47.4pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:25.5pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:120%'><span
+  lang=EN-US>3</span></p>
+  </td>
+  <td width=203 style='width:152.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:25.5pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:120%'><span
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>
+
+			    （1）购置设备费	
+</span></p>
+  </td>
+  <td width=159 style='width:118.95pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:25.5pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:120%'><span
+  lang=EN-US style='font-family:楷体_GB2312'>0.8<o:p></o:p></span></p>
+  </td>
+  <td width=170 style='width:127.7pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:25.5pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:120%'><span
+  lang=EN-US style='font-family:楷体_GB2312'>0.8<o:p></o:p></span></p>
+  </td>
+ </tr>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ <tr style='mso-yfti-irow:2;height:25.5pt'>
+  <td width=63 style='width:47.4pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:25.5pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:120%'><span
+  lang=EN-US>4</span></p>
+  </td>
+  <td width=203 style='width:152.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:25.5pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:120%'><span
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>
+
+			    （2）试制设备费	
+</span></p>
+  </td>
+  <td width=159 style='width:118.95pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:25.5pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:120%'><span
+  lang=EN-US style='font-family:楷体_GB2312'>0.7<o:p></o:p></span></p>
+  </td>
+  <td width=170 style='width:127.7pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:25.5pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:120%'><span
+  lang=EN-US style='font-family:楷体_GB2312'>0.7<o:p></o:p></span></p>
+  </td>
+ </tr>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ <tr style='mso-yfti-irow:2;height:25.5pt'>
+  <td width=63 style='width:47.4pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:25.5pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:120%'><span
+  lang=EN-US>5</span></p>
+  </td>
+  <td width=203 style='width:152.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:25.5pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:120%'><span
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>
+
+			    （3）设备改造与租赁费	
+</span></p>
+  </td>
+  <td width=159 style='width:118.95pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:25.5pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:120%'><span
+  lang=EN-US style='font-family:楷体_GB2312'>0<o:p></o:p></span></p>
+  </td>
+  <td width=170 style='width:127.7pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:25.5pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:120%'><span
+  lang=EN-US style='font-family:楷体_GB2312'>0<o:p></o:p></span></p>
+  </td>
+ </tr>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ <tr style='mso-yfti-irow:2;height:25.5pt'>
+  <td width=63 style='width:47.4pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:25.5pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:120%'><span
+  lang=EN-US>6</span></p>
+  </td>
+  <td width=203 style='width:152.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:25.5pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:120%'><span
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>
+
+			    2、材料费	
+</span></p>
+  </td>
+  <td width=159 style='width:118.95pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:25.5pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:120%'><span
+  lang=EN-US style='font-family:楷体_GB2312'>3.4<o:p></o:p></span></p>
+  </td>
+  <td width=170 style='width:127.7pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:25.5pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:120%'><span
+  lang=EN-US style='font-family:楷体_GB2312'>3.4<o:p></o:p></span></p>
+  </td>
+ </tr>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ <tr style='mso-yfti-irow:2;height:25.5pt'>
+  <td width=63 style='width:47.4pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:25.5pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:120%'><span
+  lang=EN-US>7</span></p>
+  </td>
+  <td width=203 style='width:152.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:25.5pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:120%'><span
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>
+
+			    3、测试化验加工费	
+</span></p>
+  </td>
+  <td width=159 style='width:118.95pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:25.5pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:120%'><span
+  lang=EN-US style='font-family:楷体_GB2312'>1.3<o:p></o:p></span></p>
+  </td>
+  <td width=170 style='width:127.7pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:25.5pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:120%'><span
+  lang=EN-US style='font-family:楷体_GB2312'>1.3<o:p></o:p></span></p>
+  </td>
+ </tr>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ <tr style='mso-yfti-irow:2;height:25.5pt'>
+  <td width=63 style='width:47.4pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:25.5pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:120%'><span
+  lang=EN-US>8</span></p>
+  </td>
+  <td width=203 style='width:152.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:25.5pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:120%'><span
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>
+
+			    4、燃料动力费	
+</span></p>
+  </td>
+  <td width=159 style='width:118.95pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:25.5pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:120%'><span
+  lang=EN-US style='font-family:楷体_GB2312'>0.6<o:p></o:p></span></p>
+  </td>
+  <td width=170 style='width:127.7pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:25.5pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:120%'><span
+  lang=EN-US style='font-family:楷体_GB2312'>0.6<o:p></o:p></span></p>
+  </td>
+ </tr>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ <tr style='mso-yfti-irow:2;height:25.5pt'>
+  <td width=63 style='width:47.4pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:25.5pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:120%'><span
+  lang=EN-US>9</span></p>
+  </td>
+  <td width=203 style='width:152.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:25.5pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:120%'><span
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>
+
+			    5、差旅费	
+</span></p>
+  </td>
+  <td width=159 style='width:118.95pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:25.5pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:120%'><span
+  lang=EN-US style='font-family:楷体_GB2312'>0.6<o:p></o:p></span></p>
+  </td>
+  <td width=170 style='width:127.7pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:25.5pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:120%'><span
+  lang=EN-US style='font-family:楷体_GB2312'>0.6<o:p></o:p></span></p>
+  </td>
+ </tr>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ <tr style='mso-yfti-irow:2;height:25.5pt'>
+  <td width=63 style='width:47.4pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:25.5pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:120%'><span
+  lang=EN-US>10</span></p>
+  </td>
+  <td width=203 style='width:152.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:25.5pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:120%'><span
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>
+
+			    6、会议费	
+</span></p>
+  </td>
+  <td width=159 style='width:118.95pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:25.5pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:120%'><span
+  lang=EN-US style='font-family:楷体_GB2312'>0.5<o:p></o:p></span></p>
+  </td>
+  <td width=170 style='width:127.7pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:25.5pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:120%'><span
+  lang=EN-US style='font-family:楷体_GB2312'>0.5<o:p></o:p></span></p>
+  </td>
+ </tr>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ <tr style='mso-yfti-irow:2;height:25.5pt'>
+  <td width=63 style='width:47.4pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:25.5pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:120%'><span
+  lang=EN-US>11</span></p>
+  </td>
+  <td width=203 style='width:152.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:25.5pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:120%'><span
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>
+
+			    7、出版费	
+</span></p>
+  </td>
+  <td width=159 style='width:118.95pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:25.5pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:120%'><span
+  lang=EN-US style='font-family:楷体_GB2312'>0.4<o:p></o:p></span></p>
+  </td>
+  <td width=170 style='width:127.7pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:25.5pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:120%'><span
+  lang=EN-US style='font-family:楷体_GB2312'>0.4<o:p></o:p></span></p>
+  </td>
+ </tr>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ <tr style='mso-yfti-irow:2;height:25.5pt'>
+  <td width=63 style='width:47.4pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:25.5pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:120%'><span
+  lang=EN-US>12</span></p>
+  </td>
+  <td width=203 style='width:152.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:25.5pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:120%'><span
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>
+
+			    8、劳务费	
+</span></p>
+  </td>
+  <td width=159 style='width:118.95pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:25.5pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:120%'><span
+  lang=EN-US style='font-family:楷体_GB2312'>1.0<o:p></o:p></span></p>
+  </td>
+  <td width=170 style='width:127.7pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:25.5pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:120%'><span
+  lang=EN-US style='font-family:楷体_GB2312'>1.0<o:p></o:p></span></p>
+  </td>
+ </tr>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ <tr style='mso-yfti-irow:2;height:25.5pt'>
+  <td width=63 style='width:47.4pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:25.5pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:120%'><span
+  lang=EN-US>13</span></p>
+  </td>
+  <td width=203 style='width:152.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:25.5pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:120%'><span
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>
+
+			    9、管理费	
+</span></p>
+  </td>
+  <td width=159 style='width:118.95pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:25.5pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:120%'><span
+  lang=EN-US style='font-family:楷体_GB2312'>0.7<o:p></o:p></span></p>
+  </td>
+  <td width=170 style='width:127.7pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:25.5pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:120%'><span
+  lang=EN-US style='font-family:楷体_GB2312'>0.7<o:p></o:p></span></p>
+  </td>
+ </tr>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ <tr style='mso-yfti-irow:2;height:25.5pt'>
+  <td width=63 style='width:47.4pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:25.5pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:120%'><span
+  lang=EN-US>14</span></p>
+  </td>
+  <td width=203 style='width:152.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:25.5pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:120%'><span
+  style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+  "Times New Roman"'>
+
+			    10、其他	
+</span></p>
+  </td>
+  <td width=159 style='width:118.95pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:25.5pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:120%'><span
+  lang=EN-US style='font-family:楷体_GB2312'>0<o:p></o:p></span></p>
+  </td>
+  <td width=170 style='width:127.7pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:25.5pt'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:120%'><span
+  lang=EN-US style='font-family:楷体_GB2312'>0<o:p></o:p></span></p>
+  </td>
+ </tr>
+ 
+ 
+ 
+ 
+ 
+</table>
+
+<p class=MsoNormal style='line-height:120%'><span lang=EN-US><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='line-height:120%'><span lang=EN-US style='font-size:
+12.0pt;line-height:120%;font-family:仿宋_GB2312'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='line-height:120%'><span lang=EN-US style='font-size:
+12.0pt;line-height:120%;font-family:仿宋_GB2312'><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span><o:p></o:p></span></p>
+
+<span lang=EN-US style='font-size:10.5pt;mso-bidi-font-size:10.0pt;line-height:
+150%;font-family:"Times New Roman";mso-fareast-font-family:宋体;mso-font-kerning:
+1.0pt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:
+AR-SA'><br clear=all style='page-break-before:always'>
+</span>
+
+<p class=MsoNormal style='line-height:120%'><b style='mso-bidi-font-weight:
+normal'><span style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>五、推荐意见（申请者不具备高级专业技术职务或职称的须由两名同行高级科技人员推荐），推荐意见要说明课题的意义和取得预期成果的可能性，申请者和课题组的学术水平及研究能力、现有工作条件等（课题组成员不得做推荐人）。推荐者姓名（签章）、专业技术职务、专长、所在单位。</span><span
+lang=EN-US><o:p></o:p></span></b></p>
+
+<table class=MsoTableGrid border=1 cellspacing=0 cellpadding=0
+ style='border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-yfti-tbllook:480;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;mso-border-insideh:
+ .5pt solid windowtext;mso-border-insidev:.5pt solid windowtext'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes'>
+  <td width=569 valign=top style='width:426.45pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='text-indent:21.0pt;mso-char-indent-count:2.0;
+  line-height:120%'><span lang=EN-US>
+
+  无
+  
+</span></p>
+  <p class=MsoNormal style='line-height:120%'><span lang=EN-US><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+</table>
+
+<span lang=EN-US style='font-size:10.5pt;mso-bidi-font-size:10.0pt;line-height:
+150%;font-family:"Times New Roman";mso-fareast-font-family:宋体;mso-font-kerning:
+1.0pt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:
+AR-SA'><br clear=all style='page-break-before:always'>
+</span>
+
+<p class=MsoNormal style='line-height:120%'><b style='mso-bidi-font-weight:
+normal'><span style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>六、申请者承诺</span><span lang=EN-US><o:p></o:p></span></b></p>
+
+<p class=MsoNormal style='line-height:120%'><span lang=EN-US style='font-size:
+12.0pt;line-height:120%;font-family:仿宋_GB2312;mso-bidi-font-family:宋体'><span
+style='mso-spacerun:yes'>&nbsp; </span></span><span lang=EN-US
+style='font-size:12.0pt;line-height:120%;font-family:仿宋_GB2312'><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;</span></span><span style='font-size:12.0pt;
+line-height:120%;font-family:仿宋_GB2312;mso-bidi-font-family:宋体'>我保证上述填报内容的真实性。如果获得资助，我与本项目组成员将严格遵守《江苏省自然科学基金委员会基金管理办法》及有关科技计划的管理规定，切实保证研究工作时间，按计划认真开展研究工作，按时报送有关材料，及时报告重大情况变动，对资助项目发表的论文论著和取得的研究成果标注“江苏省基础研究计划（自然科学基金）资助项目”及项目编号。</span><span
+lang=EN-US style='font-size:12.0pt;line-height:120%;font-family:仿宋_GB2312'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='line-height:130%'><span lang=EN-US style='font-size:
+12.0pt;line-height:130%;font-family:仿宋_GB2312'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='line-height:130%'><span lang=EN-US style='font-size:
+12.0pt;line-height:130%;font-family:仿宋_GB2312'><span style='mso-tab-count:12'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span
+style='mso-spacerun:yes'>&nbsp;</span></span><span style='font-size:12.0pt;
+line-height:130%;font-family:仿宋_GB2312;mso-bidi-font-family:宋体'>申请者（签章）</span><span
+lang=EN-US style='font-size:12.0pt;line-height:130%;font-family:仿宋_GB2312'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='line-height:130%'><span lang=EN-US style='font-size:
+12.0pt;line-height:130%;font-family:仿宋_GB2312'><span style='mso-tab-count:14'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span
+style='mso-spacerun:yes'>&nbsp;&nbsp; </span></span><span style='font-size:
+12.0pt;line-height:130%;font-family:仿宋_GB2312;mso-bidi-font-family:宋体'>年</span><span
+lang=EN-US style='font-size:12.0pt;line-height:130%;font-family:仿宋_GB2312'><span
+style='mso-spacerun:yes'>&nbsp; </span></span><span style='font-size:12.0pt;
+line-height:130%;font-family:仿宋_GB2312;mso-bidi-font-family:宋体'>月</span><span
+lang=EN-US style='font-size:12.0pt;line-height:130%;font-family:仿宋_GB2312'><span
+style='mso-spacerun:yes'>&nbsp; </span></span><span style='font-size:12.0pt;
+line-height:130%;font-family:仿宋_GB2312;mso-bidi-font-family:宋体'>日</span><span
+lang=EN-US style='font-size:12.0pt;line-height:130%;font-family:仿宋_GB2312'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='line-height:130%'><span lang=EN-US style='font-size:
+12.0pt;line-height:130%;font-family:仿宋_GB2312;mso-bidi-font-family:宋体'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='line-height:120%'><b style='mso-bidi-font-weight:
+normal'><span style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>七、合作单位意见：</span><span lang=EN-US><o:p></o:p></span></b></p>
+
+<p class=MsoNormal style='line-height:130%'><span lang=EN-US style='font-size:
+12.0pt;line-height:130%;font-family:仿宋_GB2312'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='line-height:130%'><span lang=EN-US style='font-size:
+12.0pt;line-height:130%;font-family:仿宋_GB2312'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='line-height:130%'><span lang=EN-US style='font-size:
+12.0pt;line-height:130%;font-family:仿宋_GB2312'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='line-height:130%'><span lang=EN-US style='font-size:
+12.0pt;line-height:130%;font-family:仿宋_GB2312'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='line-height:130%'><span lang=EN-US style='font-size:
+12.0pt;line-height:130%;font-family:仿宋_GB2312'><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;</span></span><span
+style='font-size:12.0pt;line-height:130%;font-family:仿宋_GB2312;mso-bidi-font-family:
+宋体'>（公章）</span><span lang=EN-US style='font-size:12.0pt;line-height:130%;
+font-family:仿宋_GB2312'><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span style='font-size:12.0pt;line-height:130%;font-family:仿宋_GB2312;
+mso-bidi-font-family:宋体'>年</span><span lang=EN-US style='font-size:12.0pt;
+line-height:130%;font-family:仿宋_GB2312'><span style='mso-spacerun:yes'>&nbsp;
+</span></span><span style='font-size:12.0pt;line-height:130%;font-family:仿宋_GB2312;
+mso-bidi-font-family:宋体'>月</span><span lang=EN-US style='font-size:12.0pt;
+line-height:130%;font-family:仿宋_GB2312'><span style='mso-spacerun:yes'>&nbsp;
+</span></span><span style='font-size:12.0pt;line-height:130%;font-family:仿宋_GB2312;
+mso-bidi-font-family:宋体'>日</span><span lang=EN-US style='font-size:12.0pt;
+line-height:130%;font-family:仿宋_GB2312'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='line-height:130%'><span lang=EN-US style='font-size:
+12.0pt;line-height:130%;font-family:仿宋_GB2312'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='line-height:120%'><b style='mso-bidi-font-weight:
+normal'><span style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>八、申请者所在单位审查意见：</span><span lang=EN-US><o:p></o:p></span></b></p>
+
+<p class=MsoNormal style='line-height:130%'><span lang=EN-US style='font-size:
+12.0pt;line-height:130%;font-family:仿宋_GB2312'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='line-height:130%'><span lang=EN-US style='font-size:
+12.0pt;line-height:130%;font-family:仿宋_GB2312'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='line-height:130%'><span lang=EN-US style='font-size:
+12.0pt;line-height:130%;font-family:仿宋_GB2312'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='line-height:130%'><span lang=EN-US style='font-size:
+12.0pt;line-height:130%;font-family:仿宋_GB2312'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='line-height:130%'><span lang=EN-US style='font-size:
+12.0pt;line-height:130%;font-family:仿宋_GB2312'><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span style='font-size:12.0pt;line-height:130%;font-family:仿宋_GB2312;
+mso-bidi-font-family:宋体'>主管领导（签章）</span><span lang=EN-US style='font-size:12.0pt;
+line-height:130%;font-family:仿宋_GB2312'><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span
+style='font-size:12.0pt;line-height:130%;font-family:仿宋_GB2312;mso-bidi-font-family:
+宋体'>单位（公章）</span><span lang=EN-US style='font-size:12.0pt;line-height:130%;
+font-family:仿宋_GB2312'><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span style='font-size:12.0pt;line-height:130%;font-family:仿宋_GB2312;
+mso-bidi-font-family:宋体'>年</span><span lang=EN-US style='font-size:12.0pt;
+line-height:130%;font-family:仿宋_GB2312'><span style='mso-spacerun:yes'>&nbsp;
+</span></span><span style='font-size:12.0pt;line-height:130%;font-family:仿宋_GB2312;
+mso-bidi-font-family:宋体'>月</span><span lang=EN-US style='font-size:12.0pt;
+line-height:130%;font-family:仿宋_GB2312'><span style='mso-spacerun:yes'>&nbsp;
+</span></span><span style='font-size:12.0pt;line-height:130%;font-family:仿宋_GB2312;
+mso-bidi-font-family:宋体'>日</span><span lang=EN-US style='font-size:12.0pt;
+line-height:130%;font-family:仿宋_GB2312'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='line-height:130%'><span lang=EN-US style='font-size:
+12.0pt;line-height:130%;font-family:仿宋_GB2312'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='line-height:120%'><b style='mso-bidi-font-weight:
+normal'><span style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman"'>九、主管或推荐部门审查意见：</span><span lang=EN-US><o:p></o:p></span></b></p>
+
+<p class=MsoNormal style='line-height:130%'><span lang=EN-US style='font-size:
+12.0pt;line-height:130%;font-family:仿宋_GB2312'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='line-height:130%'><span lang=EN-US style='font-size:
+12.0pt;line-height:130%;font-family:仿宋_GB2312'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='line-height:130%'><span lang=EN-US style='font-size:
+12.0pt;line-height:130%;font-family:仿宋_GB2312'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='line-height:130%'><span lang=EN-US style='font-size:
+12.0pt;line-height:130%;font-family:仿宋_GB2312'><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span style='font-size:12.0pt;line-height:130%;font-family:仿宋_GB2312;
+mso-bidi-font-family:宋体'>（公章）</span><span lang=EN-US style='font-size:12.0pt;
+line-height:130%;font-family:仿宋_GB2312'><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span style='font-size:12.0pt;line-height:130%;font-family:仿宋_GB2312;
+mso-bidi-font-family:宋体'>年</span><span lang=EN-US style='font-size:12.0pt;
+line-height:130%;font-family:仿宋_GB2312'><span style='mso-spacerun:yes'>&nbsp;
+</span></span><span style='font-size:12.0pt;line-height:130%;font-family:仿宋_GB2312;
+mso-bidi-font-family:宋体'>月</span><span lang=EN-US style='font-size:12.0pt;
+line-height:130%;font-family:仿宋_GB2312'><span style='mso-spacerun:yes'>&nbsp;
+</span></span><span style='font-size:12.0pt;line-height:130%;font-family:仿宋_GB2312;
+mso-bidi-font-family:宋体'>日</span><span lang=EN-US style='font-size:12.0pt;
+line-height:130%;font-family:仿宋_GB2312'><o:p></o:p></span></p>
+
+<span lang=EN-US style='font-size:10.5pt;mso-bidi-font-size:10.0pt;line-height:
+150%;font-family:"Times New Roman";mso-fareast-font-family:宋体;mso-font-kerning:
+1.0pt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:
+AR-SA'><br clear=all style='page-break-before:always'>
+</span>
+<p class=MsoNormal style='line-height:150%'><b style='mso-bidi-font-weight:
+normal'><span style='font-size:14.0pt;line-height:120%;font-family:仿宋_GB2312'>本项目申报书所附的附件清单<span
+lang=EN-US><o:p></o:p></span></span></b></p>
+
+<table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width=560
+ style='width:420.15pt;border-collapse:collapse;border:none;mso-border-alt:
+ solid windowtext .5pt;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;mso-border-insideh:
+ .5pt solid windowtext;mso-border-insidev:.5pt solid windowtext'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td width=560 valign=top style='width:420.15pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='line-height:150%'><span style='font-size:14.0pt;
+  line-height:120%;font-family:仿宋_GB2312'>附件名称（复印件）<span lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+ </tr>
+ 
+ 
+ 
+ 
+   
+
+</table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p class=MsoNormal style='line-height:120%'><span lang=EN-US style='font-size:
+12.0pt;line-height:120%;font-family:仿宋_GB2312'><o:p>&nbsp;</o:p></span></p>
+
+</div>
+
+</body>
+
+</html>
